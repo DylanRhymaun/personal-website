@@ -5,7 +5,7 @@ main {
     grid-gap: 1%;
 }
 
-
+/*    ################### SECTION ASSIGNMENT ###################    */
 main section:first-child {
     grid-area: box1;
 }
@@ -14,33 +14,22 @@ main section:nth-child(2) {
     grid-area: box2;
 }
 
-.sidebar {
-    position: fixed; 
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 23%; 
-    background-color: rgba(255, 255, 255, 0.541);
-    z-index: 1; 
-    padding-left: 1%;
-    margin-left: 2%;
-    overflow-y: auto;
-    border-right: solid .1em white;
-    border-left: solid .1em white;
+/*    ################### SECTION SIZING ###################    */
+
+main section:first-child {
+    margin-left: 40%;
+    margin-top: 40%;
+    margin-bottom: -50%;
+    padding: 2%; 
+
 }
 
-.sidebarNoBG {
-    position: fixed; 
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 23%; 
-    z-index: 1; 
-    padding-left: 1%;
-    margin-left: 2%;
-    overflow-y: auto;
-    border-right: solid .1em white;
-    border-left: solid .1em white;
+main section:nth-child(2) {
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: -50%;
+    padding: 2%; 
+
 }
 
 body, html {

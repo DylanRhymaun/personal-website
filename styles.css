@@ -9,27 +9,10 @@ body {
 /*    ################### TESTING ###################    */
 
 section {
-    border: 1px solid #141414; /
+    border: 1px solid #000000; /
     margin: 10px; 
 }
 
-/*    ################### SECTION ###################    */
-
-main section:first-child {
-    margin-left: 40%;
-    margin-top: 40%;
-    margin-bottom: -50%;
-    padding: 2%; 
-
-}
-
-main section:nth-child(2) {
-    margin-right: 15%;
-    margin-top: 10%;
-    margin-bottom: -50%;
-    padding: 2%; 
-
-}
 
 /*    ################### HEADER ###################    */
 .logo {
@@ -80,6 +63,16 @@ a:hover {
 /*    ################### Body ###################    */
 
 p {
+    /* Text Color */
     color: white;
 }
 
+/*    ################### Icons ###################    */
+.social-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+.social-icons a {
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;

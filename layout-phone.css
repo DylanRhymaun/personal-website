@@ -14,6 +14,24 @@ main section:nth-child(2) {
     grid-area: box2;
 }
 
+/*    ################### SECTION SIZING ###################    */
+
+main section:first-child {
+    margin-top: 40%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+main section:nth-child(2) {
+
+}
+
+main section {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2.5%
+}
+
 #video-background {
     position: fixed;
     top: 0;
@@ -36,4 +54,8 @@ main section:nth-child(2) {
     margin: 1px; 
     object-fit: contain;
     transition: max-width 0.3s;
+}
+
+p {
+    text-align: center;
 }
