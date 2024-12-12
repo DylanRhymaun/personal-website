@@ -14,7 +14,7 @@ main section:nth-child(2) {
     grid-area: box2;
 }
 
-/*    ################### SECTION SIZING ###################    */
+/*    ################### SECTION LAYOUT ###################    */
 
 main section:first-child {
     margin-top: 40%;
@@ -56,6 +56,3 @@ main section {
     transition: max-width 0.3s;
 }
 
-p {
-    text-align: center;
-}
