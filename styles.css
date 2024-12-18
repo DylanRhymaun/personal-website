@@ -37,32 +37,6 @@ main section:first-child p {
     margin: 0;
     
 }
-.logo:hover{
-    font-size: 45px;
-}
-
-/*    ################### Nav ###################    */
-nav {
-    text-align: center;
-    font-family: "Prompt", sans-serif;
-    font-size: 18pt;
-}
-nav a:link:not(.activePage) {
-    text-decoration: none;
-}
-nav a {
-    color:white;
-    display: inline-block;
-    padding-left: 1%;
-    padding-right: 1%;
-    position: relative; 
-    transition: transform 0.2s ease-in-out;
-}
-a:hover {
-    cursor: pointer;
-    color: rgb(141, 206, 250);
-    transform: translateY(-5px);
-}
 
 /*    ################### Body ###################    */
 
