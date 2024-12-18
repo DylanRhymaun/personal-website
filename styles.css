@@ -45,6 +45,11 @@ p {
     color: white;
 }
 
+.nav {
+    color: white; /* Change the link color to white */
+}
+
+
 /*    ################### Icons ###################    */
 .social-icons {
     text-align: center;

@@ -34,11 +34,11 @@
                 <h1 class="logo">Dylan A. Rhymaun</h1>
             </header>
             <p>This is my personal website. It's under construction.</p>
-            <p>About</p>
-            <p>Digital 3D</p>
-            <p>Digital 2D</p>
-            <p>Writing</p>
-            <p>Games</p>
+            <p><a href="#" onclick="showSection('about')" class="nav">About</a></p>
+            <p><a href="#" onclick="showSection('digital-3d')" class="nav">Digital 3D</a></p>
+            <p><a href="#" onclick="showSection('digital-2d')" class="nav">Digital 2D</a></p>
+            <p><a href="#" onclick="showSection('writing')" class="nav">Writing</a></p>
+            <p><a href="#" onclick="showSection('games')" class="nav">Games</a></p>
 
             <div class="social-icons">
                 <a href="https://twitter.com/DylnRhyman" target="_blank" aria-label="Follow me on Twitter">
@@ -54,10 +54,47 @@
             <p>&copy; 2024 Dylan Rhymaun MMXXV</p>
         </section>
 
-        <section>
-            <p></p>
+        <section id="about" class="content" style="display: none;">
+            <h2>About</h2>
+            <p>This is the About section.</p>
+        </section>
+
+        <section id="digital-3d" class="content" style="display: none;">
+            <h2>Digital 3D</h2>
+            <p>This is the Digital 3D section.</p>
+        </section>
+
+        <section id="digital-2d" class="content" style="display: none;">
+            <h2>Digital 2D</h2>
+            <p>This is the Digital 2D section.</p>
+        </section>
+
+        <section id="writing" class="content" style="display: none;">
+            <h2>Writing</h2>
+            <p>This is the Writing section.</p>
+        </section>
+
+        <section id="games" class="content" style="display: none;">
+            <h2>Games</h2>
+            <p>This is the Games section.</p>
         </section>
     </main>
 
+    <script>
+        function showSection(sectionId) {
+            // Hide all sections
+            const sections = document.querySelectorAll('.content');
+            sections.forEach(section => {
+                section.style.display = 'none';
+            });
+    
+            // Show the selected section
+            const selectedSection = document.getElementById(sectionId);
+            if (selectedSection) {
+                selectedSection.style.display = 'block';
+            }
+        }
+    </script>
+    
 </body>
 </html>
