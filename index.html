@@ -127,13 +127,25 @@
 
         <section id="fun-stuff" class="content" style="display: none;">
             <h2>Blog</h2>
-            <p>This is the just-for-fun section. More to come.</p>
+            <ul>
+                <li><a href="#" onclick="loadArticle('fun-article1.txt')">Fun Article 1</a></li>
+                <li><a href="#" onclick="loadArticle('fun-article2.txt')">Fun Article 2</a></li>
+            </ul>
+            <div id="article-content"></div> <!-- This is where the article will load -->
+            <button onclick="goBackToIndex()">Back to Index</button>
         </section>
-
+        
         <section id="professional-stuff" class="content" style="display: none;">
-            <h2>Essays and Articles</h2>
-            <p>This is the professional writing section. More to come.</p>
+            <h2>Articles & Essays</h2>
+            <ul>
+                <li><a href="#" onclick="loadArticle('pro-article1.txt')">Professional Article 1</a></li>
+                <li><a href="#" onclick="loadArticle('pro-article2.txt')">Professional Article 2</a></li>
+            </ul>
+            <div id="article-content"></div> <!-- Another placeholder for content -->
+            <button onclick="goBackToIndex()">Back to Index</button>
         </section>
+        
+        
 
         <section id="games" class="content" style="display: none;">
             <h2>Games</h2>
@@ -142,55 +154,81 @@
     </main>
 <!-- ####################################################################### --> 
 
-    <script>
-        function showSection(sectionId) {
-            // Hide all sections
-            const sections = document.querySelectorAll('.content');
-            sections.forEach(section => {
-                section.style.display = 'none';
-            });
+        <script>
+            function showSection(sectionId) {
+                // Hide all sections
+                const sections = document.querySelectorAll('.content');
+                sections.forEach(section => {
+                    section.style.display = 'none';
+                });
 
-            // Show the selected section
-            const selectedSection = document.getElementById(sectionId);
-            if (selectedSection) {
-                selectedSection.style.display = 'block';
+                // Show the selected section
+                const selectedSection = document.getElementById(sectionId);
+                if (selectedSection) {
+                    selectedSection.style.display = 'block';
+                }
+
+                // Hide all sub-navs
+                const subNavs = document.querySelectorAll('.sub-nav');
+                subNavs.forEach(subNav => {
+                    subNav.style.display = 'none';
+                });
             }
 
-            // Hide all sub-navs
-            const subNavs = document.querySelectorAll('.sub-nav');
-            subNavs.forEach(subNav => {
-                subNav.style.display = 'none';
-            });
-        }
+            function showSubNav(subNavId) {
+                // Show the selected sub-nav
+                const selectedSubNav = document.getElementById(subNavId);
 
-        function showSubNav(subNavId) {
-            // Show the selected sub-nav
-            const selectedSubNav = document.getElementById(subNavId);
+                if (selectedSubNav) {
+                    // Toggle the visibility of the sub-nav
+                    const isSubNavVisible = selectedSubNav.style.display === 'block';
+                    const visibleSection = Array.from(document.querySelectorAll('.content'))
+                        .find(section => section.style.display === 'block' && selectedSubNav.contains(section));
 
-        if (selectedSubNav) {
-            // Toggle the visibility of the sub-nav
-            const isSubNavVisible = selectedSubNav.style.display === 'block';
-            const visibleSection = Array.from(document.querySelectorAll('.content'))
-                .find(section => section.style.display === 'block' && selectedSubNav.contains(section));
+                    // Hide all other sub-navs
+                    const subNavs = document.querySelectorAll('.sub-nav');
+                    subNavs.forEach(subNav => {
+                        subNav.style.display = 'none';
+                    });
 
-            // Hide all other sub-navs
-            const subNavs = document.querySelectorAll('.sub-nav');
-            subNavs.forEach(subNav => {
-                subNav.style.display = 'none';
-            });
+                    // Show or hide the sub-nav based on its current state
+                    selectedSubNav.style.display = isSubNavVisible ? 'none' : 'block';
 
-            // Show or hide the sub-nav based on its current state
-            selectedSubNav.style.display = isSubNavVisible ? 'none' : 'block';
-
-            // Keep the visible section open if it's part of this sub-nav
-            if (visibleSection) {
-                visibleSection.style.display = 'block';
+                    // Keep the visible section open if it's part of this sub-nav
+                    if (visibleSection) {
+                        visibleSection.style.display = 'block';
+                    }
+                }
             }
-        }
-    }
 
+            function loadArticle(articlePath) {
+                const contentDiv = document.getElementById('article-content'); // Selects the content area
+                if (!contentDiv) {
+                    console.error("Element with id 'article-content' not found.");
+                    return; // Prevent further execution if the element is missing
+                }
 
-    </script>
-    
+                fetch(articlePath)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Failed to load article');
+                        }
+                        return response.text();
+                    })
+                    .then(data => {
+                        contentDiv.innerHTML = data; // Insert the article content here
+                    })
+                    .catch(error => {
+                        contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
+                    });
+            }
+
+            function goBackToIndex() {
+                const contentDiv = document.getElementById('article-content');
+                if (contentDiv) {
+                    contentDiv.innerHTML = ''; // Clears the content
+                }
+            }
+        </script>
     </body>
 </html>
