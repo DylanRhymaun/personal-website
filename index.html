@@ -37,8 +37,16 @@
             <p><a href="#" onclick="showSection('about')" class="nav">About</a></p>
             <p><a href="#" onclick="showSection('digital-3d')" class="nav">Digital 3D</a></p>
             <p><a href="#" onclick="showSection('digital-2d')" class="nav">Digital 2D</a></p>
-            <p><a href="#" onclick="showSection('writing')" class="nav">Writing</a></p>
+            <p><a href="#" onclick="showSubNav('writing-subnav')" class="nav">Writing</a></p>
+
+            <div id="writing-subnav" class="sub-nav" style="display: none;">
+                <p><a href="#" onclick="showSection('fun-stuff')" class="sub-nav-link">Fun Stuff</a></p>
+                <p><a href="#" onclick="showSection('professional-stuff')" class="sub-nav-link">Professional Stuff</a></p>
+            </div>
+
             <p><a href="#" onclick="showSection('games')" class="nav">Games</a></p>
+
+
 
             <div class="social-icons">
                 <a href="https://twitter.com/DylnRhyman" target="_blank" aria-label="Follow me on Twitter">
@@ -51,12 +59,12 @@
                     <i class="fab fa-github"></i>
                 </a>
             </div>
-            <p>&copy; 2024 Dylan Rhymaun MMXXV</p>
+            <p>&copy; 2025 Dylan Rhymaun MMXXV</p>
         </section>
 
         <section id="about" class="content" style="display: none;">
             <h2>About</h2>
-            <p>Hi! Thanks for visiting the site. My name is Dylan Rhymaun and I wear a few hats. I an undergraduate advisor at the University of Vermont's College of Nursing and Health Sciences, and I'm pursuing a self designed M.Ed. in Arts Advocacy. The purpose of this site is to show off some of my artwork, diary my programming education and game development, and to occassionally blog about random stuff I care about (movies, music, food, whatever). <br>Also excuse the URL forwarding - squarespace is being annoying and won't let me transfer my domain to another host, so I need to use this method until my subscription runs out :/<br></p>
+            <p>Hi! Thanks for visiting the site. My name is Dylan Rhymaun and I wear a few hats. I an undergraduate advisor at the University of Vermont's College of Nursing and Health Sciences, and I'm pursuing a self designed M.Ed. in Arts Advocacy. The purpose of this site is to show off some of my artwork, diary my programming education and game development, and to occassionally blog about random stuff I care about (movies, music, food, whatever). <br> <br>Also excuse the URL forwarding - squarespace is being annoying and won't let me transfer my domain to another host, so I need to use this method until my subscription runs out :/<br></p>
         </section>
 
         <section id="digital-3d" class="content" style="display: none;">
@@ -117,9 +125,14 @@
 
         </section>
 
-        <section id="writing" class="content" style="display: none;">
-            <h2>Writing</h2>
-            <p>This is the Writing section. More to come.</p>
+        <section id="fun-stuff" class="content" style="display: none;">
+            <h2>Blog</h2>
+            <p>This is the just-for-fun section. More to come.</p>
+        </section>
+
+        <section id="professional-stuff" class="content" style="display: none;">
+            <h2>Essays and Articles</h2>
+            <p>This is the professional writing section. More to come.</p>
         </section>
 
         <section id="games" class="content" style="display: none;">
@@ -127,6 +140,7 @@
             <p>This is the Games section. More to come.</p>
         </section>
     </main>
+<!-- ####################################################################### --> 
 
     <script>
         function showSection(sectionId) {
@@ -135,14 +149,48 @@
             sections.forEach(section => {
                 section.style.display = 'none';
             });
-    
+
             // Show the selected section
             const selectedSection = document.getElementById(sectionId);
             if (selectedSection) {
                 selectedSection.style.display = 'block';
             }
+
+            // Hide all sub-navs
+            const subNavs = document.querySelectorAll('.sub-nav');
+            subNavs.forEach(subNav => {
+                subNav.style.display = 'none';
+            });
         }
+
+        function showSubNav(subNavId) {
+            // Show the selected sub-nav
+            const selectedSubNav = document.getElementById(subNavId);
+
+        if (selectedSubNav) {
+            // Toggle the visibility of the sub-nav
+            const isSubNavVisible = selectedSubNav.style.display === 'block';
+            const visibleSection = Array.from(document.querySelectorAll('.content'))
+                .find(section => section.style.display === 'block' && selectedSubNav.contains(section));
+
+            // Hide all other sub-navs
+            const subNavs = document.querySelectorAll('.sub-nav');
+            subNavs.forEach(subNav => {
+                subNav.style.display = 'none';
+            });
+
+            // Show or hide the sub-nav based on its current state
+            selectedSubNav.style.display = isSubNavVisible ? 'none' : 'block';
+
+            // Keep the visible section open if it's part of this sub-nav
+            if (visibleSection) {
+                visibleSection.style.display = 'block';
+            }
+        }
+    }
+
+
     </script>
     
-</body>
+    </body>
 </html>

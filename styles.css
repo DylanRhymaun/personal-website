@@ -38,15 +38,24 @@ main section:first-child p {
     
 }
 
+h2 {
+    color: white;
+}
+
 /*    ################### Body ###################    */
 
 p {
-    /* Text Color */
     color: white;
 }
 
 .nav {
-    color: white; /* Change the link color to white */
+    color: white; 
+}
+
+.sub-nav-link {
+    color: white;
+    font-style: italic;
+
 }
 
 
