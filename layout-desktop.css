@@ -31,7 +31,7 @@ main section:nth-child(n+2) {
     padding: 2%; 
 
 }
-
+/*
 body, html {
     margin: 0;
     padding: 0;
@@ -52,12 +52,18 @@ body, html {
     flex-wrap: wrap;
     justify-content: center; 
 }
+    */
 
-.art img {
-    max-width: 20%; 
+img {
+    max-width: 35%; 
     width: auto;
     height: auto; 
     margin: 5px; 
     object-fit: contain;
-    transition: max-width 0.3s;
+    transition: max-width 0.3s; 
 }
+
+img:hover {
+    max-width: 62%; 
+}
+    
