@@ -259,12 +259,18 @@
                         return response.text();
                     })
                     .then(data => {
-                        contentDiv.innerHTML = data; // Insert the article content here
+                        // Automatically add <p> tags to separate paragraphs
+                        const formattedContent = data
+                            .split(/\n\s*\n/) // Split at blank lines (paragraph breaks)
+                            .map(para => `<p>${para.trim()}</p>`) // Wrap each in <p> tags
+                            .join(""); // Rejoin the array into a single string
+                        contentDiv.innerHTML = formattedContent; // Insert the formatted content
                     })
                     .catch(error => {
                         contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
                     });
             }
+
 
             function goBackToIndex() {
                 const contentDiv = document.getElementById('article-content');
