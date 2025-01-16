@@ -37,7 +37,7 @@
             <p><a href="#" onclick="showSection('about')" class="nav">About</a></p>
             <p><a href="#" onclick="showSection('digital-3d')" class="nav">Digital 3D</a></p>
             <p><a href="#" onclick="showSection('digital-2d')" class="nav">Digital 2D</a></p>
-            <p><a href="#" onclick="showSubNav('writing-subnav')" class="nav">Writing</a></p>
+            <p><a href="#" onclick="showSection('writing')" class="nav">Writing</a></p>
 
             <div id="writing-subnav" class="sub-nav" style="display: none;">
                 <p><a href="#" onclick="showSection('fun-stuff')" class="sub-nav-link">Fun Stuff</a></p>
@@ -128,17 +128,12 @@
 
         </section>
 
-        <section id="fun-stuff" class="content" style="display: none;">
+        <section id="writing" class="content" style="display: none;">
             <h2>Blog</h2>
             <ul>
                 <li><a href="#" onclick="loadArticle('writ-fun/albumsof2024.txt')">My 15 Favorite Albums of 2024</a></li>
                 <li><a href="#" onclick="loadArticle('writ-fun/songsof2024.txt')">My 20 favorite songs of 2024</a></li>
             </ul>
-            <div id="article-content"></div> 
-            <button onclick="goBackToIndex()">Back to Index</button>
-        </section>
-        
-        <section id="professional-stuff" class="content" style="display: none;">
             <h2>Articles & Essays</h2>
             <ul>
                 <li><a href="#" onclick="loadArticle('writ-prof/timeloopsminit.txt')">Time Loops and Escapism in Minit</a></li>
@@ -154,13 +149,31 @@
                 </a></li>
                 <li><a href="#" onclick="loadArticle('writ-prof/20241031.txt')">The Realities of Health Inequity in Vermont
                 </a></li>
-
- 
-
             </ul>
-            <div id="article-content"></div> <!-- Placeholder -->
-            <button onclick="goBackToIndex()">Back to Index</button>
+            <div id="article-content"></div> 
+            <button onclick="goBackToIndex()">Back to Top</button>
         </section>
+        
+        <!-- <section id="professional-stuff" class="content" style="display: none;">
+            <h2>Articles & Essays</h2>
+            <ul>
+                <li><a href="#" onclick="loadArticle('writ-prof/timeloopsminit.txt')">Time Loops and Escapism in Minit</a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/moralityin10cloverfield.txt')">Morality in 10 Cloverfield Lane</a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/velvetbuzzsaw.txt')">Velvet Buzzsaw Review & Analysis</a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/comeandseereview.txt')">Come and See Review & Analysis</a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/20230131.txt')">A BIPOC perspective of the 2022 CCRPC ECOS Report</a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/20230228.txt')">A Vermonter’s Political Power
+                </a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/20230531.txt')">Contemporary BIPOC Representation in Media
+                </a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/20230731.txt')">The Job Hunter’s AI
+                </a></li>
+                <li><a href="#" onclick="loadArticle('writ-prof/20241031.txt')">The Realities of Health Inequity in Vermont
+                </a></li>
+            </ul>
+            <div id="article-content"></div> 
+            <button onclick="goBackToIndex()">Back to Index</button>
+        </section> -->
         
         
 
@@ -205,7 +218,7 @@
                 });
             }
 
-            function showSubNav(subNavId) {
+            /* function showSubNav(subNavId) {
                 // Show the selected sub-nav
                 const selectedSubNav = document.getElementById(subNavId);
 
@@ -230,7 +243,7 @@
                     }
                 }
             }
-
+*/
             function loadArticle(articlePath) {
                 const contentDiv = document.getElementById('article-content'); // Selects the content area
                 if (!contentDiv) {
