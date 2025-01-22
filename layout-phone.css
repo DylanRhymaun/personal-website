@@ -27,32 +27,16 @@ main section:nth-child(2) {
 }
 
 main section {
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 2.5%
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0%
 }
 
-#video-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -1;
-    }
-
-.art {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; 
-}
-
-.art img {
-    max-width: 90%; 
+img {
+    max-width: 100%; 
     width: auto;
     height: auto; 
-    margin: 1px; 
+    margin: 5px; 
     object-fit: contain;
-    transition: max-width 0.3s;
+    transition: max-width 0.3s; 
 }
-
