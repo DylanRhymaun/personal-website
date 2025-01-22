@@ -1,6 +1,13 @@
+/* Font IDK */
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+/* Font IDK */
 @import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* Font IDK */
 @import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+/* Funnel */
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display&display=swap');
+/* Scanlines */
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
 
 body {
     background-color: black;
@@ -10,7 +17,6 @@ body {
 
 section {
     border: 1px solid #000000; /
-    margin: 10px; 
 }
 
 main section:first-child p {
@@ -19,19 +25,6 @@ main section:first-child p {
 
 
 /*    ################### HEADER ###################    */
-.logo {
-    font-family: "Bokor", system-ui;
-    font-weight: 400;
-    font-style: normal;
-    color: white;
-    font-size: 40px;
-    text-align: center;
-    position: relative;
-    margin-top: 1.5%;
-    left: 0;
-    width: 100%;
-    transition: font-size 0.2s ease-in-out, transform 0.2s ease-in-out;
-}
 .logo h1 {
     display: inline-block;
     margin: 0;
@@ -40,27 +33,31 @@ main section:first-child p {
 
 h2 {
     color: white;
+    font-family: "Funnel Display", serif;
 }
 
 /*    ################### Body ###################    */
 
 p {
     color: white;
+    font-family: "Funnel Display", serif;
 }
 
 a {
     color: white;
+    font-family: "Funnel Display", serif;
 }
 
 .nav {
     color: white; 
+    font-family: "Funnel Display", serif;
 }
 
-.sub-nav-link {
+/* .sub-nav-link {
     color: white;
     font-style: italic;
-
-}
+    font-family: "Funnel Display", serif;
+} */
 
 blockquote {
     font-style: italic;
