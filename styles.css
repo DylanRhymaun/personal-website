@@ -31,6 +31,12 @@ main section:first-child p {
     
 }
 
+h1 {
+    color: white;
+    font-family: "Funnel Display", serif;
+    /*adjust size at some point */
+}
+
 h2 {
     color: white;
     font-family: "Funnel Display", serif;
