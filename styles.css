@@ -23,13 +23,13 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 
 /*    ################### TESTING ###################    */
 
 section {
-    border: 1px solid #2e2d2d; /
+    border: 1px solid #000000; /
 }
 
 main section:first-child p {
