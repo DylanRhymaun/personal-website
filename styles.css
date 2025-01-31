@@ -48,6 +48,11 @@ h2 {
     font-family: "Funnel Display", serif;
 }
 
+.betterH2 {
+    font-family: 'OtherHand';
+    font-size: 40px;
+}
+
 /*    ################### Body ###################    */
 
 p {

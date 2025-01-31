@@ -70,12 +70,12 @@
         </section>
 
         <section id="about" class="content" style="display: none;">
-            <h2>About</h2>
+            <h2 class = "betterH2">About</h2>
             <p>Hi! Thanks for visiting the site I am undergraduate advisor at the University of Vermont's College of Nursing and Health Sciences, and I'm pursuing a self designed M.Ed. in Arts Advocacy. The purpose of this site is to show off some of my artwork, diary my programming education and game development, and to occassionally blog about random stuff I care about (movies, music, food, whatever). <br> <br>Also excuse the URL forwarding - squarespace is being annoying and won't let me transfer my domain to another host, so I need to use this method until my subscription runs out :/<br></p>
         </section>
 
         <section id="digital-3d" class="content" style="display: none;">
-            <h2>Digital 3D</h2>
+            <h2 class = "betterH2">Digital 3D</h2>
             <p>All works are made in Blender with original assets excluding skyboxes and a rock here or there. Postprocessing in Krita mostly. Hover to zoom in (on desktop)</p>
             <img class ="gallery" alt="A BMW E30" src="images/1.gif">
             <img class ="gallery" alt="A Nissan Skyline with a rocket on its roof" src="images/2.gif">
@@ -104,7 +104,7 @@
         </section>
 
         <section id="digital-2d" class="content" style="display: none;">
-            <h2>Digital 2D</h2>
+            <h2 class = "betterH2">Digital 2D</h2>
             <p>All works are my own photography. Drawing, manipulation and editing done in Photoshop. Hover to zoom in (on desktop).</p>
             <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="images/7A.jpg">
             <img alt="Clouds" src="images/10.jpg">
@@ -133,13 +133,13 @@
         </section>
 
         <section id="writing" class="content" style="display: none;">
-            <h2>Blog</h2>
+            <h2 class = "betterH2">Blog</h2>
             <ul>
                 <li><a href="#" onclick="loadArticle('writ-fun/albumsof2024.txt')">My 15 Favorite Albums of 2024</a></li>
                 <li><a href="#" onclick="loadArticle('writ-fun/songsof2024.txt')">My 20 favorite songs of 2024</a></li>
                 <li><a href="#" onclick="loadArticle('writ-fun/othermusicof2024.txt')">Other Music I listened to in 2024</a></li>
             </ul>
-            <h2>Articles & Essays</h2>
+            <h2 class = "betterH2">Articles & Essays</h2>
             <ul>
                 <li><a href="#" onclick="loadArticle('writ-prof/timeloopsminit.txt')">Time Loops and Escapism in Minit</a></li>
                 <li><a href="#" onclick="loadArticle('writ-prof/moralityin10cloverfield.txt')">Morality in 10 Cloverfield Lane</a></li>
@@ -158,32 +158,9 @@
             <div id="article-content"></div> 
             <button onclick="goBackToIndex()">Back to Top</button>
         </section>
-        
-        <!-- <section id="professional-stuff" class="content" style="display: none;">
-            <h2>Articles & Essays</h2>
-            <ul>
-                <li><a href="#" onclick="loadArticle('writ-prof/timeloopsminit.txt')">Time Loops and Escapism in Minit</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/moralityin10cloverfield.txt')">Morality in 10 Cloverfield Lane</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/velvetbuzzsaw.txt')">Velvet Buzzsaw Review & Analysis</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/comeandseereview.txt')">Come and See Review & Analysis</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230131.txt')">A BIPOC perspective of the 2022 CCRPC ECOS Report</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230228.txt')">A Vermonter’s Political Power
-                </a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230531.txt')">Contemporary BIPOC Representation in Media
-                </a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230731.txt')">The Job Hunter’s AI
-                </a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20241031.txt')">The Realities of Health Inequity in Vermont
-                </a></li>
-            </ul>
-            <div id="article-content"></div> 
-            <button onclick="goBackToIndex()">Back to Index</button>
-        </section> -->
-        
-        
 
         <section id="games" class="content" style="display: none;">
-            <h2>Games</h2>
+            <h2 class = "betterH2">Games</h2>
             <p></p>
             
             <h2>Galactix</h2>
@@ -223,32 +200,6 @@
                 });
             }
 
-            /* function showSubNav(subNavId) {
-                // Show the selected sub-nav
-                const selectedSubNav = document.getElementById(subNavId);
-
-                if (selectedSubNav) {
-                    // Toggle the visibility of the sub-nav
-                    const isSubNavVisible = selectedSubNav.style.display === 'block';
-                    const visibleSection = Array.from(document.querySelectorAll('.content'))
-                        .find(section => section.style.display === 'block' && selectedSubNav.contains(section));
-
-                    // Hide all other sub-navs
-                    const subNavs = document.querySelectorAll('.sub-nav');
-                    subNavs.forEach(subNav => {
-                        subNav.style.display = 'none';
-                    });
-
-                    // Show or hide the sub-nav based on its current state
-                    selectedSubNav.style.display = isSubNavVisible ? 'none' : 'block';
-
-                    // Keep the visible section open if it's part of this sub-nav
-                    if (visibleSection) {
-                        visibleSection.style.display = 'block';
-                    }
-                }
-            }
-*/
             function loadArticle(articlePath) {
                 const contentDiv = document.getElementById('article-content'); // Selects the content area
                 if (!contentDiv) {
