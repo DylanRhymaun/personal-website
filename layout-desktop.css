@@ -75,10 +75,10 @@ img:hover {
 
 
 @keyframes fontCycle {
-    0% { font-family: 'OtherHand';}
+    0% { font-family: 'Mynerve', serif;}
     20% { font-family: 'Bokor', serif;}
     40% { font-family: 'Lexend Giga', serif;}
     60% { font-family: 'Nothing You Could Do', serif;}
-    80% { font-family: 'Mynerve', serif;}
-    100% {font-family: 'OtherHand';} 
+    80% { font-family: 'OtherHand';}
+    100% {font-family: 'Mynerve', serif;} 
 }
