@@ -67,7 +67,8 @@ a {
 
 .nav {
     color: white; 
-    font-family: "Funnel Display", serif;
+    font-family: "Mynerve", serif;
+    text-decoration: none;
 }
 
 /* .sub-nav-link {
