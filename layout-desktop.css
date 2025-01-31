@@ -17,7 +17,7 @@ main section:nth-child(2) {
 /*    ################### SECTION SIZING ###################    */
 
 main section:first-child {
-    margin-left: 40%;
+    margin-left: 18%;
     margin-top: 25%;
     margin-right: 10%;
     margin-bottom: -50%;
@@ -32,6 +32,8 @@ main section:nth-child(n+2) {
     padding: 2%; 
 
 }
+
+
 
 img {
     max-width: 35%; 
@@ -58,25 +60,26 @@ img:hover {
     font-style: normal;
     font-variation-settings: "BLED" 48, "SCAN" -60;
     color: white;
-    font-size: 30px;
+    width: 20ch; /* Matches average character count */
     line-height: 1.2; /* Adjust this for consistent vertical spacing */
     text-align: center;
+    font-size: 45px;
     position: relative;
     white-space: nowrap; 
     overflow: hidden; /* Prevents overflow when text size changes */
     margin-top: 1.5%;
     left: 0;
     width: 100%;
-    height: 50px; /* Set a fixed height that works for your fonts */
+    height: 60px; /* Set a fixed height that works for your fonts */
     animation: fontCycle 0.5s 3 forwards;
 }
 
 
 @keyframes fontCycle {
-    0% { font-family: 'Sixtyfour', serif; }
-    20% { font-family: 'Bokor', serif; }
-    40% { font-family: 'Lexend Giga', serif; }
-    60% { font-family: 'Nothing You Could Do', serif; }
-    80% { font-family: 'Verdana', sans-serif; }
-    100% { font-family: 'Sixtyfour', serif; } 
+    0% { font-family: 'OtherHand';}
+    20% { font-family: 'Bokor', serif;}
+    40% { font-family: 'Lexend Giga', serif;}
+    60% { font-family: 'Nothing You Could Do', serif;}
+    80% { font-family: 'SixtyFour', sans-serif;}
+    100% {font-family: 'OtherHand';} 
 }
