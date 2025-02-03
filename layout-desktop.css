@@ -67,11 +67,11 @@ img:hover {
     white-space: nowrap; 
     overflow: hidden; /* Prevents overflow when text size changes */
     margin-top: 1.5%;
+    cursor: pointer; /* Makes it clear it's clickable */
     left: 0;
     width: 100%;
     height: 60px; /* Set a fixed height that works for your fonts */
-    animation: fontCycle 0.5s 3 forwards;
-}
+    animation: fontCycle 0.5s steps(1) 3; /* Stops until clicked */}
 
 
 @keyframes fontCycle {
