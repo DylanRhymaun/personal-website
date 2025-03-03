@@ -1,3 +1,7 @@
+/* Rock Salt */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
 main {
     display: grid;
     grid-template-areas: "box1" "box2";
@@ -43,7 +47,7 @@ img {
 /*    ###################  HEADER ###################    */
 
 .logo {
-    font-family: "Mynerve", serif;
+    font-family: "Rock Salt", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;

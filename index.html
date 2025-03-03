@@ -34,7 +34,7 @@
             <header>
                 <h1 class="logo">Dylan Rhymaun</h1>
             </header>
-            <p style="font-family: 'Funnel Display', serif;">This is my personal website. <br>It's under construction. <br>Last updated 1/31/25.<br> Free Palestine.</p>
+            <p style="font-family: 'Funnel Display', serif;">This is my personal website.It's under construction. <br>Last updated 3/3/25.<br> Free Palestine.</p>
             <p><a href="#" onclick="showSection('about')" class="nav">- About</a></p>
             <p><a href="#" onclick="showSection('digital-3d')" class="nav">- 3D</a></p>
             <p><a href="#" onclick="showSection('digital-2d')" class="nav">- 2D</a></p>
@@ -221,29 +221,11 @@
                     });
             }
 
-
-            function goBackToIndex() {
-                const contentDiv = document.getElementById('article-content');
-                if (contentDiv) {
-                    contentDiv.innerHTML = ''; // Clears the content
-                }
-            }
-
             document.querySelector('.logo').addEventListener('click', function() {
-                console.log("Logo clicked!"); // Debugging output
-                let logo = this;
-
-                // Reset animation so it can restart
-                logo.style.animation = 'none';
-                void logo.offsetWidth; // Forces reflow
-                logo.style.animation = 'fontCycle 2.5s steps(1) 2 forwards';
-
-                setTimeout(() => {
-                    console.log("Swapping to image..."); // Debugging output
-                    logo.innerHTML = '<img src="LOGO_White.png" alt="Logo">';
-                }, 2500);
+                this.style.animation = 'none'; // Reset animation
+                void this.offsetWidth; // Force reflow to restart it
+                this.style.animation = 'fontCycle 0.5s steps(1) 3 forwards'; // Restart animation
             });
-
 
         </script>
     </body>
