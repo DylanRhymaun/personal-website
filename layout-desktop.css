@@ -55,30 +55,28 @@ img:hover {
 /*    ###################  HEADER ###################    */
 
 .logo {
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    color: white;
-    width: 20ch; /* Matches average character count */
-    line-height: 1.2; /* Adjust this for consistent vertical spacing */
+    font-size: 35px;
     text-align: center;
-    font-size: 45px;
     position: relative;
-    white-space: nowrap; 
-    overflow: hidden; /* Prevents overflow when text size changes */
-    margin-top: 1.5%;
-    cursor: pointer; /* Makes it clear it's clickable */
-    left: 0;
-    width: 100%;
-    height: 60px; /* Set a fixed height that works for your fonts */
-    animation: fontCycle 0.5s steps(1) 3; /* Stops until clicked */}
+    white-space: nowrap;
+    overflow: hidden;
+    cursor: pointer; /* Indicates it's clickable */
+    animation: fontCycle 2.5s steps(1) 2 paused;
+    display: inline-block;
+}
 
+.logo img {
+    display: none; /* Hide image initially */
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    vertical-align: middle;
+}
 
 @keyframes fontCycle {
-    0% { font-family: 'Mynerve', serif;}
-    20% { font-family: 'Bokor', serif;}
-    40% { font-family: 'Lexend Giga', serif;}
-    60% { font-family: 'Nothing You Could Do', serif;}
-    80% { font-family: 'OtherHand';}
-    100% {font-family: 'Mynerve', serif;} 
+    0% { font-family: 'OtherHand', serif; opacity: 1; }
+    20% { font-family: 'Bokor', serif; }
+    40% { font-family: 'Lexend Giga', serif; }
+    60% { font-family: 'Nothing You Could Do', serif; }
+    80% { font-family: 'Sixtyfour', sans-serif; }
+    100% { opacity: 0; } /* Hide text at the end */
 }
