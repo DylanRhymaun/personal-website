@@ -54,20 +54,22 @@ img:hover {
 
 /*    ###################  HEADER ###################    */
 
-.logo {
+..logo {
     font-size: 35px;
     text-align: center;
     position: relative;
     white-space: nowrap;
     overflow: hidden;
-    cursor: pointer; /* Indicates it's clickable */
-    animation: fontCycle 2.5s steps(1) 2 paused;
+    cursor: pointer; /* Indicates interactivity */
     display: inline-block;
+    height: 50px; /* Ensures stable height */
+    line-height: 50px; /* Matches height to avoid jumps */
+    animation: fontCycle 2.5s steps(1) 2 paused; 
 }
 
 .logo img {
-    display: none; /* Hide image initially */
-    width: 100px; /* Adjust size as needed */
+    display: none; /* Hidden until animation ends */
+    width: 120px; /* Adjust based on your needs */
     height: auto;
     vertical-align: middle;
 }
@@ -78,5 +80,7 @@ img:hover {
     40% { font-family: 'Lexend Giga', serif; }
     60% { font-family: 'Nothing You Could Do', serif; }
     80% { font-family: 'Sixtyfour', sans-serif; }
-    100% { opacity: 0; } /* Hide text at the end */
+    100% { opacity: 0; } /* Make text invisible at the end */
+}
+
 }

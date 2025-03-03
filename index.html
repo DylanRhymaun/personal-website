@@ -230,14 +230,19 @@
             }
 
             document.querySelector('.logo').addEventListener('click', function() {
-                this.style.animation = 'none'; // Reset animation
-                void this.offsetWidth; // Force reflow to restart it
-                this.style.animation = 'fontCycle 2.5s steps(1) 2 forwards'; // Restart animation
+                let logo = this;
 
+                // Reset animation so it can restart
+                logo.style.animation = 'none';
+                void logo.offsetWidth; // Forces reflow to restart animation
+                logo.style.animation = 'fontCycle 2.5s steps(1) 2 forwards';
+
+                // Ensure the text gets replaced with an image at the end of animation
                 setTimeout(() => {
-                    this.innerHTML = '<img src="LOGO_White.png" alt="Logo">';
-                }, 2500); // Swap text for image after animation ends
+                    logo.innerHTML = '<img src="LOGO_White.png" alt="Logo">';
+                }, 2500); // Matches animation duration
             });
+
         </script>
     </body>
 </html>
