@@ -68,7 +68,7 @@ img:hover {
     align-items: center; /* Centers content vertically */
     height: 50px; /* Stable height */
     line-height: 50px;
-    animation: fontCycle .5s steps(1) 2 forwards; 
+    animation: fontCycle 1s steps(1) 2 forwards; 
     color: White;
     transition: opacity 0.3s ease-in-out;
 }
@@ -81,10 +81,15 @@ img:hover {
 }
  
 @keyframes fontCycle {
-    0% { font-family: 'Sixtyfour', serif; opacity: 1; }
-    20% { font-family: 'Bokor', serif; }
-    40% { font-family: 'Lexend Giga', serif; }
-    60% { font-family: 'Nothing You Could Do', serif; }
-    80% { font-family: 'Arial', sans-serif; }
-    100% { font-family: 'Rock Salt', cursive;}
+    0% { font-family: 'Sixtyfour', serif; opacity: 1;}
+    10% { font-family: 'Georgia', serif; }  /* Classic serif */
+    20% { font-family: 'Bokor', serif; }  /* Decorative */
+    30% { font-family: 'Verdana', sans-serif; }  /* Readable sans-serif */
+    40% { font-family: 'Lexend Giga', serif; }  /* Modern serif */
+    50% { font-family: 'Impact', Charcoal, sans-serif; }  /* Bold and strong */
+    60% { font-family: 'Nothing You Could Do', cursive; }  /* Handwritten */
+    70% { font-family: 'Arial', sans-serif; }  /* Standard sans-serif */
+    80% { font-family: 'Times New Roman', Times, serif; }  /* Classic newspaper look */
+    90% { font-family: 'Comic Sans MS', cursive, sans-serif; }  /* Infamous but fun */
+    100% { font-family: 'Rock Salt', cursive; }  /* Final unique style */
 }
