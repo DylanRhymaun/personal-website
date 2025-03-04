@@ -34,7 +34,7 @@
             <header>
                 <h1 class="logo">Dylan Rhymaun</h1>
             </header>
-            <p style="font-family: 'Funnel Display', serif;">This is my personal website.It's under construction. <br>Last updated 3/3/25.<br> Free Palestine.</p>
+            <p style="font-family: 'Funnel Display', serif;">This is my personal website.It's under construction. <br>Last updated 3/4/25.<br> Free Palestine.</p>
             <p><a href="#" onclick="showSection('about')" class="nav">- About</a></p>
             <p><a href="#" onclick="showSection('digital-3d')" class="nav">- 3D</a></p>
             <p><a href="#" onclick="showSection('digital-2d')" class="nav">- 2D</a></p>
@@ -215,11 +215,17 @@
                             .map(para => `<p>${para.trim()}</p>`) // Wrap each in <p> tags
                             .join(""); // Rejoin the array into a single string
                         contentDiv.innerHTML = formattedContent; // Insert the formatted content
+
+                        // Smoothly scroll to the article content (only on mobile)
+                        if (window.innerWidth <= 768) { // Adjust breakpoint if needed
+                            contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
+                        }
                     })
                     .catch(error => {
                         contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
                     });
             }
+
 
             document.querySelector('.logo').addEventListener('click', function() {
                 this.style.animation = 'none'; // Reset animation
