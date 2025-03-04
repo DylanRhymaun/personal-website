@@ -99,3 +99,30 @@ blockquote {
     font-size: 2rem;
     text-decoration: none;
 }
+
+/*    ################### Button ###################    */
+
+button {
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    margin-top: 20px; /* Adds spacing above the button */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:hover {
+    background-color: #555; /* Slightly lighter on hover */
+    transform: scale(1.05); /* Small zoom effect */
+}
+
+button:active {
+    background-color: #222; /* Even darker when clicked */
+    transform: scale(0.95); /* Click press effect */
+}
