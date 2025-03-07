@@ -21,7 +21,7 @@ main section:nth-child(2) {
 /*    ################### SECTION LAYOUT ###################    */
 
 main section:first-child {
-    margin-top: 40%;
+    margin-top: 10%;
     margin-left: 15%;
     margin-right: 15%;
 }
