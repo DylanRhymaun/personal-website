@@ -90,6 +90,6 @@ img:hover {
     60% { font-family: 'Nothing You Could Do', cursive; }  /* Handwritten */
     70% { font-family: 'Arial', sans-serif; }  /* Standard sans-serif */
     80% { font-family: 'Times New Roman', Times, serif; }  /* Classic newspaper look */
-    90% { font-family: 'Rock Salt', cursive; }  /* Infamous but fun */
-    100% { font-family: "Mansalva", sans-serif; }  /* Final unique style */
+    90% { font-family: 'Rock Salt', cursive; }  
+    100% { font-family: 'Mansalva', sans-serif; }  /* Final unique style */
 }
