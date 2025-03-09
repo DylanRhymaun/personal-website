@@ -108,6 +108,22 @@ blockquote {
     text-decoration: none;
 }
 
+/*    ################### Tables ###################    */
+
+td {
+    Color: white;
+    font-family: "Funnel Display", serif;
+}
+
+tr {
+    color: white;
+    font-family: "Funnel Display", serif;
+}
+th, td {
+    border: 1px solid;
+    padding: 8px; 
+}
+
 /*    ################### Return to top Button ###################    */
 
 .back-to-top {
