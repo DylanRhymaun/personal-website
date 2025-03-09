@@ -1,3 +1,7 @@
+/* Rock Salt */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
 main {
     display: grid;
     grid-template-areas: "box1" "box2";
@@ -17,7 +21,7 @@ main section:nth-child(2) {
 /*    ################### SECTION LAYOUT ###################    */
 
 main section:first-child {
-    margin-top: 40%;
+    margin-top: 10%;
     margin-left: 15%;
     margin-right: 15%;
 }
@@ -43,13 +47,9 @@ img {
 /*    ###################  HEADER ###################    */
 
 .logo {
-    font-family: "Sixtyfour", serif;
-    font-optical-sizing: auto;
+    font-family: 'Mansalva', sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-variation-settings:
-        "BLED" 48,
-        "SCAN" -60;
     color: white;
     font-size: 35px;
     text-align: center;
@@ -57,5 +57,4 @@ img {
     margin-top: 1.5%;
     left: 0;
     width: 100%;
-    transition: font-size 0.2s ease-in-out, transform 0.2s ease-in-out;
 }

@@ -12,15 +12,16 @@
           type="text/css">
 
     <link href="layout-desktop.css" 
-          media="(min-width: 1732px)" 
+          media="(min-width: 1541px)" 
           rel="stylesheet" 
           type="text/css">
 
+          <!-- One px less than above -->
     <link href="layout-phone.css" 
-          media="(max-width: 1731px)" 
+          media="(max-width: 1540px)" 
           rel="stylesheet" 
           type="text/css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Mansalva&display=swap" rel="stylesheet"> <!-- Mansalva font-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Social Icons-->
 </head>
 
@@ -33,18 +34,12 @@
             <header>
                 <h1 class="logo">Dylan Rhymaun</h1>
             </header>
-            <p>This is my personal website. It's under construction. <br>Last updated 1/28/25.<br> Free Palestine.</p>
-            <p><a href="#" onclick="showSection('about')" class="nav">About</a></p>
-            <p><a href="#" onclick="showSection('digital-3d')" class="nav">Digital 3D</a></p>
-            <p><a href="#" onclick="showSection('digital-2d')" class="nav">Digital 2D</a></p>
-            <p><a href="#" onclick="showSection('writing')" class="nav">Writing</a></p>
-
-            <div id="writing-subnav" class="sub-nav" style="display: none;">
-                <p><a href="#" onclick="showSection('fun-stuff')" class="sub-nav-link">Fun Stuff</a></p>
-                <p><a href="#" onclick="showSection('professional-stuff')" class="sub-nav-link">Professional Stuff</a></p>
-            </div>
-
-            <p><a href="#" onclick="showSection('games')" class="nav">Games</a></p>
+            <p style="font-family: 'Funnel Display', serif;">This is my personal website.It's under construction. <br>Last updated 3/7/25.<br> Free Palestine.</p>
+            <p><a href="#" onclick="showSection('about')" class="nav">- About</a></p>
+            <p><a href="#" onclick="showSection('digital-3d')" class="nav">- 3D</a></p>
+            <p><a href="#" onclick="showSection('digital-2d')" class="nav">- 2D</a></p>
+            <p><a href="#" onclick="showSection('writing')" class="nav">- Words</a></p>
+            <p><a href="#" onclick="showSection('games')" class="nav">- Games</a></p>
 
 
 
@@ -65,16 +60,19 @@
                     <i class="fab fa-github"></i>
                 </a>
             </div>
-            <p>&copy; 2025 Dylan Rhymaun MMXXV</p>
+            <p style="font-family:'Funnel Display', serif">&copy; 2025 Dylan Rhymaun MMXXV</p>
+            <button id="theme-toggle" aria-label="Toggle Light/Dark Mode">
+                <i id="theme-icon" class="fa-solid fa-moon"></i>
+            </button>
         </section>
 
         <section id="about" class="content" style="display: none;">
-            <h2>About</h2>
-            <p>Hi! Thanks for visiting the site. My name is Dylan Rhymaun and I wear a few hats. I an undergraduate advisor at the University of Vermont's College of Nursing and Health Sciences, and I'm pursuing a self designed M.Ed. in Arts Advocacy. The purpose of this site is to show off some of my artwork, diary my programming education and game development, and to occassionally blog about random stuff I care about (movies, music, food, whatever). <br> <br>Also excuse the URL forwarding - squarespace is being annoying and won't let me transfer my domain to another host, so I need to use this method until my subscription runs out :/<br></p>
+            <h2 class = "betterH2">About</h2>
+            <p>Hi! Thanks for visiting the site I am undergraduate advisor at the University of Vermont's College of Nursing and Health Sciences, and I'm pursuing a self designed M.Ed. in Arts Advocacy. The purpose of this site is to show off some of my artwork, diary my programming education and game development, and to occassionally blog about random stuff I care about (movies, music, food, whatever). <br> <br>Also excuse the URL forwarding - squarespace is being annoying and won't let me transfer my domain to another host, so I need to use this method until my subscription runs out :/<br></p>
         </section>
 
         <section id="digital-3d" class="content" style="display: none;">
-            <h2>Digital 3D</h2>
+            <h2 class = "betterH2">Digital 3D</h2>
             <p>All works are made in Blender with original assets excluding skyboxes and a rock here or there. Postprocessing in Krita mostly. Hover to zoom in (on desktop)</p>
             <img class ="gallery" alt="A BMW E30" src="images/1.gif">
             <img class ="gallery" alt="A Nissan Skyline with a rocket on its roof" src="images/2.gif">
@@ -99,15 +97,17 @@
             <img alt="A spaceship factory" src="images/25.png">
             <img alt="A cargo spaceship" src="images/27.png">
             <img alt="An animation of a mock space combat game" src="images/35.gif">
+            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button>
+
 
         </section>
 
         <section id="digital-2d" class="content" style="display: none;">
-            <h2>Digital 2D</h2>
+            <h2 class = "betterH2">Digital 2D</h2>
             <p>All works are my own photography. Drawing, manipulation and editing done in Photoshop. Hover to zoom in (on desktop).</p>
             <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="images/7A.jpg">
             <img alt="Clouds" src="images/10.jpg">
-            <img alt="Skateboarder" src="images/12.jpg">
+            <img alt="Skateboarder" src="images/12.JPG">
             <img alt="Tree" src="images/26.jpg">
             <img alt="Silhouettes of skateboard tricks overlayed on each other" src="images/19.jpg">
             <img alt="Portraits of the members of the band Alt-J" src="images/28.png">
@@ -128,17 +128,19 @@
             <img alt="A cinematic black and white landscape of A cathedral interior in Quebec city" src="images/44.jpg">
             <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="images/45.jpg">
             <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="images/46.jpg">
+            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button>
+
 
         </section>
 
         <section id="writing" class="content" style="display: none;">
-            <h2>Blog</h2>
+            <h2 class = "betterH2">Blog</h2>
             <ul>
                 <li><a href="#" onclick="loadArticle('writ-fun/albumsof2024.txt')">My 15 Favorite Albums of 2024</a></li>
                 <li><a href="#" onclick="loadArticle('writ-fun/songsof2024.txt')">My 20 favorite songs of 2024</a></li>
                 <li><a href="#" onclick="loadArticle('writ-fun/othermusicof2024.txt')">Other Music I listened to in 2024</a></li>
             </ul>
-            <h2>Articles & Essays</h2>
+            <h2 class = "betterH2">Articles & Essays</h2>
             <ul>
                 <li><a href="#" onclick="loadArticle('writ-prof/timeloopsminit.txt')">Time Loops and Escapism in Minit</a></li>
                 <li><a href="#" onclick="loadArticle('writ-prof/moralityin10cloverfield.txt')">Morality in 10 Cloverfield Lane</a></li>
@@ -155,34 +157,11 @@
                 </a></li>
             </ul>
             <div id="article-content"></div> 
-            <button onclick="goBackToIndex()">Back to Top</button>
+            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button>
         </section>
-        
-        <!-- <section id="professional-stuff" class="content" style="display: none;">
-            <h2>Articles & Essays</h2>
-            <ul>
-                <li><a href="#" onclick="loadArticle('writ-prof/timeloopsminit.txt')">Time Loops and Escapism in Minit</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/moralityin10cloverfield.txt')">Morality in 10 Cloverfield Lane</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/velvetbuzzsaw.txt')">Velvet Buzzsaw Review & Analysis</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/comeandseereview.txt')">Come and See Review & Analysis</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230131.txt')">A BIPOC perspective of the 2022 CCRPC ECOS Report</a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230228.txt')">A Vermonter’s Political Power
-                </a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230531.txt')">Contemporary BIPOC Representation in Media
-                </a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20230731.txt')">The Job Hunter’s AI
-                </a></li>
-                <li><a href="#" onclick="loadArticle('writ-prof/20241031.txt')">The Realities of Health Inequity in Vermont
-                </a></li>
-            </ul>
-            <div id="article-content"></div> 
-            <button onclick="goBackToIndex()">Back to Index</button>
-        </section> -->
-        
-        
 
         <section id="games" class="content" style="display: none;">
-            <h2>Games</h2>
+            <h2 class = "betterH2">Games</h2>
             <p></p>
             
             <h2>Galactix</h2>
@@ -197,91 +176,89 @@
             <img alt="Run Cycle" src="images/spaceops-running.gif">
             <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
             <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>
+            <button class="back-to-top" onclick="goBackToIndex()">Back to Top</button>
+
         </section>
     </main>
 <!-- ####################################################################### --> 
+    <script>
+        function showSection(sectionId) {
+            // Hide all sections
+            const sections = document.querySelectorAll('.content');
+            sections.forEach(section => {
+                section.style.display = 'none';
+            });
 
-        <script>
-            function showSection(sectionId) {
-                // Hide all sections
-                const sections = document.querySelectorAll('.content');
-                sections.forEach(section => {
-                    section.style.display = 'none';
-                });
-
-                // Show the selected section
-                const selectedSection = document.getElementById(sectionId);
-                if (selectedSection) {
-                    selectedSection.style.display = 'block';
-                }
-
-                // Hide all sub-navs
-                const subNavs = document.querySelectorAll('.sub-nav');
-                subNavs.forEach(subNav => {
-                    subNav.style.display = 'none';
-                });
+            // Show the selected section
+            const selectedSection = document.getElementById(sectionId);
+            if (selectedSection) {
+                selectedSection.style.display = 'block';
             }
 
-            /* function showSubNav(subNavId) {
-                // Show the selected sub-nav
-                const selectedSubNav = document.getElementById(subNavId);
+            // Hide all sub-navs
+            const subNavs = document.querySelectorAll('.sub-nav');
+            subNavs.forEach(subNav => {
+                subNav.style.display = 'none';
+            });
+        }
+    // #######################################################################################################
+        function loadArticle(articlePath) {
+            const contentDiv = document.getElementById('article-content'); // Selects the content area
+            if (!contentDiv) {
+                console.error("Element with id 'article-content' not found.");
+                return; // Prevent further execution if the element is missing
+            }
 
-                if (selectedSubNav) {
-                    // Toggle the visibility of the sub-nav
-                    const isSubNavVisible = selectedSubNav.style.display === 'block';
-                    const visibleSection = Array.from(document.querySelectorAll('.content'))
-                        .find(section => section.style.display === 'block' && selectedSubNav.contains(section));
-
-                    // Hide all other sub-navs
-                    const subNavs = document.querySelectorAll('.sub-nav');
-                    subNavs.forEach(subNav => {
-                        subNav.style.display = 'none';
-                    });
-
-                    // Show or hide the sub-nav based on its current state
-                    selectedSubNav.style.display = isSubNavVisible ? 'none' : 'block';
-
-                    // Keep the visible section open if it's part of this sub-nav
-                    if (visibleSection) {
-                        visibleSection.style.display = 'block';
+            fetch(articlePath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load article');
                     }
-                }
-            }
-*/
-            function loadArticle(articlePath) {
-                const contentDiv = document.getElementById('article-content'); // Selects the content area
-                if (!contentDiv) {
-                    console.error("Element with id 'article-content' not found.");
-                    return; // Prevent further execution if the element is missing
-                }
+                    return response.text();
+                })
+                .then(data => {
+                    // Automatically add <p> tags to separate paragraphs
+                    const formattedContent = data
+                        .split(/\n\s*\n/) // Split at blank lines (paragraph breaks)
+                        .map(para => `<p>${para.trim()}</p>`) // Wrap each in <p> tags
+                        .join(""); // Rejoin the array into a single string
+                    contentDiv.innerHTML = formattedContent; // Insert the formatted content
 
-                fetch(articlePath)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error('Failed to load article');
-                        }
-                        return response.text();
-                    })
-                    .then(data => {
-                        // Automatically add <p> tags to separate paragraphs
-                        const formattedContent = data
-                            .split(/\n\s*\n/) // Split at blank lines (paragraph breaks)
-                            .map(para => `<p>${para.trim()}</p>`) // Wrap each in <p> tags
-                            .join(""); // Rejoin the array into a single string
-                        contentDiv.innerHTML = formattedContent; // Insert the formatted content
-                    })
-                    .catch(error => {
-                        contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
-                    });
-            }
+                    // Smoothly scroll to the article content (only on mobile)
+                    if (window.innerWidth <= 1540) { // Adjust breakpoint if needed
+                        contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
+                    }
+                })
+                .catch(error => {
+                    contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
+                });
+        }
+    // #######################################################################################################
+        document.querySelector('.logo').addEventListener('click', function() {
+            this.style.animation = 'none'; // Reset animation
+            void this.offsetWidth; // Force reflow to restart it
+            this.style.animation = 'fontCycle 0.5s steps(1) 3 forwards'; // Restart animation
+        });
+    // #######################################################################################################
 
+        function goBackToIndex() {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        }
+    // #######################################################################################################
+        document.getElementById("theme-toggle").addEventListener("click", function () {
+            const body = document.body;
+            const icon = document.getElementById("theme-icon");
 
-            function goBackToIndex() {
-                const contentDiv = document.getElementById('article-content');
-                if (contentDiv) {
-                    contentDiv.innerHTML = ''; // Clears the content
-                }
+            body.classList.toggle("light-mode");
+
+            // Toggle between sun and moon icons
+            if (body.classList.contains("light-mode")) {
+                icon.classList.replace("fa-moon", "fa-sun"); // Show sun in light mode
+            } else {
+                icon.classList.replace("fa-sun", "fa-moon"); // Show moon in dark mode
             }
+        });
+
         </script>
     </body>
 </html>

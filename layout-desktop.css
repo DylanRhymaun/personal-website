@@ -1,3 +1,6 @@
+/* Rock Salt */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
 main {
     display: grid;
     grid-template-areas: "box1 box2" "box3 box4";
@@ -17,7 +20,7 @@ main section:nth-child(2) {
 /*    ################### SECTION SIZING ###################    */
 
 main section:first-child {
-    margin-left: 40%;
+    margin-left: 18%;
     margin-top: 25%;
     margin-right: 10%;
     margin-bottom: -50%;
@@ -27,11 +30,13 @@ main section:first-child {
 
 main section:nth-child(n+2) {
     margin-right: 15%;
-    margin-top: 10%;
+    margin-top: 17%;
     margin-bottom: -50%;
     padding: 2%; 
 
 }
+
+
 
 img {
     max-width: 35%; 
@@ -53,21 +58,38 @@ img:hover {
 /*    ###################  HEADER ###################    */
 
 .logo {
-    font-family: "Sixtyfour", serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings:
-        "BLED" 48,
-        "SCAN" -60;
-    color: white;
     font-size: 35px;
     text-align: center;
-    position: relative;
-    white-space: nowrap; 
-    overflow: visible; 
-    margin-top: 1.5%;
-    left: 0;
-    width: 100%;
-    transition: font-size 0.2s ease-in-out, transform 0.2s ease-in-out;
+    white-space: nowrap;
+    overflow: hidden;
+    cursor: pointer;
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    height: 50px; /* Stable height */
+    line-height: 50px;
+    animation: fontCycle 1s steps(1) 2 forwards; 
+    color: White;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.logo img {
+    visibility: hidden; /* Instead of display: none */
+    width: 120px; /* Adjust as needed */
+    height: auto;
+    vertical-align: middle;
+}
+ 
+@keyframes fontCycle {
+    0% { font-family: 'Sixtyfour', serif; opacity: 1;}
+    10% { font-family: 'Georgia', serif; }  /* Classic serif */
+    20% { font-family: 'Bokor', serif; }  /* Decorative */
+    30% { font-family: 'Verdana', sans-serif; }  /* Readable sans-serif */
+    40% { font-family: 'Lexend Giga', serif; }  /* Modern serif */
+    50% { font-family: 'Impact', Charcoal, sans-serif; }  /* Bold and strong */
+    60% { font-family: 'Nothing You Could Do', cursive; }  /* Handwritten */
+    70% { font-family: 'Arial', sans-serif; }  /* Standard sans-serif */
+    80% { font-family: 'Times New Roman', Times, serif; }  /* Classic newspaper look */
+    90% { font-family: 'Rock Salt', cursive; }  
+    100% { font-family: 'Mansalva', sans-serif; }  /* Final unique style */
 }
