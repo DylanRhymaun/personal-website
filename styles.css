@@ -193,3 +193,10 @@ body.light-mode h3 {
 body.light-mode section {
     border: none;
 }
+
+/*
+.portrait {
+    object-fit: cover; 
+    border-radius: 50%; 
+}
+*/
