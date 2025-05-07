@@ -1,3 +1,3 @@
-<h2>title</h2>
-<img class ="gallery" alt="desc" src="images/fish/name.jpeg">
-<p>desc</p>
+<h2>Naval Tuna with Lemon and Chili</h2>
+<img class ="gallery" alt="desc" src="images/fish/navaltuna.jpeg">
+<p>No complaints but far from anything extraordinary. This can is going to be like every other dense packed tuna filets you've tried, and nothing more. The lemon and chili are pretty much nonexistent, which is really disappointing for a $12 can. <br>For $12 you can get much better products, so while this wasn't bad, I have to give it a 5.5/10 for being a bit boring. </p>

@@ -1,3 +1,3 @@
-<h2>title</h2>
-<img class ="gallery" alt="desc" src="images/fish/name.jpeg">
-<p>desc</p>
+<h2>Maria Mackerel with Birdseyes</h2>
+<img class ="gallery" alt="desc" src="images/fish/mariamackerel.jpeg">
+<p>I like this brand but this one was a bit of a let down. In short, it was bland and dry. Zero spice or flavor in the oil to where I would've guessed it was canola instead of evoo. I can't complain about the amount of fish though- it was certainly filling, and made a decent dinner when buffed up with Sriracha mayo and furikake. <br>5.5/10</p>
