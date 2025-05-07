@@ -1,5 +1,5 @@
 <h2>Naval Cod Fish</h2>
-<img class ="gallery" alt="desc" src="images/fish/navalcod.jpeg">
+<img class ="gallery" alt="desc" src="images/fish/navalcod.jpg">
 <p>I didn't know what to expect from tinned cod, but after this I don't think I'll seek it out in the future. Fresh cod has mellow flavors and it's appeal IMO is the texture and ability to take on other ingredients. That said, I like the taste of fresh cod on it's own well enough. This tasted like a certain bodily fluid when ate straight up over rice, and the texture was really tough. I tried it a 2nd time in a Thai curry and it was much better, but I would've preferred any other fish.
 <br>
 4/10. Edible in most contexts. </p>

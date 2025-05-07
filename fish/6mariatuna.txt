@@ -1,3 +1,3 @@
 <h2>Maria Tuna in EVOO</h2>
-<img class ="gallery" alt="desc" src="images/fish/mariatuna.jpeg">
+<img class ="gallery" alt="desc" src="images/fish/mariatuna.jpg">
 <p>Not groundbreaking but no complaints. Pretty much equal to Acore's tuna. Not sure if I'd ever get these again since they retail for $11 online, but it was definitely tasty. <br>8/10</p>

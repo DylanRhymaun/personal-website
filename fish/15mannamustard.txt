@@ -1,3 +1,3 @@
 <h2>Manna Mackerel in Mustard</h2>
-<img class ="gallery" alt="desc" src="images/fish/mannamustard.jpeg">
+<img class ="gallery" alt="desc" src="images/fish/mannamustard.jpg">
 <p>This brand is never dissapoints. Their sauces aren't always winners but the quality of the fish is second to none IMO. I've always been interesting in trying a mustard sauce and this did not disappoint. Light, flavorful, mildly spicy - really no complaints. <br>Would recommend. 9/10.</p>
