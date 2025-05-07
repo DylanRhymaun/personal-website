@@ -1,3 +1,3 @@
-<h2>title</h2>
-<img class ="gallery" alt="desc" src="images/fish/name.jpeg">
-<p>desc</p>
+<h2>Manna Mackerel Fillets in Oil & Lemon-Thyme</h2>
+<img class ="gallery" alt="desc" src="images/fish/mannalemon.jpeg">
+<p>This tin looked pretty bland at first, but it ended up being flawless. Unique flavor, and fantastic, firm texture that didn't fall apart when I fished it out of the tin. Eaten over rice with sea spaghetti. This was my first time trying this brand and it's grown into my favorite. <br>10/10.</p>

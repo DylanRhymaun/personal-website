@@ -1,3 +1,3 @@
-<h2>title</h2>
-<img class ="gallery" alt="desc" src="images/fish/name.jpeg">
-<p>desc</p>
+<h2>Brunswick Brisling Sarines w Jalapeno</h2>
+<img class ="gallery" alt="desc" src="images/fish/brunswick.jpeg">
+<p>TIL that brisling sardines are different species from common sardines. I guess it's my fault, but even still, these were dreadful and I can't pinpoint why. Maybe it was the oil being cheap, the texture being absolute mush, or the flavor being just generally unpleasant/unnatural. Fwiw I tried them twice. Once on pizza (baked with some leftover slices), and another on pasta. Neither was pleasant. That said, I give credit that they packed as many fish in the tin as they did. At least you get 15 sprats for $3.  <br>1/10</p>

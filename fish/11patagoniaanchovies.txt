@@ -1,3 +1,7 @@
-<h2>title</h2>
-<img class ="gallery" alt="desc" src="images/fish/name.jpeg">
-<p>desc</p>
+<h2>Patagonia Spicy White Anchovies</h2>
+<img class ="gallery" alt="desc" src="images/fish/patagoniaanchovies.jpeg">
+<p>Funny story. I've been talking about this sub to a friend who wanted in on the action. We were going camping and she told me she got anchovies as a snack. I was worried they were the thin ingredient style stuff, But it turns out these bad boys were about the size of small deenz. Shows how much I know about anchovies. 
+<br>
+I've been interested in trying Patagonia, but I was always turned off by the price. I can't say these were necessarily worth the $8 compared to other options, but it was definitely a high quality product. The fish had great flavor and texture, and wasn't overly salty. The sauce, however, was surprisingly flavorless. I made skewers of these with sourdough and olives and dipped leftover bread in the sauce, but it tasted of nothing but olive oil. No spice at all despite the color - just paprika. 
+<br>
+I still enjoyed it well enough. Overall 7/10 - would be good over rice.</p>
