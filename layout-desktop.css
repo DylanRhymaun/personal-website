@@ -73,11 +73,17 @@ img:hover {
     transition: opacity 0.3s ease-in-out;
 }
 
-.logo img {
-    visibility: hidden; /* Instead of display: none */
-    width: 120px; /* Adjust as needed */
-    height: auto;
-    vertical-align: middle;
+.logoLight h1 {
+    font-family: 'Mansalva', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+    text-align: center;
+    position: relative;
+    margin-top: 1.5%;
+    left: 0;
+    width: 100%;
 }
  
 @keyframes fontCycle {

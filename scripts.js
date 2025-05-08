@@ -17,7 +17,7 @@ function showSection(sectionId) {
         subNav.style.display = 'none';
     });
 }
-// #######################################################################################################
+// ####################################### ARTICLE LOADER ################################################################
 function loadArticle(articlePath) {
     const contentDiv = document.getElementById('article-content'); 
     const writingSection = document.getElementById('writing');
@@ -60,13 +60,13 @@ function loadArticle(articlePath) {
         });
 }
 
-// #######################################################################################################
+// ###################################### LOGO ANIMATION ONCLICK #################################################################
 document.querySelector('.logo').addEventListener('click', function() {
     this.style.animation = 'none'; // Reset animation
     void this.offsetWidth; // Force reflow to restart it
     this.style.animation = 'fontCycle 0.5s steps(1) 3 forwards'; // Restart animation
 });
-// #######################################################################################################
+// ####################################### BACK TO INDEX BUTTON ################################################################
 function goBackToIndex() {
     const contentDiv = document.getElementById('article-content');
     const writingSection = document.getElementById('writing');
@@ -87,7 +87,7 @@ function goBackToIndex() {
     // Optionally scroll back to the top
     writingSection.scrollIntoView({ behavior: "smooth", block: "start" });
 }
-// #######################################################################################################
+// ################################### THEME TOGGLE ####################################################################
 document.getElementById("theme-toggle").addEventListener("click", function () {
     const body = document.body;
     const icon = document.getElementById("theme-icon");
@@ -100,4 +100,46 @@ document.getElementById("theme-toggle").addEventListener("click", function () {
     } else {
         icon.classList.replace("fa-sun", "fa-moon"); // Show moon in dark mode
     }
+});
+
+// ######################################### FEATHER/LIGHT MODE ##############################################################
+document.addEventListener('DOMContentLoaded', function() {
+    const featherBtn = document.getElementById('feather-toggle');
+    const themeBtn = document.getElementById('theme-toggle');
+    const stylesLink = document.querySelector('link[href*="styles.css"]');
+    let featherModeActive = false;
+
+    featherBtn.addEventListener('click', function() {
+        featherModeActive = !featherModeActive;
+
+        if (featherModeActive) {
+            // 1️⃣ Disable styles.css
+            if (stylesLink) {
+                stylesLink.disabled = true;
+            }
+
+            // 2️⃣ Replace .logo with .logoLight
+            document.querySelectorAll('.logo').forEach(el => {
+                el.classList.remove('logo');
+                el.classList.add('logoLight');
+            });
+
+            // 3️⃣ Hide theme toggle button
+            themeBtn.style.display = 'none';
+        } else {
+            // Re-enable styles.css
+            if (stylesLink) {
+                stylesLink.disabled = false;
+            }
+
+            // Swap .logoLight back to .logo
+            document.querySelectorAll('.logoLight').forEach(el => {
+                el.classList.remove('logoLight');
+                el.classList.add('logo');
+            });
+
+            // Show theme toggle button
+            themeBtn.style.display = 'block';
+        }
+    });
 });
