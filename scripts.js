@@ -19,11 +19,23 @@ function showSection(sectionId) {
 }
 // #######################################################################################################
 function loadArticle(articlePath) {
-    const contentDiv = document.getElementById('article-content'); // Selects the content area
+    const contentDiv = document.getElementById('article-content'); 
+    const writingSection = document.getElementById('writing');
+    const allLists = writingSection.querySelectorAll('ul'); // Select all <ul> inside #writing
+    const allHeadings = writingSection.querySelectorAll('h2.betterH2'); // Select all <h2 class="betterH2">
+
     if (!contentDiv) {
         console.error("Element with id 'article-content' not found.");
-        return; // Prevent further execution if the element is missing
+        return;
     }
+
+    // Hide all the lists and headings
+    allLists.forEach(list => {
+        list.style.display = 'none';
+    });
+    allHeadings.forEach(heading => {
+        heading.style.display = 'none';
+    });
 
     fetch(articlePath)
         .then(response => {
@@ -33,15 +45,13 @@ function loadArticle(articlePath) {
             return response.text();
         })
         .then(data => {
-            // Automatically add <p> tags to separate paragraphs
             const formattedContent = data
-                .split(/\n\s*\n/) // Split at blank lines (paragraph breaks)
-                .map(para => `<p>${para.trim()}</p>`) // Wrap each in <p> tags
-                .join(""); // Rejoin the array into a single string
-            contentDiv.innerHTML = formattedContent; // Insert the formatted content
+                .split(/\n\s*\n/)
+                .map(para => `<p>${para.trim()}</p>`)
+                .join("");
+            contentDiv.innerHTML = formattedContent;
 
-            // Smoothly scroll to the article content (only on mobile)
-            if (window.innerWidth <= 1540) { // Adjust breakpoint if needed
+            if (window.innerWidth <= 1540) {
                 contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
             }
         })
@@ -49,6 +59,7 @@ function loadArticle(articlePath) {
             contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
         });
 }
+
 // #######################################################################################################
 document.querySelector('.logo').addEventListener('click', function() {
     this.style.animation = 'none'; // Reset animation
@@ -56,9 +67,25 @@ document.querySelector('.logo').addEventListener('click', function() {
     this.style.animation = 'fontCycle 0.5s steps(1) 3 forwards'; // Restart animation
 });
 // #######################################################################################################
-
 function goBackToIndex() {
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    const contentDiv = document.getElementById('article-content');
+    const writingSection = document.getElementById('writing');
+    const allLists = writingSection.querySelectorAll('ul');
+    const allHeadings = writingSection.querySelectorAll('h2.betterH2');
+
+    // Clear article content
+    contentDiv.innerHTML = '';
+
+    // Show all the lists and headings again
+    allLists.forEach(list => {
+        list.style.display = 'block';
+    });
+    allHeadings.forEach(heading => {
+        heading.style.display = 'block';
+    });
+
+    // Optionally scroll back to the top
+    writingSection.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 // #######################################################################################################
 document.getElementById("theme-toggle").addEventListener("click", function () {
