@@ -142,4 +142,38 @@ document.addEventListener('DOMContentLoaded', function() {
             themeBtn.style.display = 'block';
         }
     });
+    
 });
+
+/* Apply random floating to all elements
+document.querySelectorAll('body *').forEach(el => {
+    const speed = Math.random() * 5 + 8;  // 
+    const xAmp = (Math.random() * 0.2 + 0.1).toFixed(2);  
+    const yAmp = (Math.random() * 0.1 + 0.1).toFixed(2);
+
+    el.style.setProperty('--xAmp', `${xAmp}%`);
+    el.style.setProperty('--yAmp', `${yAmp}%`);
+    el.style.animation = `float-random ${speed}s ease-in-out infinite`;
+});
+*/
+
+const tooltip = document.createElement('div');
+tooltip.className = 'tooltip';
+document.body.appendChild(tooltip);
+
+document.querySelectorAll('[data-tooltip]').forEach(el => {
+    el.addEventListener('mouseenter', (e) => {
+        tooltip.textContent = el.getAttribute('data-tooltip');
+        tooltip.style.opacity = 1;
+    });
+
+    el.addEventListener('mousemove', (e) => {
+        tooltip.style.left = `${e.clientX + 12}px`;
+        tooltip.style.top = `${e.clientY + 12}px`;
+    });
+
+    el.addEventListener('mouseleave', () => {
+        tooltip.style.opacity = 0;
+    });
+});
+
