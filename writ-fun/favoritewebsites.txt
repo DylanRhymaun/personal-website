@@ -1,0 +1,26 @@
+<h1>Some of my favorite Websites</h1>
+<br>
+<h2>OpenGuessr</h2>
+<a href="https://openguessr.com/">Link</a>
+<p>A free version of GeoGuessr</p>
+
+<br>
+<h2></h2>
+<a href="">Link</a>
+<p></p>
+
+<br>
+<h2></h2>
+<a href="">Link</a>
+<p></p>
+
+<br>
+<h2></h2>
+<a href="">Link</a>
+<p></p>
+
+<br>
+<h2></h2>
+<a href="">Link</a>
+<p></p>
+
