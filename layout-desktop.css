@@ -73,11 +73,17 @@ img:hover {
     transition: opacity 0.3s ease-in-out;
 }
 
-.logo img {
-    visibility: hidden; /* Instead of display: none */
-    width: 120px; /* Adjust as needed */
-    height: auto;
-    vertical-align: middle;
+.logoLight h1 {
+    font-family: 'Mansalva', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+    text-align: center;
+    position: relative;
+    margin-top: 1.5%;
+    left: 0;
+    width: 100%;
 }
  
 @keyframes fontCycle {
@@ -92,4 +98,34 @@ img:hover {
     80% { font-family: 'Times New Roman', Times, serif; }  /* Classic newspaper look */
     90% { font-family: 'Rock Salt', cursive; }  
     100% { font-family: 'Mansalva', sans-serif; }  /* Final unique style */
+}
+
+/* FLOAT TEST 
+
+@keyframes float-random {
+    0%   { transform: translate(0, 0); }
+    25%  { transform: translate(var(--xAmp), calc(var(--yAmp) * -1)); }
+    50%  { transform: translate(calc(var(--xAmp) * -1), var(--yAmp)); }
+    75%  { transform: translate(var(--xAmp), var(--yAmp)); }
+    100% { transform: translate(0, 0); }
+}
+
+body * {
+    will-change: transform;
+}
+
+*/
+
+.tooltip {
+    position: fixed;
+    background-color: #222;
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    pointer-events: none;
+    z-index: 9999;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out;
 }

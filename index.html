@@ -34,7 +34,7 @@
             <header>
                 <h1 class="logo">Dylan Rhymaun</h1>
             </header>
-            <p style="font-family: 'Funnel Display', serif;">This is my personal website. It's constantly under construction. <br>Last updated 5/6/2025.<br> Free Palestine.</p>
+            <p style="font-family: 'Funnel Display', serif;">This is my personal website. It's constantly under construction. <br>Last updated 5/8/2025.<br> Free Palestine.</p>
             <p><a href="#" onclick="showSection('about')" class="nav">- About</a></p>
             <p><a href="#" onclick="showSection('digital-3d')" class="nav">- 3D</a></p>
             <p><a href="#" onclick="showSection('digital-2d')" class="nav">- 2D & Photos</a></p>
@@ -44,26 +44,29 @@
 
 
             <div class="social-icons">
-                <a href="https://twitter.com/DylnRhyman" target="_blank" aria-label="Follow me on Twitter">
+                <a href="https://twitter.com/DylnRhyman" target="_blank" data-tooltip="The only thing I post regularly on unfortunatley">
                     <i class="fab fa-twitter"></i>
                 </a>
-                <a href="https://www.instagram.com/dylanrhymaun/" target="_blank" aria-label="I don't use instagram but here ya go">
+                <a href="https://www.instagram.com/dylanrhymaun/" target="_blank" data-tooltip="Follow me here I guess, idc">
                     <i class="fab fa-instagram"></i>
                 </a>
-                <a href="https://steamcommunity.com/id/Greenthumbvt/" target="_blank" aria-label="Check out my Steam profile">
+                <a href="https://steamcommunity.com/id/Greenthumbvt/" target="_blank" data-tooltip="Too many hours on Overwatch (6x what steam shows)">
                     <i class="fab fa-steam"></i>
                 </a>
-                <a href="https://www.imdb.com/user/ur57227513/?ref_=nv_usr_prof_2" target="_blank" aria-label="My movie reviews">
+                <a href="https://www.imdb.com/user/ur57227513/?ref_=nv_usr_prof_2" target="_blank" data-tooltip="1200+ media reviews">
                     <i class="fa-brands fa-imdb"></i>
                 </a>
-                <a href="https://youtube.com/@drhymaun" target="_blank" aria-label="Subscribe to my YouTube channel">
+                <a href="https://youtube.com/@drhymaun" target="_blank" data-tooltip="Maybe I'll post something on youtube one day">
                     <i class="fab fa-youtube"></i>
                 </a>
-                <a href="https://github.com/DylanRhymaun" target="_blank" aria-label="Check out my GitHub profile">
+                <a href="https://github.com/DylanRhymaun" target="_blank" data-tooltip="Progress">
                     <i class="fab fa-github"></i>
                 </a>
             </div>
             <p style="font-family:'Funnel Display', serif">&copy; 2025 Dylan Rhymaun MMXXV</p>
+            <button id="feather-toggle" aria-label="Toggle Feather Mode">
+                <i class="fa-solid fa-feather"></i>
+            </button>
             <button id="theme-toggle" aria-label="Toggle Light/Dark Mode">
                 <i id="theme-icon" class="fa-solid fa-moon"></i>
             </button>
@@ -107,7 +110,7 @@
         </section>
 
         <section id="digital-2d" class="content" style="display: none;">
-            <h2 class = "betterH2">Photos, shops, and Drawings</h2>
+            <h2 class = "betterH2">Photos, Shops, and Drawings</h2>
             <p>All works are my own photography. Drawing, manipulation and editing done in Photoshop. Hover to zoom in (on desktop).</p>
             <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="images/7A.jpg">
             <img alt="Clouds" src="images/10.jpg">
@@ -192,9 +195,8 @@
                 <li><a href="#" onclick="loadArticle('writ-prof/20241031.txt')">The Realities of Health Inequity in Vermont
                 </a></li>
             </ul>
-            <p>---------------------------------------</p>
             <div id="article-content"></div> 
-            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button>
+            <button class = "back-to-top" onclick="goBackToIndex()">Back to Index</button>
         </section>
 
         <section id="games" class="content" style="display: none;">
@@ -218,84 +220,6 @@
         </section>
     </main>
 <!-- ####################################################################### --> 
-    <script>
-        function showSection(sectionId) {
-            // Hide all sections
-            const sections = document.querySelectorAll('.content');
-            sections.forEach(section => {
-                section.style.display = 'none';
-            });
-
-            // Show the selected section
-            const selectedSection = document.getElementById(sectionId);
-            if (selectedSection) {
-                selectedSection.style.display = 'block';
-            }
-
-            // Hide all sub-navs
-            const subNavs = document.querySelectorAll('.sub-nav');
-            subNavs.forEach(subNav => {
-                subNav.style.display = 'none';
-            });
-        }
-    // #######################################################################################################
-        function loadArticle(articlePath) {
-            const contentDiv = document.getElementById('article-content'); // Selects the content area
-            if (!contentDiv) {
-                console.error("Element with id 'article-content' not found.");
-                return; // Prevent further execution if the element is missing
-            }
-
-            fetch(articlePath)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Failed to load article');
-                    }
-                    return response.text();
-                })
-                .then(data => {
-                    // Automatically add <p> tags to separate paragraphs
-                    const formattedContent = data
-                        .split(/\n\s*\n/) // Split at blank lines (paragraph breaks)
-                        .map(para => `<p>${para.trim()}</p>`) // Wrap each in <p> tags
-                        .join(""); // Rejoin the array into a single string
-                    contentDiv.innerHTML = formattedContent; // Insert the formatted content
-
-                    // Smoothly scroll to the article content (only on mobile)
-                    if (window.innerWidth <= 1540) { // Adjust breakpoint if needed
-                        contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
-                    }
-                })
-                .catch(error => {
-                    contentDiv.innerHTML = `<p>Error loading article: ${error.message}</p>`;
-                });
-        }
-    // #######################################################################################################
-        document.querySelector('.logo').addEventListener('click', function() {
-            this.style.animation = 'none'; // Reset animation
-            void this.offsetWidth; // Force reflow to restart it
-            this.style.animation = 'fontCycle 0.5s steps(1) 3 forwards'; // Restart animation
-        });
-    // #######################################################################################################
-
-        function goBackToIndex() {
-            window.scrollTo({ top: 0, behavior: "smooth" });
-        }
-    // #######################################################################################################
-        document.getElementById("theme-toggle").addEventListener("click", function () {
-            const body = document.body;
-            const icon = document.getElementById("theme-icon");
-
-            body.classList.toggle("light-mode");
-
-            // Toggle between sun and moon icons
-            if (body.classList.contains("light-mode")) {
-                icon.classList.replace("fa-moon", "fa-sun"); // Show sun in light mode
-            } else {
-                icon.classList.replace("fa-sun", "fa-moon"); // Show moon in dark mode
-            }
-        });
-
-        </script>
+    <script src="scripts.js"></script>
     </body>
 </html>
