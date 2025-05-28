@@ -14,6 +14,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
 /* Mynerve serif */
 @import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+/*Silkscreen, 8bit */
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
 /* Otherhand */
 @font-face {
     font-family: 'OtherHand';
@@ -50,13 +52,13 @@ main section:first-child p {
 
 h1 {
     color: white;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
     /*adjust size at some point */
 }
 
 h2 {
     color: white;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
 }
 
 .betterH2 {
@@ -68,24 +70,24 @@ h2 {
 
 p {
     color: white;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
 }
 
 a {
     color: white;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
 }
 
 .nav {
     color: white; 
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
     text-decoration: none;
 }
 
 /* .sub-nav-link {
     color: white;
     font-style: italic;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
 } */
 
 blockquote {
@@ -112,12 +114,12 @@ blockquote {
 
 td {
     Color: white;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
 }
 
 tr {
     color: white;
-    font-family: "Funnel Display", serif;
+    font-family: "Silkscreen", sans-serif;;
 }
 th, td {
     border: 1px solid;
@@ -211,6 +213,28 @@ body.light-mode h3 {
 body.light-mode section {
     border: none;
 }
+/* FONT TOGGLE BUTTON */
+#font-toggle {
+    position: fixed;
+    top: 10px;
+    right: 110px; /* moves it left of feather-toggle */
+    background: none;
+    border: 2px solid rgb(63, 63, 63);
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.funnel-font {
+    font-family: "Funnel Display", serif !important;
+}
+
+#font-toggle:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
 
 /*
 .portrait {

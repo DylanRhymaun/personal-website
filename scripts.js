@@ -177,3 +177,15 @@ document.querySelectorAll('[data-tooltip]').forEach(el => {
     });
 });
 
+/* FONT TOGGLER */
+document.addEventListener('DOMContentLoaded', function () {
+    const fontBtn = document.getElementById('font-toggle');
+    let funnelFontActive = false;
+
+    fontBtn.addEventListener('click', function () {
+        funnelFontActive = !funnelFontActive;
+
+        document.body.classList.toggle('funnel-font', funnelFontActive);
+    });
+});
+
