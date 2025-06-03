@@ -157,35 +157,46 @@ document.querySelectorAll('body *').forEach(el => {
 });
 */
 
-const tooltip = document.createElement('div');
-tooltip.className = 'tooltip';
-document.body.appendChild(tooltip);
-
+/* DATA TOOLTIP FIX */
 document.querySelectorAll('[data-tooltip]').forEach(el => {
     el.addEventListener('mouseenter', (e) => {
-        tooltip.textContent = el.getAttribute('data-tooltip');
-        tooltip.style.opacity = 1;
-    });
+        const tooltip = document.createElement('div');
+        tooltip.className = 'tooltip';
+        tooltip.innerText = el.getAttribute('data-tooltip');
+        document.body.appendChild(tooltip);
 
-    el.addEventListener('mousemove', (e) => {
-        tooltip.style.left = `${e.clientX + 12}px`;
-        tooltip.style.top = `${e.clientY + 12}px`;
+        // Position and adjust if needed
+        const rect = el.getBoundingClientRect();
+        const tooltipRect = tooltip.getBoundingClientRect();
+        let top = rect.top - tooltipRect.height - 8;
+        let left = rect.left + rect.width / 2 - tooltipRect.width / 2;
+
+        // Adjust for overflow right
+        if (left + tooltipRect.width > window.innerWidth) {
+            left = window.innerWidth - tooltipRect.width - 10;
+        }
+
+        // Adjust for overflow left
+        if (left < 0) {
+            left = 10;
+        }
+
+        // Adjust for top overflow (if element is near top)
+        if (top < 0) {
+            top = rect.bottom + 8; // place below instead
+        }
+
+        tooltip.style.top = `${top}px`;
+        tooltip.style.left = `${left}px`;
+        tooltip.style.opacity = 1;
+
+        el._tooltipElement = tooltip;
     });
 
     el.addEventListener('mouseleave', () => {
-        tooltip.style.opacity = 0;
+        if (el._tooltipElement) {
+            el._tooltipElement.remove();
+            el._tooltipElement = null;
+        }
     });
 });
-
-/* FONT TOGGLER */
-document.addEventListener('DOMContentLoaded', function () {
-    const fontBtn = document.getElementById('font-toggle');
-    let funnelFontActive = false;
-
-    fontBtn.addEventListener('click', function () {
-        funnelFontActive = !funnelFontActive;
-
-        document.body.classList.toggle('funnel-font', funnelFontActive);
-    });
-});
-

@@ -144,10 +144,12 @@ button:active {
 }
 /*    ################### Feather Button ###################    */
 
-button:not(.back-to-top) {
+#feather-toggle,
+#theme-toggle,
+#testingSwitch {
     width: 44px;
     height: 44px;
-    padding: 0; /* remove padding, as it interferes with sizing */
+    padding: 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -232,11 +234,11 @@ body.light-mode h3 {
 body.light-mode section {
     border: none;
 }
-/* FONT TOGGLE BUTTON */
+/* FONT TOGGLE BUTTON 
 #font-toggle {
     position: fixed;
     top: 10px;
-    right: 110px; /* moves it left of feather-toggle */
+    right: 110px; /* moves it left of feather-toggle *
     background: none;
     border: 2px solid rgb(63, 63, 63);
     color: white;
@@ -253,7 +255,7 @@ body.light-mode section {
 #font-toggle:hover {
     background: rgba(255, 255, 255, 0.2);
 }
-
+*/
 
 /*
 .portrait {
@@ -261,3 +263,12 @@ body.light-mode section {
     border-radius: 50%; 
 }
 */
+
+#loginForm {
+    text-align: center;
+    padding: 10%;
+    margin: 2%;
+}
+#loginbutton {
+    left: 10%;
+}
