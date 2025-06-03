@@ -145,6 +145,11 @@ document.addEventListener('DOMContentLoaded', function() {
     
 });
 
+/*Link to login page onclick */
+document.getElementById('testingSwitch').addEventListener('click', () => {
+  window.location.href = 'loginpage.html';
+});
+
 /* Apply random floating to all elements
 document.querySelectorAll('body *').forEach(el => {
     const speed = Math.random() * 5 + 8;  // 
