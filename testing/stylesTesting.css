@@ -46,3 +46,18 @@ p {
     font-size: 2rem;
     text-decoration: none;
 }
+
+.tooltip {
+    position: fixed;
+    background-color: #222;
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    pointer-events: none;
+    z-index: 9999;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out;
+    font-family: 'Lexend Giga', serif;
+}
