@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', function () {
 /* ################### Decrypt effect####################### */
 
 document.addEventListener('DOMContentLoaded', () => {
-    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()_+';
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()⫍_⪗+⧕⊬∫√';
     const speed = 30;
     
     function getRandomChar() {
