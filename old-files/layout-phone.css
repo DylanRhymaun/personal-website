@@ -1,0 +1,73 @@
+/* Rock Salt */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
+main {
+    display: grid;
+    grid-template-areas: "box1" "box2";
+    grid-template-columns: 1fr; 
+    grid-gap: 1%;
+}
+
+
+main section:first-child {
+    grid-area: box1;
+}
+
+main section:nth-child(2) {
+    grid-area: box2;
+}
+
+/*    ################### SECTION LAYOUT ###################    */
+
+main section:first-child {
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+main section:nth-child(2) {
+    place-items: center; /* Centers both horizontally and vertically */
+}
+
+main section {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0%
+}
+
+img {
+    max-width: 100%; 
+    width: auto;
+    height: auto; 
+    margin: 5px; 
+    object-fit: contain;
+    transition: max-width 0.3s; 
+}
+/*    ###################  HEADER ###################    */
+
+.logo {
+    font-family: 'Mansalva', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    margin-top: 1.5%;
+    left: 0;
+    width: 100%;
+}
+
+.logoLight h1 {
+    font-family: 'Mansalva', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+    text-align: center;
+    position: relative;
+    margin-top: 1.5%;
+    left: 0;
+    width: 100%;
+}
