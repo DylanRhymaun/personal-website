@@ -10,6 +10,16 @@ body {
     font-family: 'Lexend Giga', serif; 
     padding-top: 12%;
 }
+
+#about,
+#digital-3d,
+#digital-2d,
+#writing,
+#games {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
 .nav {
   display: flex;
     justify-content: center;
