@@ -87,7 +87,7 @@ function goBackToIndex() {
     // Optionally scroll back to the top
     writingSection.scrollIntoView({ behavior: "smooth", block: "start" });
 }
-// ################################### THEME TOGGLE ####################################################################
+// ################################### (light/dark mode)THEME TOGGLE ####################################################################
 document.getElementById("theme-toggle").addEventListener("click", function () {
     const body = document.body;
     const icon = document.getElementById("theme-icon");
@@ -96,9 +96,9 @@ document.getElementById("theme-toggle").addEventListener("click", function () {
 
     // Toggle between sun and moon icons
     if (body.classList.contains("light-mode")) {
-        icon.classList.replace("fa-moon", "fa-sun"); // Show sun in light mode
+        icon.classList.replace("fa-sun", "fa-moon"); 
     } else {
-        icon.classList.replace("fa-sun", "fa-moon"); // Show moon in dark mode
+        icon.classList.replace("fa-moon", "fa-sun"); // Show moon in dark mode
     }
 });
 
