@@ -274,3 +274,8 @@ document.querySelectorAll('[data-tooltip]').forEach(el => {
         }
     });
 });
+
+/*Link to login page onclick */
+document.getElementById('testingSwitch').addEventListener('click', () => {
+  window.location.href = 'loginpage.html';
+});
