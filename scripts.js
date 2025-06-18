@@ -87,7 +87,7 @@ function goBackToIndex() {
     // Optionally scroll back to the top
     writingSection.scrollIntoView({ behavior: "smooth", block: "start" });
 }
-// ################################### THEME TOGGLE ####################################################################
+// ################################### (light/dark mode)THEME TOGGLE ####################################################################
 document.getElementById("theme-toggle").addEventListener("click", function () {
     const body = document.body;
     const icon = document.getElementById("theme-icon");
@@ -96,9 +96,9 @@ document.getElementById("theme-toggle").addEventListener("click", function () {
 
     // Toggle between sun and moon icons
     if (body.classList.contains("light-mode")) {
-        icon.classList.replace("fa-moon", "fa-sun"); // Show sun in light mode
+        icon.classList.replace("fa-sun", "fa-moon"); 
     } else {
-        icon.classList.replace("fa-sun", "fa-moon"); // Show moon in dark mode
+        icon.classList.replace("fa-moon", "fa-sun"); // Show moon in dark mode
     }
 });
 
@@ -145,11 +145,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
 });
 
-/*Link to login page onclick */
-document.getElementById('testingSwitch').addEventListener('click', () => {
-  window.location.href = 'loginpage.html';
-});
-
 /* Apply random floating to all elements
 document.querySelectorAll('body *').forEach(el => {
     const speed = Math.random() * 5 + 8;  // 
@@ -161,6 +156,80 @@ document.querySelectorAll('body *').forEach(el => {
     el.style.animation = `float-random ${speed}s ease-in-out infinite`;
 });
 */
+
+/* ###################FONT TOGGLER - not being used####################### */
+document.addEventListener('DOMContentLoaded', function () {
+    const fontBtn = document.getElementById('font-toggle');
+    let funnelFontActive = false;
+
+    fontBtn.addEventListener('click', function () {
+        funnelFontActive = !funnelFontActive;
+
+        document.body.classList.toggle('funnel-font', funnelFontActive);
+    });
+});
+/* ################### Decrypt effect####################### */
+
+document.addEventListener('DOMContentLoaded', () => {
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()⫍_⪗+⧕⊬∫√';
+    const speed = 30;
+    
+    function getRandomChar() {
+        return chars[Math.floor(Math.random() * chars.length)];
+    }
+    
+    function getAllTextNodes(element) {
+        const textNodes = [];
+        const walker = document.createTreeWalker(
+            element,
+            NodeFilter.SHOW_TEXT,
+            node => node.textContent.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
+        );
+        
+        let node;
+        while (node = walker.nextNode()) {
+            textNodes.push(node);
+        }
+        return textNodes;
+    }
+    
+    function decryptText(textNode) {
+        const originalText = textNode.textContent;
+        const parent = textNode.parentNode;
+        
+        // Create span wrapper
+        const wrapper = document.createElement('span');
+        const spans = originalText.split('').map((char, i) => {
+            const span = document.createElement('span');
+            span.textContent = char === ' ' ? ' ' : getRandomChar();
+            span.className = char === ' ' ? 'revealed' : 'encrypted';
+            return span;
+        });
+        
+        spans.forEach(span => wrapper.appendChild(span));
+        parent.replaceChild(wrapper, textNode);
+        
+        // Decrypt sequentially
+        let index = 0;
+        const decrypt = () => {
+            if (index >= originalText.length) return;
+            
+            if (originalText[index] !== ' ') {
+                spans[index].textContent = originalText[index];
+                spans[index].className = 'revealed';
+            }
+            
+            index++;
+            setTimeout(decrypt, speed);
+        };
+        
+        setTimeout(decrypt, Math.random() * 1000); // Random delay for staggered start
+    }
+    
+    // Apply to all text nodes
+    const textNodes = getAllTextNodes(document.body);
+    textNodes.forEach(decryptText);
+});
 
 /* DATA TOOLTIP FIX */
 document.querySelectorAll('[data-tooltip]').forEach(el => {
@@ -204,4 +273,9 @@ document.querySelectorAll('[data-tooltip]').forEach(el => {
             el._tooltipElement = null;
         }
     });
+});
+
+/*Link to login page onclick */
+document.getElementById('testingSwitch').addEventListener('click', () => {
+  window.location.href = 'loginpage.html';
 });

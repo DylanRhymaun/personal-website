@@ -4,25 +4,13 @@
     <meta charset="utf-8">
     <title>Dylan Rhymaun</title>
     <meta name="author" content="Dylan Rhymaun">
-    <meta name="description" content="A personal portfolio.">
+    <meta name="description" content="A personal portfolio for Dylan Rhymaun.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="styles.css" 
+    <link href="stylesTesting.css" 
           rel="stylesheet" 
           type="text/css">
 
-    <link href="layout-desktop.css" 
-          media="(min-width: 1541px)" 
-          rel="stylesheet" 
-          type="text/css">
-
-          <!-- One px less than above -->
-    <link href="layout-phone.css" 
-          media="(max-width: 1540px)" 
-          rel="stylesheet" 
-          type="text/css">
-          <!--Handwriting font, mansalva, serif-->
-    <link href="https://fonts.googleapis.com/css2?family=Mansalva&display=swap" rel="stylesheet"> <!-- Mansalva font-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Social Icons-->
 </head>
 
@@ -35,12 +23,18 @@
             <header>
                 <h1 class="logo">Dylan Rhymaun</h1>
             </header>
-            <p>This is my personal website. It's constantly under construction. Last updated 6/3/2025.<br> Free Palestine.</p>
-            <p><a href="#" onclick="showSection('about')" class="nav">- About</a></p>
-            <p><a href="#" onclick="showSection('digital-3d')" class="nav">- 3D</a></p>
-            <p><a href="#" onclick="showSection('digital-2d')" class="nav">- 2D & Photos</a></p>
-            <p><a href="#" onclick="showSection('writing')" class="nav">- Words</a></p>
-            <p><a href="#" onclick="showSection('games')" class="nav">- Games</a></p>
+            <p>This is my personal website. It's constantly under construction. Last updated 6/18/2025.<br> Free Palestine. Fuck ICE. </p>
+            <div class="nav">
+                <a href="#" onclick="showSection('about')">About</a>
+                •
+                <a href="#" onclick="showSection('digital-3d')">3D</a>
+                •
+                <a href="#" onclick="showSection('digital-2d')">2D & Photos</a>
+                •
+                <a href="#" onclick="showSection('writing')">Words</a>
+                •
+                <a href="#" onclick="showSection('games')">Games</a>
+            </div>
 
             <div class="social-icons">
                 <a href="https://twitter.com/DylnRhyman" target="_blank" data-tooltip="The only thing I post regularly on unfortunatley">
@@ -61,25 +55,30 @@
                 <a href="https://github.com/DylanRhymaun" target="_blank" data-tooltip="Progress">
                     <i class="fab fa-github"></i>
                 </a>
+                <a href="https://open.spotify.com/user/123883176" target="_blank" data-tooltip="Moozik">
+                    <i class="fa-brands fa-spotify"></i>                
+                </a>
                 <a href="https://www.linkedin.com/in/dylan-rhymaun-809071156/" target="_blank" data-tooltip="I am a serious person :|">
                     <i class="fa-brands fa-linkedin-in"></i>                
                 </a>
-            </div>
-            <p style="font-family:'Funnel Display', serif">&copy; Dylan Rhymaun MMXXV</p>
-            <button id="feather-toggle" data-tooltip="Toggle low bandwidth mode">
+                <!--
+                <button id="feather-toggle" data-tooltip="Toggle low bandwidth mode">
                 <i class="fa-solid fa-feather"></i>
-            </button>
-            <button id="theme-toggle" data-tooltip="Toggle light mode">
-                <i id="theme-icon" class="fa-solid fa-moon"></i>
-            </button>
-            <button id="testingSwitch" data-tooltip="Admin login">
-                <i class="fa-solid fa-person"></i>
-            </button>
+                </button>
+                -->
+                <button id="theme-toggle" data-tooltip="Toggle light mode">
+                    <i id="theme-icon" class="fa-solid fa-sun"></i>
+                </button>
+                <button id="testingSwitch" data-tooltip="Admin login">
+                    <i class="fa-solid fa-person"></i>
+                </button>
+            </div>
+            <p>&copy; Dylan Rhymaun MMXXV</p>
         </section>
 
         <section id="about" class="content" style="display: none;">
             <h2>About</h2>
-            <img class ="portrait" alt="Me.jpg" src="dylanrhymaunportrait.JPG">
+            <img class ="portrait" alt="Me.jpg" src="images/dylanrhymaunportrait.jpg">
             <p>Hi! Thanks for visiting the site I am undergraduate advisor at the University of Vermont's College of Nursing and Health Sciences, and I'm pursuing a self designed M.Ed. in Arts Advocacy. The purpose of this site is to show off some of my artwork, diary my programming education and game development, and to occassionally blog about random stuff I care about (movies, music, food, whatever).</p>
         </section>
 
@@ -225,7 +224,7 @@
         </section>
     </main>
 <!-- ####################################################################### --> 
-    <script src="scripts.js"></script>
+    <script src="scriptsTesting.js"></script>
     <script src="oneko.js"></script>
     </body>
 </html>

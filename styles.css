@@ -1,121 +1,115 @@
-/* DM Sans, serif, old */
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
-/*  Prompt, serif, old */
-@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-/* Bokor (gothic), logo */
-@import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
-/* Funnel, serif for regular text */
-@import url('https://fonts.googleapis.com/css2?family=Funnel+Display&display=swap');
-/* Scanlines, logo */
-@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
-/* Lexend Giga */
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap');
-/* Nothing, handwritten*/
-@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
-/* Mynerve serif */
-@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
-/*Silkscreen, 8bit */
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
-/* Rock Salt */
-@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(233, 174, 66);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 0;
+    font-family: 'Lexend Giga', serif; 
+    padding-top: 12%;
 }
 
-/*    ################### TESTING ###################    */
-
-section {
-    border: 1px solid #000000; /
-}
-
-main section:first-child p {
-    text-align: center;
-}
-
-
-/*    ################### HEADER ###################    */
-.logo h1 {
-    display: inline-block;
+#about,
+#digital-3d,
+#digital-2d,
+#writing,
+#games {
     margin: 0;
 }
 
-h1 {
-    color: white;
-    font-family: "Lexend Giga", sans-serif;;
-    /*adjust size at some point */
-}
-
-h2 {
-    color: white;
-    font-family: "Lexend Giga", sans-serif;;
-}
-
-/*    ################### Body ###################    */
-
-p {
-    color: white;
-    font-family: "Lexend Giga", sans-serif;;
-}
-
-a {
-    color: white;
-    font-family: "Lexend Giga", sans-serif;;
+@media (min-width: 768px) {
+    #about,
+    #digital-3d,
+    #digital-2d,
+    #writing,
+    #games {
+        margin-left: 20%;
+        margin-right: 20%;  
+    }
 }
 
 .nav {
-    color: white; 
-    font-family: "Lexend Giga", sans-serif;;
+  display: flex;
+    justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 20px auto;
+}
+.nav a {
     text-decoration: none;
+    color: black;
+    margin: 0 5px;
+    transition: color 0.3s;
 }
 
-/* .sub-nav-link {
-    color: white;
-    font-style: italic;
-    font-family: "Lexend Giga", sans-serif;;
-} */
-
-blockquote {
-    font-style: italic;
-    color: #555;
-    border-left: 4px solid #ccc;
-    margin: 1em 0;
-    padding-left: 10px;
+.nav a:hover {
+    color: #bea150;
 }
 
+h1 .logo {
+    font-size: 2em;
+    font-weight: bold;
+}
 
-/*    ################### Icons ###################    */
-.social-icons {
+header {
     text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.social-icons {
     margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;    
+    gap: 10px; 
 }
 .social-icons a {
-    color: white;
+    color: black;
     font-size: 2rem;
     text-decoration: none;
+
 }
 
-/*    ################### Tables ###################    */
-
-td {
-    Color: white;
-    font-family: "Lexend Giga", sans-serif;;
+.tooltip {
+    position: fixed;
+    background-color: #222;
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    pointer-events: none;
+    z-index: 9999;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out;
+    font-family: 'Lexend Giga', serif;
 }
 
-tr {
-    color: white;
-    font-family: "Lexend Giga", sans-serif;;
+/* ################ Custom Buttons ######################################## */
+#feather-toggle,
+#theme-toggle,
+#testingSwitch {
+    width: 34px;
+    height: 34px;
+    padding: 0.5%;
+    background: none;
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    padding: 0;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 50%;
 }
-th, td {
-    border: 1px solid;
-    padding: 8px; 
-}
-
-/*    ################### Return to top Button ###################    */
 
 .back-to-top {
-    background-color: #333; /* Dark background */
-    color: white; /* White text */
+    background-color: #bea150; /* Dark background */
+    color: rgb(0, 0, 0); /* White text */
     border: none;
     padding: 10px 20px;
     font-size: 16px;
@@ -126,6 +120,8 @@ th, td {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Lexend Giga', serif; 
+
 }
 
 .back-to-top:hover {
@@ -137,133 +133,21 @@ button:active {
     background-color: #222; /* Even darker when clicked */
     transform: scale(0.95); /* Click press effect */
 }
-/*    ################### Feather Button ###################    */
-
-#feather-toggle,
-#theme-toggle,
-#testingSwitch {
-    width: 44px;
-    height: 44px;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-
-#feather-toggle {
-    position: fixed;
-    top: 10px;
-    right: 60px; /* positions it to the left of #theme-toggle */
-    background: none;
-    border: 2px solid rgb(63, 63, 63);
-    color: white;
-    padding: 10px;
-    font-size: 18px;
-    cursor: pointer;
-    border-radius: 50%;
-}
-
-#feather-toggle:hover {
-    background: rgba(255, 255, 255, 0.2);
-}
-
-/*    ################### Night Mode Button ###################    */
-#theme-toggle {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    background: none;
-    border: 2px solid rgb(63, 63, 63);
-    color: white;
-    padding: 10px;
-    font-size: 18px;
-    cursor: pointer;
-    border-radius: 50%;
-    /* transition: background 0.3s, color 0.3s; */
-}
-
-#theme-toggle:hover {
-    background: rgba(255, 255, 255, 0.2);
-}
-
-/* Light mode adjustments */
-body.light-mode #theme-toggle {
-    border-color: black;
-    color: black;
-}
-/* Light Mode */
+/*Light mode */
 body.light-mode {
-    background-color: rgb(201, 173, 81);
-    color: black;
+    background-color: rgb(0, 0, 0);
 }
 
-/*    ################### Login Button ###################    */
-
-#testingSwitch {
-    position: fixed;
-    top: 10px;
-    right: 110px; /* positions it to the left of #theme-toggle */
-    background: none;
-    border: 2px solid rgb(63, 63, 63);
-    color: white;
-    padding: 10px;
-    font-size: 18px;
-    cursor: pointer;
-    border-radius: 100%;
-}
-
-#testingSwitch:hover {
-    background: rgba(255, 255, 255, 0.2);
-}
-
-/* Adjust all text */
 body.light-mode p,
-body.light-mode a,
 body.light-mode h1,
-body.light-mode h2,
-body.light-mode h3 {
-    color: black;
-}
-
-body.light-mode section {
-    border: none;
-}
-/* FONT TOGGLE BUTTON 
-#font-toggle {
-    position: fixed;
-    top: 10px;
-    right: 110px; /* moves it left of feather-toggle *
-    background: none;
-    border: 2px solid rgb(63, 63, 63);
+body.light-mode a,
+body.light-mode i,
+body.light-mode h2 {
     color: white;
-    padding: 10px;
-    font-size: 18px;
-    cursor: pointer;
-    border-radius: 50%;
 }
-
-.funnel-font {
-    font-family: "Funnel Display", serif !important;
-}
-
-#font-toggle:hover {
-    background: rgba(255, 255, 255, 0.2);
-}
-*/
-
-/*
-.portrait {
-    object-fit: cover; 
-    border-radius: 50%; 
-}
-*/
-
-#loginForm {
-    text-align: center;
-    padding: 10%;
-    margin: 2%;
-}
-#loginbutton {
-    left: 10%;
+body.light-mode #feather-toggle,
+body.light-mode #theme-toggle,
+body.light-mode #testingSwitch {
+    border-color: white;
+    color: white;
 }
