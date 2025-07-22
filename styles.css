@@ -19,7 +19,7 @@ body {
     margin: 0;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 501px) {
     #about,
     #digital-3d,
     #digital-2d,
@@ -28,6 +28,13 @@ body {
         margin-left: 20%;
         margin-right: 20%;  
     }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* optional: center images */
 }
 
 .nav {
