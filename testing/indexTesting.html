@@ -7,7 +7,7 @@
     <meta name="description" content="A personal portfolio for Dylan Rhymaun.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="stylesTesting.css" 
+    <link href="styles.css" 
           rel="stylesheet" 
           type="text/css">
 
@@ -23,20 +23,23 @@
             <header>
                 <h1 class="logo">Dylan Rhymaun</h1>
             </header>
-            <p>This is my personal website.<br> It's constantly under construction.<br> Last updated 6/18/2025.<br> Free Palestine. Fuck ICE. </p>
+            <p>This is my personal website. <br>It's constantly under construction, so if you see bugs, assume I'm aware. <br>Last updated 7/22/2025.<br> Free Palestine. Fuck ICE. Views are my own, duh.</p>
             <div class="nav">
-                <a href="#" onclick="showSection('about')">About</a>
-                •
+                <!--<a href="#" onclick="showSection('about')">About</a>
+                <span class="bullet">•</span>-->
                 <a href="#" onclick="showSection('digital-3d')">3D</a>
-                •
+                <span class="bullet">•</span>
                 <a href="#" onclick="showSection('digital-2d')">2D & Photos</a>
-                •
+                <span class="bullet">•</span>
                 <a href="#" onclick="showSection('writing')">Words</a>
-                •
+                <span class="bullet">•</span>
                 <a href="#" onclick="showSection('games')">Games</a>
             </div>
 
             <div class="social-icons">
+                <a href="mailto:rhymaundylan@gmail.com" target="_blank" data-tooltip="rhymaundylan@gmail.com">
+                    <i class="fa-solid fa-envelope"></i>                
+                </a>
                 <a href="https://twitter.com/DylnRhyman" target="_blank" data-tooltip="The only thing I post regularly on unfortunatley">
                     <i class="fab fa-twitter"></i>
                 </a>
@@ -48,26 +51,19 @@
                 </a>
                 <a href="https://www.imdb.com/user/ur57227513/?ref_=nv_usr_prof_2" target="_blank" data-tooltip="1200+ media reviews">
                     <i class="fa-brands fa-imdb"></i>
-                </a>
-<!--
+                </a> 
                 <a href="https://youtube.com/@drhymaun" target="_blank" data-tooltip="Maybe I'll post something on youtube one day">
                     <i class="fab fa-youtube"></i>
                 </a>
--->
                 <a href="https://github.com/DylanRhymaun" target="_blank" data-tooltip="Progress">
                     <i class="fab fa-github"></i>
                 </a>
-                <a href="https://open.spotify.com/user/123883176" target="_blank" data-tooltip="Moozik">
+                <a href="https://open.spotify.com/user/123883176" target="_blank" data-tooltip="Moozik (not mine)">
                     <i class="fa-brands fa-spotify"></i>                
                 </a>
-<!--
                 <a href="https://www.linkedin.com/in/dylan-rhymaun-809071156/" target="_blank" data-tooltip="I am a serious person :|">
                     <i class="fa-brands fa-linkedin-in"></i>                
                 </a>
--->
-
-
-                
                 <!--
                 <button id="feather-toggle" data-tooltip="Toggle low bandwidth mode">
                 <i class="fa-solid fa-feather"></i>
@@ -91,16 +87,16 @@
 
         <section id="digital-3d" class="content" style="display: none;">
             <h2>Digital 3D</h2>
-            <p>All works are made in Blender with original assets excluding skyboxes and a rock here or there. Postprocessing in Krita mostly. Hover to zoom in (on desktop)</p>
-            <img class ="gallery" alt="A BMW E30" src="images/1.gif">
-            <img class ="gallery" alt="A Nissan Skyline with a rocket on its roof" src="images/2.gif">
-            <img class ="gallery" alt="A small spaceship" src="images/3.png">
-            <img class ="gallery" alt="A view from inside a traincar at sunset" src="images/4.gif">
-            <img class ="gallery" alt="A robot falling asleep on a subway" src="images/5.gif">
-            <img class ="gallery" alt="Three old sailbots on the high seas" src="images/6.gif">
-            <img class ="gallery" alt="A bowl of ramen" src="images/7.png">  
-            <img class ="gallery" alt="A funeral scene with cyberpunk and mideval props" src="images/8.png">
-            <img class ="gallery" alt="An animated robotic arm" src="images/9.gif">
+            <p>All works are made in Blender with original assets excluding skyboxes and a rock here or there. Postprocessing in Krita mostly.</p>
+            <img  alt="A BMW E30" src="images/1.gif">
+            <img alt="A Nissan Skyline with a rocket on its roof" src="images/2.gif">
+            <img alt="A small spaceship" src="images/3.png">
+            <img alt="A view from inside a traincar at sunset" src="images/4.gif">
+            <img alt="A robot falling asleep on a subway" src="images/5.gif">
+            <img alt="Three old sailbots on the high seas" src="images/6.gif">
+            <img alt="A bowl of ramen" src="images/7.png">  
+            <img alt="A funeral scene with cyberpunk and mideval props" src="images/8.png">
+            <img alt="An animated robotic arm" src="images/9.gif">
             <img alt="A spaceship firing a lazer towards a planet" src="images/10.gif">
             <img alt="A ferriari testarossa" src="images/11.png">
             <img alt="A lego version of the character Bastion from the game Overwatch" src="images/13.png">
@@ -115,14 +111,14 @@
             <img alt="A spaceship factory" src="images/25.png">
             <img alt="A cargo spaceship" src="images/27.png">
             <img alt="An animation of a mock space combat game" src="images/35.gif">
-            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button>
+<!--            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button> -->
 
 
         </section>
 
         <section id="digital-2d" class="content" style="display: none;">
             <h2>Photos, Shops, and Drawings</h2>
-            <p>All works are my own photography. Drawing, manipulation and editing done in Photoshop. Hover to zoom in (on desktop).</p>
+            <p>All works are my own photography. Drawing, manipulation and editing done in Photoshop.</p>
             <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="images/7A.jpg">
             <img alt="Clouds" src="images/10.jpg">
             <img alt="Skateboarder" src="images/12.JPG">
@@ -146,7 +142,7 @@
             <img alt="A cinematic black and white landscape of A cathedral interior in Quebec city" src="images/44.jpg">
             <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="images/45.jpg">
             <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="images/46.jpg">
-            <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button>
+<!--        <button class = "back-to-top" onclick="goBackToIndex()">Back to Top</button> -->
 
 
         </section>
@@ -207,7 +203,7 @@
                 </a></li>
             </ul>
             <div id="article-content"></div> 
-            <button class = "back-to-top" onclick="goBackToIndex()">Back to Index</button>
+<!--            <button class = "back-to-top" onclick="goBackToIndex()">Back to Index</button> -->
         </section>
 
         <section id="games" class="content" style="display: none;">
@@ -226,12 +222,11 @@
             <img alt="Run Cycle" src="images/spaceops-running.gif">
             <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
             <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>
-            <button class="back-to-top" onclick="goBackToIndex()">Back to Top</button>
+<!--            <button class="back-to-top" onclick="goBackToIndex()">Back to Top</button> -->
 
         </section>
     </main>
 <!-- ####################################################################### --> 
-    <script src="scriptsTesting.js"></script>
-    <script src="oneko.js"></script>
+    <script src="scripts.js"></script>
     </body>
 </html>

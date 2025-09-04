@@ -22,7 +22,7 @@ function loadArticle(articlePath) {
     const contentDiv = document.getElementById('article-content'); 
     const writingSection = document.getElementById('writing');
     const allLists = writingSection.querySelectorAll('ul'); // Select all <ul> inside #writing
-    const allHeadings = writingSection.querySelectorAll('h2.betterH2'); // Select all <h2 class="betterH2">
+    const allHeadings = writingSection.querySelectorAll('h2'); // Select all <h2>
 
     if (!contentDiv) {
         console.error("Element with id 'article-content' not found.");
