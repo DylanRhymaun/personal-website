@@ -1,3 +1,0 @@
-<h2>Nuri Sardines in Tomato Sauce</h2>
-<img class ="gallery" alt="desc" src="images/fish/nuritomato.jpg">
-<p>You know what it is. The OG tin. 10/10, no notes. </p>

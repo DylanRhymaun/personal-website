@@ -1,3 +1,0 @@
-cd C:\Users\rhyma\OneDrive\Documents\mywebsite
-php -S localhost:8000
-http://localhost:8000
