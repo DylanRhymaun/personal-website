@@ -70,6 +70,66 @@ This is my personal website. <br>It's under heavy construction and will continue
     </section>
     <section id="two" class="hidden">
       <h2>Photography</h2>
+        <img alt="Description" src="assets/img/turkiye2025/DSC09409.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09410.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09433.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09434.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09436.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09438.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09439.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09461.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09503.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09511.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09529.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09536.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09544.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09553.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09569.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09588.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09601.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09604.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09609.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09615.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09620.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09621.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09630.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09632.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09633.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09650.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09662.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09667.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09670.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09689.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09691.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09694.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09697.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09711.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09717.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09719.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09724.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09725.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09729.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09751.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09756.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09765.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09766.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09769.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09778.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09782.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09789.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09798.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09807.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09813.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09820.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09823.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09826.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09828.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09829.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09830.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09846.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09848.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09851.jpg">
+        <img alt="Description" src="assets/img/turkiye2025/DSC09860.jpg">
         <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="assets/img/7A.jpg">
         <img alt="Clouds" src="assets/img/10.jpg">
         <img alt="Skateboarder" src="assets/img/12.JPG">
