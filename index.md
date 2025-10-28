@@ -22,14 +22,15 @@ layout: default
 <br>
 <br>
 <!-- Dropdown -->
-This is my personal website. <br>It's under heavy construction and will continue to be. <br>Last updated 9/30/2025.<br>&copy; Dylan Rhymaun MMXXV
+This is my personal website. <br>It's under heavy construction and will continue to be. <br>Last updated 10/27/2025.<br>&copy; Dylan Rhymaun MMXXV
 
 {% raw %}
 <select id="menu">
   <option value="">Select a section</option>
-  <option value="one">Art</option>
-  <option value="two">Words</option>
-  <option value="three">Games</option>
+  <option value="one">3D</option>
+  <option value="two">3D</option>
+  <option value="three">Words</option>
+  <option value="four">Games</option>
 </select>
 {% endraw %}
 
@@ -85,6 +86,9 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="An animation of a mock space combat game" src="assets/img/35.gif">
     </section>
     <section id="two" class="hidden">
+      <h2>Photography</h2>
+    </section>
+    <section id="three" class="hidden">
       <h2>Words</h2>
       <h3>Blog</h3>
         <ul>
@@ -108,7 +112,7 @@ This is my personal website. <br>It's under heavy construction and will continue
         </ul>
           <!--<h3>Canned Fish Reviews</h3>-->
     </section>
-    <section id="three" class="hidden">
+    <section id="four" class="hidden">
     <h2>Games</h2>                
       <h3>Galactix</h3>
       <img alt="Galactix screenshot (top down 4X tower defense)" src="assets/img/galactix.png">
