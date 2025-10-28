@@ -24,7 +24,7 @@ layout: default
 <!-- Dropdown -->
 This is my personal website. <br>
 It's under heavy construction and will continue to be. <br>
-<a href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a>
+<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br> 
 Last updated 10/27/2025.<br>
 &copy; Dylan Rhymaun MMXXV<br>
 
