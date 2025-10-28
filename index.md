@@ -22,7 +22,11 @@ layout: default
 <br>
 <br>
 <!-- Dropdown -->
-This is my personal website. <br>It's under heavy construction and will continue to be. <br>Last updated 10/27/2025.<br>&copy; Dylan Rhymaun MMXXV
+This is my personal website. <br>
+It's under heavy construction and will continue to be. <br>
+<a href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a>
+Last updated 10/27/2025.<br>
+&copy; Dylan Rhymaun MMXXV<br>
 
 {% raw %}
 <select id="menu">
