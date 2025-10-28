@@ -28,7 +28,7 @@ This is my personal website. <br>It's under heavy construction and will continue
 <select id="menu">
   <option value="">Select a section</option>
   <option value="one">3D</option>
-  <option value="two">3D</option>
+  <option value="two">Photography</option>
   <option value="three">Words</option>
   <option value="four">Games</option>
 </select>
@@ -37,7 +37,7 @@ This is my personal website. <br>It's under heavy construction and will continue
 <!-- Sections -->
 <div id="dropdown-sections">
     <section id="one" class="hidden">
-    <h2>Art</h2>
+    <h2>3D and Doodles</h2>
     <img  alt="A BMW E30" src="assets/img/1.gif">
         <img alt="A Nissan Skyline with a rocket on its roof" src="assets/img/2.gif">
         <img alt="A small spaceship" src="assets/img/3.png">
@@ -54,17 +54,27 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="A gameboy" src="assets/img/16.gif">
         <img alt="An isometric view of a crashed spaceship amidst ruins in the desert" src="assets/img/17.png">
         <img alt="A first person persective of a person finding creepy obelisks in the desert" src="assets/img/18.gif">
-        <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="assets/img/7A.jpg">
-        <img alt="Clouds" src="assets/img/10.jpg">
-        <img alt="Skateboarder" src="assets/img/12.JPG">
-        <img alt="Tree" src="assets/img/26.jpg">
-        <img alt="Silhouettes of skateboard tricks overlayed on each other" src="assets/img/19.jpg">
         <img alt="Portraits of the members of the band Alt-J" src="assets/img/28.png">
         <img alt="A drawing of a man doing karate" src="assets/img/29.png">
         <img alt="A drawing of a quirky viking. " src="assets/img/30.png">
         <img alt="A drawing of the main villain from the BBC4 Show Utopia" src="assets/img/31.png">
         <img alt="A drawing of a pale woman with two different colored eyes" src="assets/img/32.png">
         <img alt="A black and white drawing of a civil war soldier" src="assets/img/33.png">
+        <img alt="Another BMW E30 with high contrast" src="assets/img/20.png">
+        <img alt="A mock spaceship ad" src="assets/img/21.png">
+        <img alt="A fancy door" src="assets/img/22.png">
+        <img alt="A lighthouse" src="assets/img/24.gif">
+        <img alt="A spaceship factory" src="assets/img/25.png">
+        <img alt="A cargo spaceship" src="assets/img/27.png">
+        <img alt="An animation of a mock space combat game" src="assets/img/35.gif">
+    </section>
+    <section id="two" class="hidden">
+      <h2>Photography</h2>
+        <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="assets/img/7A.jpg">
+        <img alt="Clouds" src="assets/img/10.jpg">
+        <img alt="Skateboarder" src="assets/img/12.JPG">
+        <img alt="Tree" src="assets/img/26.jpg">
+        <img alt="Silhouettes of skateboard tricks overlayed on each other" src="assets/img/19.jpg">
         <img alt="A manipulated photo of my friend siting in front of an abandoned house, though their body is pixellated" src="assets/img/34.jpg">
         <img alt="A high contrast photo of a condo in Toronto" src="assets/img/36.jpg">
         <img alt="A portrait of a model in front of UVM's taxidermy collection" src="assets/img/37.jpg">
@@ -77,16 +87,6 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="A cinematic black and white landscape of A cathedral interior in Quebec city" src="assets/img/44.jpg">
         <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="assets/img/45.jpg">
         <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="assets/img/46.jpg">
-        <img alt="Another BMW E30 with high contrast" src="assets/img/20.png">
-        <img alt="A mock spaceship ad" src="assets/img/21.png">
-        <img alt="A fancy door" src="assets/img/22.png">
-        <img alt="A lighthouse" src="assets/img/24.gif">
-        <img alt="A spaceship factory" src="assets/img/25.png">
-        <img alt="A cargo spaceship" src="assets/img/27.png">
-        <img alt="An animation of a mock space combat game" src="assets/img/35.gif">
-    </section>
-    <section id="two" class="hidden">
-      <h2>Photography</h2>
     </section>
     <section id="three" class="hidden">
       <h2>Words</h2>
