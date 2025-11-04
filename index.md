@@ -25,7 +25,7 @@ layout: default
 This is my personal website. <br>
 It's under heavy construction and will continue to be. <br>
 <a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br> 
-Last updated 10/27/2025.<br>
+Last updated 11/3/2025.<br>
 &copy; Dylan Rhymaun MMXXV<br>
 
 {% raw %}
@@ -81,7 +81,7 @@ Last updated 10/27/2025.<br>
         <img alt="Description" src="assets/img/turkiye2025/DSC09436.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09438.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09439.jpg">
-        <img alt="Description" src="assets/img/turkiye2025/DSC09461.jpg">
+        <!-- <img alt="Description" src="assets/img/turkiye2025/DSC09461.jpg"> -->
         <img alt="Description" src="assets/img/turkiye2025/DSC09503.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09511.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09529.jpg">
