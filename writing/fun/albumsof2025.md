@@ -1,5 +1,6 @@
 ---
 layout: default
-custom_css: albumsof2025.scss #check linking and scss vs css. Consider putting the scss file in the same folder as md. 
+title: "My 100 Favorite Albums of 2025"
+custom_css: albumsof2025.scss
 ---
 
