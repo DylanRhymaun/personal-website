@@ -12,3 +12,8 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+{% if page.custom_css %}
+  <link rel="stylesheet" href="{{ '/_sass/' | append: page.custom_css | relative_url }}">
+{% endif %}
+
