@@ -1,0 +1,129 @@
+---
+---
+
+@import "variables"; // optional if you want to keep your color system consistent
+
+.albums-post {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+
+  .album-entry {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+    background: #fafafa;
+    border-radius: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    padding: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .album-rank {
+      grid-row: span 2;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #999;
+      text-align: center;
+      align-self: start;
+    }
+
+    .album-cover {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+      border-radius: 0.5rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    }
+
+    .album-info {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .album-title {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: #222;
+      margin: 0;
+    }
+
+    .album-meta {
+      font-size: 0.9rem;
+      color: #666;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .album-scores {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+
+      .micro-scores {
+        font-size: 0.85rem;
+        color: #444;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        opacity: 0.8;
+      }
+
+      .main-score {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+
+        .score-percent,
+        .score-grade {
+          display: inline-block;
+          padding: 0.35rem 0.6rem;
+          border-radius: 0.4rem;
+          background: #222;
+          color: white;
+          font-weight: 600;
+          font-size: 1.1rem;
+          min-width: 3rem;
+          text-align: center;
+        }
+
+        .score-grade {
+          background: #444;
+        }
+      }
+    }
+
+    .album-review {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: #333;
+      margin-top: 0.5rem;
+    }
+
+    .album-links {
+      margin-top: 0.75rem;
+
+      a {
+        font-weight: 600;
+        color: #0077cc;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
