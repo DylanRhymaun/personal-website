@@ -134,6 +134,14 @@ Last updated 11/3/2025.<br>
         <img alt="Description" src="assets/img/turkiye2025/DSC09848.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09851.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09860.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0090.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0247.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0244.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0144.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0232.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0278.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0315.jpg">
+        <img alt="Description" src="assets/img/catalonia2025/IMG_0091.jpg">
         <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="assets/img/7A.jpg">
         <img alt="Clouds" src="assets/img/10.jpg">
         <img alt="Skateboarder" src="assets/img/12.JPG">
