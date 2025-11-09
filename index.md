@@ -35,10 +35,10 @@ Last updated 11/3/2025.<br>
   <option value="two">Photography</option>
   <option value="three">Words</option>
   <option value="four">Games</option>
+  <option value="five">EDLI 6210</option>
 </select>
 {% endraw %}
 
-<!-- Sections -->
 <div id="dropdown-sections">
     <section id="one" class="hidden">
     <h2>3D and Doodles</h2>
@@ -185,5 +185,10 @@ Last updated 11/3/2025.<br>
       <h3>Space Ops</h3>
       <img alt="Run Cycle" src="assets/img/spaceops-running.gif">
       <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
-      <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    </section>
+      <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
+    </section>
+    <section id="five" class="hidden">
+    <h2>EDLI 6210 - Managing School Library Media Centers Portfolio</h2>
+        <p>Nothing here yet because I'm still migrating from the old site - check back soon! </p>
+    </section>
 </div>
