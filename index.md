@@ -196,7 +196,7 @@ Last updated 11/3/2025.<br>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
     </section>
     <section id="five" class="hidden">
-    <h2>EDLI 6210 - Managing School Library Media Centers Portfolio</h2>
+        <h2>EDLI 6210 - Managing School Library Media Centers Portfolio</h2>
         <p>Nothing here yet because I'm still migrating from the old site - check back soon! </p>
     </section>
 </div>
