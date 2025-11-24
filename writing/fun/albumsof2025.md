@@ -43,7 +43,7 @@ Introduction goes here
 
 <div class="album-entry">
   <div class="album-rank">#1</div>
-  <img src="../../assets/img/albumcovers2025/honningbarna.png" alt="Album Cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/honningbarna.png" alt="Album Cover" class="album-cover">
   <div class="album-info">
     <h2 class="album-title">Soft Spot - Honningbarna</h2>
     <div class="album-meta">
