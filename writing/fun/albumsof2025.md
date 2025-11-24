@@ -6,7 +6,7 @@ custom_css: albumsof2025.css
 <!--
 <div class="album-entry">
   <div class="album-rank">#1</div>
-  <img src="/assets/img/albumcovers2025/honningbarna.png" alt="Album Cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/honningbarna.png" alt="Album Cover" class="album-cover">
   <div class="album-info">
     <h2 class="album-title">Soft Spot - Honningbarna</h2>
     <div class="album-meta">
@@ -29,7 +29,7 @@ custom_css: albumsof2025.css
       </div>
     </div>
     <div class="album-review">
-      <p>My thoughts about this album go here — 50–500 words of commentary...</p>
+    <p>My thoughts about this album go here — 50–500 words of commentary...</p>
     </div>
     <div class="album-links">
       <a href="https://example.com" target="_blank">Listen ↗</a>
