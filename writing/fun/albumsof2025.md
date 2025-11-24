@@ -6,34 +6,31 @@ custom_css: albumsof2025.scss
 <!--
 <div class="album-entry">
   <div class="album-rank">#1</div>
-  <img src="/assets/img/albums/example.jpg" alt="Album Cover" class="album-cover">
-
+  <img src="/assets/img/albumcovers2025/honningbarna.png" alt="Album Cover" class="album-cover">
   <div class="album-info">
-    <h2 class="album-title">Artist – Album Name</h2>
+    <h2 class="album-title">Soft Spot - Honningbarna</h2>
     <div class="album-meta">
       <span class="genre">Genre: Rock</span> · 
-      <span class="subgenre">Post-Punk</span> · 
-      <span class="country">UK</span> · 
+      <span class="subgenre">Noise Rock</span> · 
+      <span class="country">Norway</span> · 
       <span class="format">Album</span>
     </div>
-
     <div class="album-scores">
       <div class="micro-scores">
-        <span class="score-nuance">Nuance: 8.5</span>
-        <span class="score-narrative">Narrative: 9.0</span>
-        <span class="score-novelty">Novelty: 8.8</span>
-        <span class="score-bonus">Bonus: +1</span>
+        <span class="score-nuance">Nuance: 5</span>
+        <span class="score-narrative">Narrative: 5</span>
+        <span class="score-novelty">Novelty: 5</span>
+        <span class="score-listenability">listenability: 5</span>
+        <span class="score-bonus">Bonus: +3</span>
       </div>
       <div class="main-score">
-        <span class="score-percent">91%</span>
-        <span class="score-grade">A–</span>
+        <span class="score-percent">100%</span>
+        <span class="score-grade">A+</span>
       </div>
     </div>
-
     <div class="album-review">
       <p>My thoughts about this album go here — 50–500 words of commentary...</p>
     </div>
-
     <div class="album-links">
       <a href="https://example.com" target="_blank">Listen ↗</a>
     </div>
@@ -42,4 +39,37 @@ custom_css: albumsof2025.scss
 -->
 
 # Introduction
-Words
+Introduction goes here
+
+<div class="album-entry">
+  <div class="album-rank">#1</div>
+  <img src="/assets/img/albumcovers2025/honningbarna.png" alt="Album Cover" class="album-cover">
+  <div class="album-info">
+    <h2 class="album-title">Soft Spot - Honningbarna</h2>
+    <div class="album-meta">
+      <span class="genre">Genre: Rock</span> · 
+      <span class="subgenre">Noise Rock</span> · 
+      <span class="country">Norway</span> · 
+      <span class="format">Album</span>
+    </div>
+    <div class="album-scores">
+      <div class="micro-scores">
+        <span class="score-nuance">Nuance: 5</span>
+        <span class="score-narrative">Narrative: 5</span>
+        <span class="score-novelty">Novelty: 5</span>
+        <span class="score-listenability">listenability: 5</span>
+        <span class="score-bonus">Bonus: +3</span>
+      </div>
+      <div class="main-score">
+        <span class="score-percent">100%</span>
+        <span class="score-grade">A+</span>
+      </div>
+    </div>
+    <div class="album-review">
+      <p>My thoughts about this album go here — 50–500 words of commentary...</p>
+    </div>
+    <div class="album-links">
+      <a href="https://example.com" target="_blank">Listen ↗</a>
+    </div>
+  </div>
+</div>
