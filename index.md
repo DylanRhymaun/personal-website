@@ -25,7 +25,7 @@ layout: default
 This is my personal website. <br>
 It's under heavy construction and will continue to be. <br>
 <a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br> 
-Last updated 11/3/2025.<br>
+Last updated 11/24/2025.<br>
 &copy; Dylan Rhymaun MMXXV<br>
 
 {% raw %}
@@ -165,10 +165,10 @@ Last updated 11/3/2025.<br>
       <h3>Blog</h3>
         <ul>
           <!--<li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>-->
-          <li style="color: white;"><a href="./writing/fun/albumsof2025.html">My 15 Favorite Albums of 2024</a></li>
           <li><a href="./writing/fun/albumsof2024.html">My 15 Favorite Albums of 2024</a></li>
           <li><a href="./writing/fun/songsof2024.html">My 20 favorite songs of 2024</a></li>
           <li><a href="./writing/fun/othermusicof2024.html">Other Music I listened to in 2024</a></li>
+          <li><a href="./writing/fun/albumsof2025.html" style="color: white; text-decoration: none;">My 110 Favorite Albumsand EPs of 2025 (work in progress)</a></li>          
         </ul>
       <h3>Articles & Essays</h3>
         <ul>
