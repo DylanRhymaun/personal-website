@@ -20,7 +20,7 @@ custom_css: albumsof2025.css
         <span class="score-nuance">Nuance: 5</span>
         <span class="score-narrative">Narrative: 5</span>
         <span class="score-novelty">Novelty: 5</span>
-        <span class="score-listenability">listenability: 5</span>
+        <span class="score-Listenability">Listenability: 3</span>
         <span class="score-bonus">Bonus: +3</span>
       </div>
       <div class="main-score">
@@ -57,7 +57,7 @@ Introduction goes here
         <span class="score-nuance">Nuance: 5</span>
         <span class="score-narrative">Narrative: 5</span>
         <span class="score-novelty">Novelty: 5</span>
-        <span class="score-listenability">listenability: 5</span>
+        <span class="score-Listenability">Listenability: 3</span>
         <span class="score-bonus">Bonus: +3</span>
       </div>
       <div class="main-score">
@@ -66,7 +66,7 @@ Introduction goes here
       </div>
     </div>
     <div class="album-review">
-    <p>My thoughts about this album go here — 50–500 words of commentary...</p>
+    <p>Review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review </p>
     </div>
     <div class="album-links">
       <a href="https://example.com" target="_blank">Listen ↗</a>
