@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## My 20 Favorite Albums of 2024
-
+<h2 style="text-decoration: underline;">My 20 Favorite Albums of 2024</h2>
 <h2>Dishonorable Mention: Chromakopia & the Tortured Poets Society</h2><br>
 <p>I have to mention these two albums real quick - and I have to mention them together because they suffer from the same flaw. I like both artists well enough. Tyler has been on a generational 3 album run before this, and what can I say about Taylor’s success that hasn’t been said already? Midnights was good and I’ll ignore the horrors that are the re-releases (an exaggeration, despite her crimes against humanity in other facets of her life). 
 The reason why I am so upset by these albums is because both artists have become way too comfortable. Tyler leaned into his current sound all the way back in 2017, and excluding a few tracks on Igor, he hasn’t evolved since. There’s been plenty of great music from him, but he needs to take a break after this one and surprise us in 4 years. 
