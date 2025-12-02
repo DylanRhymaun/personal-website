@@ -191,6 +191,7 @@ Last updated 12/2/2025.<br>
           <li style="color: white;">Standards Addressed: VT #61: 3.2.2, 3.2.4, 3.3.2, 4.2.3, 5.2.2, 5.3.2, 5.4.1 || VT CTS: #4-5, 9 || AASL:  4.1, 4.3, 5.4</li>
           <li><a href="https://docs.google.com/presentation/d/1liJOImnIJwqQ_8_DoBSGZU_aiEgUbKZIi80rfhJ5_pY/edit?usp=sharing">Strategic Planning & Advocacy Project</a></li>
           <li style="color: white;">Standards Addressed: VT #61: 1.1.3, 1.3.2, 1,4,1, 3.2.1, 3.2.2, 3.3.2, 4.1.2, 4.2.1, 4.3.1, 4.4.1, 5.1.1, 5.3.1, 5.4.1, 5.3.2 || VT CTS: #10 || AASL:  4.1, 4.3, 5.2, 5.3, 5.4</li>
+          <li>Placeholder for Practicum Reflection</li>
           <li><a href="https://docs.google.com/document/d/1ltfBXSeQQpg5v1QwxiEjoGnSYIbmR1W4hRZpoFsKQ78/edit?usp=sharing">Final Reflection</a></li>
         <ul>
     </section>
