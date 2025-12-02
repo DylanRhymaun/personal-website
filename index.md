@@ -21,7 +21,7 @@ Last updated 12/2/2025.<br>
 
 <div id="dropdown-sections">
     <section id="one" class="hidden">
-    <h2>3D</h2>
+    <h2>3D and Doodles</h2>
     <img  alt="A BMW E30" src="assets/img/1.gif">
         <img alt="A Nissan Skyline with a rocket on its roof" src="assets/img/2.gif">
         <img alt="A small spaceship" src="assets/img/3.png">
