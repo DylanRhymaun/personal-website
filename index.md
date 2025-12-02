@@ -179,12 +179,12 @@ Last updated 12/2/2025.<br>
     <section id="five" class="hidden">
         <h2>EDLI 6210 - Managing School Library Media Centers Portfolio / Personal Learning Network</h2>
         <p></p>
-        <a href="https://docs.google.com/document/d/18uAHg2Yc-UNjXo9upx3dGalNmfLs5qwu/edit?usp=sharing&ouid=101557028244831422946&rtpof=true&sd=true">Link to EDLI 6210 Syllabus</a>
-        <a href="https://docs.google.com/document/d/1kfH4KvRRYWGMBwZfS1iOJQRAmlJZnlXUEf91PUaUxiM/edit?usp=sharing">Policy & Procedure Analysis Project</a>
-        <a href="https://docs.google.com/document/d/1EkeLY2RIbjoNDWb2BJhf041aKsKdpHIeno1U1VXnA2I/edit?usp=sharing">Sample of Library Menu of Services</a>
-        <a href="https://docs.google.com/document/d/1Sye6yk-FGd0YxbdQjRUxDGD0RxBnRyOP9STqlc3qUBs/edit?usp=sharing">Action Research Report - Burlington High School, Burlington VT</a>
-        <a href="https://docs.google.com/document/d/1B8YgtEHx4QxmlBtcUZC7TLdpzlT7V5PlkE6F0i_qKQQ/edit?usp=sharing">Research Design - Contemporary Issues & Continuous Improvement</a>
-        <a href="https://docs.google.com/presentation/d/1liJOImnIJwqQ_8_DoBSGZU_aiEgUbKZIi80rfhJ5_pY/edit?usp=sharing">Strategic Planning & Advocacy Project</a>
-        <a href="Link">Final Reflection </a>
+        <a href="https://docs.google.com/document/d/18uAHg2Yc-UNjXo9upx3dGalNmfLs5qwu/edit?usp=sharing&ouid=101557028244831422946&rtpof=true&sd=true">Link to EDLI 6210 Syllabus</a><br>
+        <a href="https://docs.google.com/document/d/1kfH4KvRRYWGMBwZfS1iOJQRAmlJZnlXUEf91PUaUxiM/edit?usp=sharing">Policy & Procedure Analysis Project</a><br>
+        <a href="https://docs.google.com/document/d/1EkeLY2RIbjoNDWb2BJhf041aKsKdpHIeno1U1VXnA2I/edit?usp=sharing">Sample of Library Menu of Services</a><br>
+        <a href="https://docs.google.com/document/d/1Sye6yk-FGd0YxbdQjRUxDGD0RxBnRyOP9STqlc3qUBs/edit?usp=sharing">Action Research Report - Burlington High School, Burlington VT</a><br>
+        <a href="https://docs.google.com/document/d/1B8YgtEHx4QxmlBtcUZC7TLdpzlT7V5PlkE6F0i_qKQQ/edit?usp=sharing">Research Design - Contemporary Issues & Continuous Improvement</a><br>
+        <a href="https://docs.google.com/presentation/d/1liJOImnIJwqQ_8_DoBSGZU_aiEgUbKZIi80rfhJ5_pY/edit?usp=sharing">Strategic Planning & Advocacy Project</a><br>
+        <a href="Link">Final Reflection </a><br>
     </section>
 </div>
