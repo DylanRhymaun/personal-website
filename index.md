@@ -180,8 +180,8 @@ Last updated 12/2/2025.<br>
         <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
         <p></p>
         <ul>
+          <li><a href="https://docs.google.com/document/d/1ERfltHnB6NzHl7hAYKHs9CBlnDxfebIat7xw9a0wJ1Y/edit?usp=sharing">My Resume</a></li>
           <li><a href="https://docs.google.com/document/d/18uAHg2Yc-UNjXo9upx3dGalNmfLs5qwu/edit?usp=sharing&ouid=101557028244831422946&rtpof=true&sd=true">Link to EDLI 6720 Syllabus</a></li>
-          <li style="color: white;">Standards Addressed: </li>
           <li><a href="https://docs.google.com/document/d/1kfH4KvRRYWGMBwZfS1iOJQRAmlJZnlXUEf91PUaUxiM/edit?usp=sharing">Policy & Procedure Analysis Project</a></li>
           <li><a href="https://docs.google.com/document/d/1EkeLY2RIbjoNDWb2BJhf041aKsKdpHIeno1U1VXnA2I/edit?usp=sharing">Sample of Library Menu of Services</a></li>
           <li style="color: white;">Standards Addressed: VT #61: 3.2.1, 3.2.2, 3,2,4, 4.1.1, 4.3.1, 5.2.2, 5.3.1, 5.3.2, 5.3.3, 5.4.1 || VT CTS: #4-5, 9 || AASL:  4.1, 4.3, 5.2, 5.4</li>
@@ -191,7 +191,7 @@ Last updated 12/2/2025.<br>
           <li style="color: white;">Standards Addressed: VT #61: 3.2.2, 3.2.4, 3.3.2, 4.2.3, 5.2.2, 5.3.2, 5.4.1 || VT CTS: #4-5, 9 || AASL:  4.1, 4.3, 5.4</li>
           <li><a href="https://docs.google.com/presentation/d/1liJOImnIJwqQ_8_DoBSGZU_aiEgUbKZIi80rfhJ5_pY/edit?usp=sharing">Strategic Planning & Advocacy Project</a></li>
           <li style="color: white;">Standards Addressed: VT #61: 1.1.3, 1.3.2, 1,4,1, 3.2.1, 3.2.2, 3.3.2, 4.1.2, 4.2.1, 4.3.1, 4.4.1, 5.1.1, 5.3.1, 5.4.1, 5.3.2 || VT CTS: #10 || AASL:  4.1, 4.3, 5.2, 5.3, 5.4</li>
-          <li><a href="Link">Final Reflection</a></li>
+          <li><a href="https://docs.google.com/document/d/1ltfBXSeQQpg5v1QwxiEjoGnSYIbmR1W4hRZpoFsKQ78/edit?usp=sharing">Final Reflection</a></li>
         <ul>
     </section>
 </div>
