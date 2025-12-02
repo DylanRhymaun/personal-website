@@ -155,7 +155,6 @@ Last updated 12/2/2025.<br>
           <li><a href="./writing/professional/timeloopsminit.html">Time Loops and Escapism in Minit</a></li>
           <li><a href="./writing/professional/moralityin10cloverfield.html">Morality in 10 Cloverfield Lane</a></li>
           <li><a href="./writing/professional/velvetbuzzsaw.html">Velvet Buzzsaw Review & Analysis</a></li>
-          <li><a href="./writing/professional/velvetbuzzsaw.html">Link to test of Velvet Buzzsaw Essay</a></li>
           <li><a href="./writing/professional/comeandseereview.html">Come and See Review & Analysis</a></li>
           <li><a href="./writing/professional/20230131.html">A BIPOC perspective of the 2022 CCRPC ECOS Report</a></li>
           <li><a href="./writing/professional/20230228.html">A Vermonter’s Political Power</a></li>
