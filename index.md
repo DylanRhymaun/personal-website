@@ -197,7 +197,14 @@ Last updated 11/24/2025.<br>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
     </section>
     <section id="five" class="hidden">
-        <h2>EDLI 6210 - Managing School Library Media Centers Portfolio</h2>
-        <p>Nothing here yet because I'm still migrating from the old site - check back soon! </p>
+        <h2>EDLI 6210 - Managing School Library Media Centers Portfolio / Personal Learning Network</h2>
+        <p></p>
+        <a href="https://docs.google.com/document/d/18uAHg2Yc-UNjXo9upx3dGalNmfLs5qwu/edit?usp=sharing&ouid=101557028244831422946&rtpof=true&sd=true">Link to EDLI 6210 Syllabus</a>
+        <a href="https://docs.google.com/document/d/1kfH4KvRRYWGMBwZfS1iOJQRAmlJZnlXUEf91PUaUxiM/edit?usp=sharing">Policy & Procedure Analysis Project</a>
+        <a href="https://docs.google.com/document/d/1EkeLY2RIbjoNDWb2BJhf041aKsKdpHIeno1U1VXnA2I/edit?usp=sharing">Sample of Library Menu of Services</a>
+        <a href="https://docs.google.com/document/d/1Sye6yk-FGd0YxbdQjRUxDGD0RxBnRyOP9STqlc3qUBs/edit?usp=sharing">Action Research Report - Burlington High School, Burlington VT</a>
+        <a href="https://docs.google.com/document/d/1B8YgtEHx4QxmlBtcUZC7TLdpzlT7V5PlkE6F0i_qKQQ/edit?usp=sharing">Research Design - Contemporary Issues & Continuous Improvement</a>
+        <a href="Link">Strategic Planning & Advocacy Project</a>
+        <a href="Link">Final Reflection </a>
     </section>
 </div>
