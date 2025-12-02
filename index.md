@@ -1,24 +1,6 @@
 ---
 layout: default
 ---
-
-<!--
-// MD RULES
-// Text can be **bold**, _italic_, or ~~strikethrough~~.
-// #Word is h1, ##Word is h2, ###Word is h3, et cetera
-// * is for UL
-// 1., 2., 3. for OL
-// For tables: 
-// | head1        | head two          | three |
-// |:-------------|:------------------|:------|
-// | ok           | good swedish fish | nice  |
-// | out of stock | good and plenty   | nice  |
-// For horizontal line: "* * *"
-// Small Image: ![Desc](URL or path)
-// Large Image![Desc](URL or path)
-// Definition Lists can be used with html syntax: <dl>, <dt>name</dt><dd>Godzilla</dd></dl>
--->
-
 <br>
 <br>
 <!-- Dropdown -->
@@ -204,7 +186,7 @@ Last updated 11/24/2025.<br>
         <a href="https://docs.google.com/document/d/1EkeLY2RIbjoNDWb2BJhf041aKsKdpHIeno1U1VXnA2I/edit?usp=sharing">Sample of Library Menu of Services</a>
         <a href="https://docs.google.com/document/d/1Sye6yk-FGd0YxbdQjRUxDGD0RxBnRyOP9STqlc3qUBs/edit?usp=sharing">Action Research Report - Burlington High School, Burlington VT</a>
         <a href="https://docs.google.com/document/d/1B8YgtEHx4QxmlBtcUZC7TLdpzlT7V5PlkE6F0i_qKQQ/edit?usp=sharing">Research Design - Contemporary Issues & Continuous Improvement</a>
-        <a href="Link">Strategic Planning & Advocacy Project</a>
+        <a href="https://docs.google.com/presentation/d/1liJOImnIJwqQ_8_DoBSGZU_aiEgUbKZIi80rfhJ5_pY/edit?usp=sharing">Strategic Planning & Advocacy Project</a>
         <a href="Link">Final Reflection </a>
     </section>
 </div>
