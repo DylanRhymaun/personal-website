@@ -73,3 +73,33 @@ Introduction goes here
     </div>
   </div>
 </div>
+
+<div class="album-entry">
+  <div class="album-title-lyrics">
+    <h2 class="album-title">Album Name – Artist</h2>
+    <p class="album-lyrics">"Some of my favorite lyrics go here..."</p>
+  </div>
+  <div class="album-meta">
+    <p class="meta-line">
+      Genre • Subgenre • Country • Language • Album/EP • Fav Song
+    </p>
+  </div>
+  <div class="album-cover-wrapper">
+    <img class="album-cover" src="../../assets/img/albumcovers25/honningbarna.png" alt="">
+  </div>
+  <div class="album-scores">
+    <p class="score-line">Nuance • Narrative • Novelty • Listenability • Bonus</p>
+    <p class="score-line">Score: 87/100</p>
+    <p class="score-grade">B+</p>
+  </div>
+  <div class="album-review">
+    <p>Review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review review </p>
+    <div class="album-link">
+      <a href="ALBUM_URL" target="_blank">Listen Here</a>
+    </div>
+    <div class="album-notes">
+      Names of reccomendees. 
+    </div>
+  </div>
+
+</div>
