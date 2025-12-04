@@ -5,7 +5,7 @@ layout: default
 <br>
 <!-- Dropdown -->
 <a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br> 
-Last updated 12/2/2025.<br>
+Last updated 12/4/2025.<br>
 &copy; Dylan Rhymaun MMXXV<br>
 
 {% raw %}
