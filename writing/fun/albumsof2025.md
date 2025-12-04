@@ -52,7 +52,7 @@ Introduction goes here
     <p>Second line of favorite lyrics</p>
   </blockquote>
   
-  <img src="album-cover.jpg" alt="Album Name cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/honningbarna.png" alt="Album Name cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Genre Name</span>
