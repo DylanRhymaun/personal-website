@@ -105,125 +105,186 @@ a {
 }
 
 /* ############### AOTY CSS ############### */
-
-.albums-post {
-  display:flex;
-  flex-direction:column;
-  gap:3rem;
-  padding:1rem;
-  max-width:900px;
-  margin:0 auto
+/* Album Card Styling */
+.album-card {
+  margin: 3em auto;
+  padding: 2em;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  background: #fafafa;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
-.album-entry {
+
+.album-header {
   display: flex;
-  align-items: flex-start;
-  gap: 1rem;
-  grid-template-columns:120px 1fr;
-  gap:1.5rem;
-  align-items:start;
-  background:#fafafa;
-  border-radius:1rem;
-  box-shadow:0 2px 6px rgba(0,0,0,0.08);
-  padding:1.5rem;
-  transition:transform 0.2s ease, box-shadow 0.2s ease
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 1em;
 }
-.album-rank {
-  grid-row:span 2;
-  font-size:2rem;
-  font-weight:700;
-  color:#999;
-  text-align:center;
-  align-self:start
+
+.placement {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #444;
+  min-width: 1.5em;
 }
-.album-cover {
-  width:300px;
-  aspect-ratio:1;
-  object-fit:cover;
-  border-radius:0.5rem;
-  box-shadow:0 2px 5px rgba(0,0,0,0.15)
-}
-.album-info {
-  display:flex;
-  flex-direction:column;
-  gap:0.75rem
-}
+
 .album-title {
-  font-size:1.4rem;
-  font-weight:700;
-  color:#222;
-  margin:0;
+  width: 100%;
+  margin: 0;
   text-align: left;
+  font-size: 1.3em;
 }
-.album-meta {
-  font-size:0.9rem;
-  color:#666;
-  display:flex;
-  flex-wrap:wrap;
-  gap:0.5rem
+
+.favorite-lyrics {
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-left: 4px solid #333;
+  background: #fff;
+  font-style: italic;
+  color: #555;
 }
-.album-scores {
-  display:flex;
-  justify-content:space-between;
-  align-items:flex-start;
-  flex-wrap:wrap;
-  gap:0.5rem
+
+.favorite-lyrics p {
+  margin: 0.3em 0;
 }
-.micro-scores {
-  font-size:0.85rem;
-  color:#444;
-  display:flex;
-  flex-wrap:wrap;
-  gap:0.75rem;
-  opacity:0.8
+
+.album-cover {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
-.main-score {
-  display:flex;
-  gap:0.5rem;
-  align-items:center
+
+.album-metadata {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5em 1em;
+  margin: 1.5em 0;
+  padding: 1em;
+  background: #fff;
+  border-radius: 8px;
 }
-.score-percent,
-.score-grade {
-  display:inline-block;
-  padding:0.35rem 0.6rem;
-  border-radius:0.4rem;
-  background:#222;
-  color:white;
-  font-weight:600;
-  font-size:1.1rem;
-  min-width:3rem;
-  text-align:center
+
+.meta-item {
+  font-size: 0.85em;
 }
-.score-grade {
-  background:#444
+
+.scoring-section {
+  margin: 2em 0;
+  padding: 1.5em;
+  background: #fff;
+  border-radius: 8px;
 }
+
+.scoring-section h3 {
+  width: 100%;
+  text-align: left;
+  margin: 0 0 1em 0;
+  font-size: 1.1em;
+}
+
+.scores-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1em;
+  margin-bottom: 1.5em;
+}
+
+.score-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em;
+  background: #f5f5f5;
+  border-radius: 4px;
+}
+
+.score-label {
+  font-size: 0.8em;
+  color: #666;
+}
+
+.score-value {
+  font-weight: bold;
+  color: #000;
+}
+
+.final-score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  padding: 1em;
+  background: #333;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 1.2em;
+}
+
+.letter-grade {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.2em 0.5em;
+  background: #fff;
+  color: #333;
+  border-radius: 4px;
+}
+
 .album-review {
-  font-size:0.95rem;
-  line-height:1.6;
-  color:#333;
-  margin-top:0.5rem
-}
-.album-links {
-  margin-top:0.75rem
-}
-.album-links a {
-  font-weight:600;
-  color:#0077cc;
-  text-decoration:none
-}
-.album-links a:hover {
-  text-decoration:underline
+  margin: 2em 0;
 }
 
+.album-review h3 {
+  width: 100%;
+  text-align: left;
+  margin: 0 0 1em 0;
+  font-size: 1.1em;
+}
 
+.album-review p {
+  line-height: 1.6;
+}
 
+.listen-link {
+  display: block;
+  width: fit-content;
+  margin: 1.5em auto;
+  padding: 0.75em 2em;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
 
+.listen-link:hover {
+  background: #333;
+}
 
+.placeholder-notes {
+  margin-top: 2em;
+  padding: 1em;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  min-height: 80px;
+  background: #f9f9f9;
+}
 
-
-
-
-
-
+@media (max-width: 1100px) {
+  .album-metadata {
+    grid-template-columns: 1fr;
+  }
+  
+  .scores-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .placement {
+    font-size: 2em;
+  }
+}
 
 
 
