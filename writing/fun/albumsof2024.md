@@ -157,7 +157,6 @@ Favorite song: The Ballad of Matt & Mica<br><br>
 <h2>1. I Lay Down my Life for You - JPEGMAFIA</h2><br>
 	I first heard JPEGMafia in 2017 shortly after the release of his 2nd album Veteran. The lead track “1539 N Calvert” immediately entered and stayed in my top songs of all time list. The rest of the album is worth listening to, but it’s mostly an intentionally difficult listen due to his unique, chaotic production style. He followed it up a year later with All my Heroes are Cornballs which was definitely more listenable, but more melodic which in my opinion didn’t mix well with his production style. I’m also not the biggest fan of his singing voice. 2 years later he released LP! which was his best work yet - catchy, hard hitting, rap-focused, and best of all helped refine his signature sample heavy production. I Lay Down my Life for You is JPEGMafia perfected. Cohesive, narrative, provocative, beautiful at times, well structured, and metal as fuck. 
 	<br>
+	<br>
+
 Favorite song: Sin Miedo
-
-
-[back](./././)
