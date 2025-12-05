@@ -153,6 +153,9 @@ Last updated 12/5/2025.<br>
       <h3>Articles & Essays</h3>
         <ul>
           <li><a href="./writing/professional/EDLI-Portfolio.html">EDLI 6710: Managing School Libaria Media Centers Portfolio</a></li>
+          <!--<li><a href="./writing/professional/FILENAME.html">INTERDISCIPLINARY ESSAY</a></li>-->
+          <!--<li><a href="./writing/professional/FILENAME.html">EQUITY-ESSAY</a></li>-->
+          <!--<li><a href="./writing/professional/FILENAME.html">RESEARCH-PROPOSAL</a></li>-->
           <li><a href="./writing/professional/timeloopsminit.html">Time Loops and Escapism in Minit</a></li>
           <li><a href="./writing/professional/moralityin10cloverfield.html">Morality in 10 Cloverfield Lane</a></li>
           <li><a href="./writing/professional/velvetbuzzsaw.html">Velvet Buzzsaw Review & Analysis</a></li>
