@@ -180,7 +180,7 @@ Last updated 12/5/2025.<br>
           <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
           <br>
         <h3>Educational Goals and Philosophy Statement:</h3>
-          <p></p>
+          <p>My professinal role currently is that of an academic advisor at UVM's College of Nursing and Health sciences, however I previously worked in the University's Special Collections Library which gave me a profound passion and appreciation for archivist and library work. In taking EDLI 6710, I aimed to expose myself to the professional responsibilities of a librarian in K-12, and chose this class specifically because of my own abundant use of my school's media centers as a teenager.<br>My philosophy in my current role in student services, and potential future roles as an educator are similar: above all I strive to help students build confidence through guidance, access to resources, and opportunities which play to and allow them to exlore their strengths and interests.</p>
           <br>
         <h3>My Professional Portfolio:</h3>
         <ul>
