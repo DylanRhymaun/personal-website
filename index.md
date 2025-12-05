@@ -196,6 +196,6 @@ Last updated 12/4/2025.<br>
           <p>Standards Addressed: VT #61: 1.1.3, 1.3.2, 1,4,1, 3.2.1, 3.2.2, 3.3.2, 4.1.2, 4.2.1, 4.3.1, 4.4.1, 5.1.1, 5.3.1, 5.4.1, 5.3.2 || VT CTS: #10 || AASL:  4.1, 4.3, 5.2, 5.3, 5.4</p>
           <li>Placeholder for Practicum Reflection</li>
           <li><a href="https://docs.google.com/document/d/1ltfBXSeQQpg5v1QwxiEjoGnSYIbmR1W4hRZpoFsKQ78/edit?usp=sharing" style="text-decoration: underline;">Final Reflection</a></li>
-        <ul>
+        </ul>
     </section>
 </div>
