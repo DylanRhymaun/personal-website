@@ -180,7 +180,7 @@ Last updated 12/5/2025.<br>
           <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
           <br>
         <h3>Educational Goals and Philosophy Statement:</h3>
-          <p>Words go here. </p>
+          <p></p>
           <br>
         <h3>My Professional Portfolio:</h3>
         <ul>
@@ -198,6 +198,8 @@ Last updated 12/5/2025.<br>
           <li style="text-decoration: underline;">Placeholder for Practicum Reflection</li>
           <li><a href="https://docs.google.com/document/d/1ltfBXSeQQpg5v1QwxiEjoGnSYIbmR1W4hRZpoFsKQ78/edit?usp=sharing" style="text-decoration: underline;">Final Reflection</a></li>
         </ul>
+        <br>
+        <h3>Course Reflection</h3>
         <p>I signed up for EDLI 6710 because of my experience as a library assistant while in college at UVM’s Special Collections Library. While I love my current role as an advisor, that part time job is, to this day, my favorite that I’ve ever had. It was truly a joy to come to work each day as I would always see and learn something new. What caught me by surprise was the many differences between the role of a university librarian and a librarian in a K-12 school - namely that the resources in K-12 require that the responsibilities of nearly the entire 6 person staff I worked with were truly, without hyperbole, put on one person. </p>
 	      <p>The role of a school librarian is complicated even further when noting the specific responsibilities included with managing a media center. Even after mocking some of the work that a library media specialist would do in the field, seeing it in person was an eye opening experience. For our action research assignment, I worked with the Burlington High School library with librarian Shannon Walters, the sole librarian. Beyond managing the day to day of the book side of the library, she also managed the computer lab, makerspace and associated tools, special collections, book depository, and video lab. While the library I worked in at UVM had a much larger special collections library than at BHS, yet the ratio of material to staff member, and diversity of those materials, is wildly unbalanced. </p>
 	      <p>The work it takes to be certified as a librarian also caught me off guard. I had assumed that the preparation process would focus mainly on collection management and instructional support, but the scope of their position and responsibilities needed to prepare for is far wider. The Policy and Procedure Analysis Project, for example, demonstrated just how much of a school librarian’s effectiveness rests on having clear and equitable rules. A poorly written or invisible procedure can limit access, while a strong one can expand it.
