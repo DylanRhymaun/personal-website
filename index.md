@@ -15,7 +15,7 @@ Last updated 12/5/2025 11:46 AM EST.<br>
   <option value="two">Photography</option>
   <option value="three">Words</option>
   <option value="four">Games</option>
-  <option value="five">EDLI 6210</option>
+  <option value="five">EDLI 6720</option>
 </select>
 {% endraw %}
 
@@ -152,7 +152,7 @@ Last updated 12/5/2025 11:46 AM EST.<br>
         </ul>
       <h3>Articles & Essays</h3>
         <ul>
-          <li><a href="./writing/professional/EDLI-Portfolio.html">EDLI 6710: Managing School Libaria Media Centers Portfolio</a></li>
+          <li><a href="./writing/professional/EDLI-Portfolio.html">EDLI 6720: Managing School Libaria Media Centers Portfolio</a></li>
           <!--<li><a href="./writing/professional/FILENAME.html">INTERDISCIPLINARY ESSAY</a></li>-->
           <!--<li><a href="./writing/professional/FILENAME.html">EQUITY-ESSAY</a></li>-->
           <!--<li><a href="./writing/professional/FILENAME.html">RESEARCH-PROPOSAL</a></li>-->
@@ -184,7 +184,7 @@ Last updated 12/5/2025 11:46 AM EST.<br>
           <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
           <br>
         <h3>Educational Goals and Philosophy Statement:</h3>
-          <p>My professinal role currently is that of an academic advisor at UVM's College of Nursing and Health sciences, however I previously worked in the University's Special Collections Library which gave me a profound passion and appreciation for archivist and library work. In taking EDLI 6710, I aimed to expose myself to the professional responsibilities of a librarian in K-12, and chose this class specifically because of my own abundant use of my school's media centers as a teenager.<br>My philosophy in my current role in student services, and potential future roles as an educator are similar: above all I strive to help students build confidence through guidance, access to resources, and opportunities which play to and allow them to exlore their strengths and interests.</p>
+          <p>My professinal role currently is that of an academic advisor at UVM's College of Nursing and Health sciences, however I previously worked in the University's Special Collections Library which gave me a profound passion and appreciation for archivist and library work. In taking EDLI 6720, I aimed to expose myself to the professional responsibilities of a librarian in K-12, and chose this class specifically because of my own abundant use of my school's media centers as a teenager.<br>My philosophy in my current role in student services, and potential future roles as an educator are similar: above all I strive to help students build confidence through guidance, access to resources, and opportunities which play to and allow them to exlore their strengths and interests.</p>
           <br>
         <h3>My Professional Portfolio:</h3>
         <ul>
@@ -204,7 +204,7 @@ Last updated 12/5/2025 11:46 AM EST.<br>
         </ul>
         <br>
         <h3>Course Reflection</h3>
-        <p>I signed up for EDLI 6710 because of my experience as a library assistant while in college at UVM’s Special Collections Library. While I love my current role as an advisor, that part time job is, to this day, my favorite that I’ve ever had. It was truly a joy to come to work each day as I would always see and learn something new. What caught me by surprise was the many differences between the role of a university librarian and a librarian in a K-12 school - namely that the resources in K-12 require that the responsibilities of nearly the entire 6 person staff I worked with were truly, without hyperbole, put on one person. </p>
+        <p>I signed up for EDLI 6720 because of my experience as a library assistant while in college at UVM’s Special Collections Library. While I love my current role as an advisor, that part time job is, to this day, my favorite that I’ve ever had. It was truly a joy to come to work each day as I would always see and learn something new. What caught me by surprise was the many differences between the role of a university librarian and a librarian in a K-12 school - namely that the resources in K-12 require that the responsibilities of nearly the entire 6 person staff I worked with were truly, without hyperbole, put on one person. </p>
 	      <p>The role of a school librarian is complicated even further when noting the specific responsibilities included with managing a media center. Even after mocking some of the work that a library media specialist would do in the field, seeing it in person was an eye opening experience. For our action research assignment, I worked with the Burlington High School library with librarian Shannon Walters, the sole librarian. Beyond managing the day to day of the book side of the library, she also managed the computer lab, makerspace and associated tools, special collections, book depository, and video lab. While the library I worked in at UVM had a much larger special collections library than at BHS, yet the ratio of material to staff member, and diversity of those materials, is wildly unbalanced. </p>
 	      <p>The work it takes to be certified as a librarian also caught me off guard. I had assumed that the preparation process would focus mainly on collection management and instructional support, but the scope of their position and responsibilities needed to prepare for is far wider. The Policy and Procedure Analysis Project, for example, demonstrated just how much of a school librarian’s effectiveness rests on having clear and equitable rules. A poorly written or invisible procedure can limit access, while a strong one can expand it.</p>
         <p>Meanwhile, the Strategic Planning & Advocacy assignment helped me understand that improvement in a school library is not coincidental - it requires intentional planning, alignment with district goals, and a willingness to seek out and make sense of empirical evidence from the library space.	</p>
