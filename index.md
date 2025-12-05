@@ -178,9 +178,10 @@ Last updated 12/4/2025.<br>
     <section id="five" class="hidden">
         <h2>EDLI 6720 - Managing School Library Media Centers Portfolio / Personal Learning Network</h2>
           <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
-        <h3>Educational Goals and Philosophy Statement</h3>
+        <h3>Educational Goals and Philosophy Statement:</h3>
           <p>Words go here. </p>
           <br>
+        <h3>My Professional Portfolio:</h3>
         <ul>
           <li><a href="https://docs.google.com/document/d/1ERfltHnB6NzHl7hAYKHs9CBlnDxfebIat7xw9a0wJ1Y/edit?usp=sharing">My Resume</a></li>
           <li><a href="https://docs.google.com/document/d/18uAHg2Yc-UNjXo9upx3dGalNmfLs5qwu/edit?usp=sharing&ouid=101557028244831422946&rtpof=true&sd=true" style="text-decoration: underline;">Link to EDLI 6720 Syllabus</a></li>
