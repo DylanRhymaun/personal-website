@@ -105,8 +105,10 @@ a {
 }
 
 /* ############### AOTY CSS ############### */
-/* Album Card Styling - Compact Version */
+
 .album-card {
+  transform: scale(0.9);
+  transform-origin: top center;
   margin: 2em auto;
   padding: 1.5em;
   border: 1px solid #d0d0d0;
