@@ -3,42 +3,10 @@ layout: default
 title: "My 100 Favorite Albums of 2025"
 custom_css: albumsof2025.css
 ---
-<!--
-<div class="album-entry">
-  <div class="album-rank">#1</div>
-  <img src="../../assets/img/albumcovers25/../../assets/img/albumcovers25/honningbarna.png" alt="Album Cover" class="album-cover">
-  <div class="album-info">
-    <h2 class="album-title">Soft Spot - Honningbarna</h2>
-    <div class="album-meta">
-      <span class="genre">Genre: Rock</span> · 
-      <span class="subgenre">Noise Rock</span> · 
-      <span class="country">Norway</span> · 
-      <span class="format">Album</span>
-    </div>
-    <div class="album-scores">
-      <div class="micro-scores">
-        <span class="score-nuance">Nuance: 5</span>
-        <span class="score-narrative">Narrative: 5</span>
-        <span class="score-novelty">Novelty: 5</span>
-        <span class="score-Listenability">Listenability: 3</span>
-        <span class="score-bonus">Bonus: +3</span>
-      </div>
-      <div class="main-score">
-        <span class="score-percent">100%</span>
-        <span class="score-grade">A+</span>
-      </div>
-    </div>
-    <div class="album-review">
-    <p>My thoughts about this album go here — 50–500 words of commentary...</p>
-    </div>
-    <div class="album-links">
-      <a href="https://example.com" target="_blank">Listen ↗</a>
-    </div>
-  </div>
-</div>
--->
 
-# Introduction
+# Reviewing the 120 Albums and EPs I Listened to in 2025
+
+## Introduction
 Introduction goes here
 
 <article class="album-card">
@@ -4572,7 +4540,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
     <h3>Review</h3>
     <p>Edits is a unique but rewarding gauntlet that not only makes you think about what&#x27;s sampled (using loosely), but about what makes &quot;songs&quot;, &quot;albums&quot;, and &quot;music&quot; itself. 
 The &quot;songs&quot; on this album, are definitley music, it&#x27;s wild that I have to say that, but what makes this album unique is that it&#x27;s entirely DJ edits, so as far as I know, it&#x27;s sampling on top of sampling, at best. That does not sound like something worthy of praise, nor am I praising it, but the final product is something I have genuinely never heard before. Most of the time, it sounds fucking insane, like nothing more than two completely unrelated tracks played over one another. 
-This is really hard to talk about for me both because of its complexity and because it kinda fried my brain for the day, so I&#x27;m just going to refer you to Sam Goldner&#x27;s pitchf*rk review from here on out: https://pitchfork.com/reviews/albums/chuquimamani-condori-edits/
+This is really hard to talk about for me both because of its complexity and because it kinda fried my brain for the day, so I&#x27;m just going to refer you to Sam Goldner&#x27;s pitchf*rk review from here on out: [Link](https://pitchfork.com/reviews/albums/chuquimamani-condori-edits/)
 </p>
   </div>
   
