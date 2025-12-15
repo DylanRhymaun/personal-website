@@ -6,7 +6,7 @@ custom_css: albumsof2025.css
 <!--
 <div class="album-entry">
   <div class="album-rank">#1</div>
-  <img src="../../assets/img/albumcovers25/honningbarna.png" alt="Album Cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/../../assets/img/albumcovers25/honningbarna.png" alt="Album Cover" class="album-cover">
   <div class="album-info">
     <h2 class="album-title">Soft Spot - Honningbarna</h2>
     <div class="album-meta">
@@ -52,7 +52,7 @@ Introduction goes here
     <p>Got me thinkin’ &#x27;bout way back, ’bout times we couldn&#x27;t manage</p>
   </blockquote>
   
-  <img src="badass.png" alt="Lonely at the Top - Joey Bada$$ cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/badass.png" alt="Lonely at the Top - Joey Bada$$ cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -117,7 +117,7 @@ Introduction goes here
     <p>JENNIE, JENNIE, JENNIE, JENNIE, JENNIE, JENNIE, JENNIE</p>
   </blockquote>
   
-  <img src="jennie.png" alt="Ruby - Jennie cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/jennie.png" alt="Ruby - Jennie cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -185,7 +185,7 @@ This is a pretty terrible album across the board, but I should give praise again
     <p>I never even saw you cry, am I an easy goodbye?</p>
   </blockquote>
   
-  <img src="flume.png" alt="Dumb - Flume &amp; Emma Louise cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/flume.png" alt="Dumb - Flume &amp; Emma Louise cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -250,7 +250,7 @@ This is a pretty terrible album across the board, but I should give praise again
     <p>No</p>
   </blockquote>
   
-  <img src="swift.png" alt="The Life of a Showgirl - Taylor Swift cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/swift.png" alt="The Life of a Showgirl - Taylor Swift cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -318,7 +318,7 @@ In summary, this project was even more dissapointing than I expected. Contrary t
     <p>You pray for sound and I pray for silence</p>
   </blockquote>
   
-  <img src="token.png" alt="Even in Arcadia - Sleep Token cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/token.png" alt="Even in Arcadia - Sleep Token cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -386,7 +386,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
     <p>Ain&#x27;t nobody give a fuck when Tay was dead in the street</p>
   </blockquote>
   
-  <img src="jid.png" alt="God Does Like Ugly - JID cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/jid.png" alt="God Does Like Ugly - JID cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -451,7 +451,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
     <p>Tofu tofu tofu tofu tofu tofu tofu tofu</p>
   </blockquote>
   
-  <img src="thackray.png" alt="Weirdo - Emma Jean Thackray cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/thackray.png" alt="Weirdo - Emma Jean Thackray cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -517,7 +517,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
     <p>Hello?</p>
   </blockquote>
   
-  <img src="tyler.png" alt="Don&#x27;t Tap the Glass - Tyler the Creator cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/tyler.png" alt="Don&#x27;t Tap the Glass - Tyler the Creator cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -588,7 +588,7 @@ Anyways, most of the songs on this album sound the same, and like last year, Tyl
     <p>Here we go again, crying in bed, what a familiar feeling. All my friends in love, and I&#x27;m the one they call for a third wheeling</p>
   </blockquote>
   
-  <img src="sabrina.png" alt="Man&#x27;s Best Friend - Sabrina Carpenter cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/sabrina.png" alt="Man&#x27;s Best Friend - Sabrina Carpenter cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -654,7 +654,7 @@ Anyways, most of the songs on this album sound the same, and like last year, Tyl
     <p>A place where frequencies align, shifting my paradigm</p>
   </blockquote>
   
-  <img src="au5.png" alt="Earthwave - AU5 cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/au5.png" alt="Earthwave - AU5 cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -721,7 +721,7 @@ My problems with this type of electronic music and AU5 are 100% reflective of my
     <p>Would you avoid me or would you look for me too?</p>
   </blockquote>
   
-  <img src="sombr.png" alt="I Barely Know Her - Sombr cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/sombr.png" alt="I Barely Know Her - Sombr cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -788,7 +788,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
     <p>I wanna go on vacay</p>
   </blockquote>
   
-  <img src="amine.png" alt="13 Months of Sunshine - Amine cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/amine.png" alt="13 Months of Sunshine - Amine cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -854,7 +854,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
     <p>Heaven on earth may fade away but you and I are forever to stay in love</p>
   </blockquote>
   
-  <img src="kali.png" alt="Sincerely - Kali Uchis cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/kali.png" alt="Sincerely - Kali Uchis cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -920,7 +920,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
     <p>Indecisive, obsessive, I crave</p>
   </blockquote>
   
-  <img src="marina.png" alt="Princess of Power - Marina cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/marina.png" alt="Princess of Power - Marina cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -986,7 +986,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
     <p>Tell me more, or tell me nothing</p>
   </blockquote>
   
-  <img src="boniver.png" alt="Sable Fable - Bon Iver cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/boniver.png" alt="Sable Fable - Bon Iver cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -1053,7 +1053,7 @@ This was my first and will most likely be my last time listening to Bon Iver. I 
     <p>More like an animal crawling deep into a cave than a romance novel heroine being swept away</p>
   </blockquote>
   
-  <img src="machine.png" alt="Everybody Scream - Florence and the Machine cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/machine.png" alt="Everybody Scream - Florence and the Machine cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -1121,7 +1121,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>The caption said &quot;Greatest rapper 2017&quot;</p>
   </blockquote>
   
-  <img src="torr.png" alt="Crash Bogus - Torr cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/torr.png" alt="Crash Bogus - Torr cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -1186,7 +1186,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>Spend my bread on a private chef just to make more bread &#x27;cause I&#x27;m cheap like that</p>
   </blockquote>
   
-  <img src="kota.png" alt="No Rap on Sunday - Kota the Friend cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/kota.png" alt="No Rap on Sunday - Kota the Friend cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -1251,7 +1251,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>If the sun&#x27;s still shining down on her</p>
   </blockquote>
   
-  <img src="macdemarco.png" alt="Guitar - Mac Demarco cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/macdemarco.png" alt="Guitar - Mac Demarco cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -1317,7 +1317,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>Is it brave, begging, &quot;Rewind!&quot;</p>
   </blockquote>
   
-  <img src="dijon.png" alt="Baby - Dijon cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/dijon.png" alt="Baby - Dijon cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> R&amp;B</span>
@@ -1382,7 +1382,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>Abracadabra!</p>
   </blockquote>
   
-  <img src="mac.png" alt="Baloonerism - Mac Miller cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/mac.png" alt="Baloonerism - Mac Miller cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -1448,7 +1448,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>I want you to teach me, we&#x27;re both feeling unlovable</p>
   </blockquote>
   
-  <img src="doja.png" alt="Vie - Doja Cat cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/doja.png" alt="Vie - Doja Cat cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -1514,7 +1514,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>You think you&#x27;re so misunderstood, The black cat of your neighborhood</p>
   </blockquote>
   
-  <img src="laufey.png" alt="A Matter of Time - Laufey cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/laufey.png" alt="A Matter of Time - Laufey cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -1579,7 +1579,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>N/A</p>
   </blockquote>
   
-  <img src="highsociety.png" alt="Datamosh - High Society cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/highsociety.png" alt="Datamosh - High Society cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -1644,7 +1644,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>N/A</p>
   </blockquote>
   
-  <img src="tokyona.png" alt="Synthetic Love - Tokyona cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/tokyona.png" alt="Synthetic Love - Tokyona cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -1710,7 +1710,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>Run like a tumbleweed, the sun keeps beating so hypnotic</p>
   </blockquote>
   
-  <img src="chanpan.png" alt="Endlessly - Chanpan cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/chanpan.png" alt="Endlessly - Chanpan cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -1776,7 +1776,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
     <p>And I&#x27;m crazy now, but it got dark</p>
   </blockquote>
   
-  <img src="benee.png" alt="Ur an Angel I&#x27;m Just Particles - Benee cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/benee.png" alt="Ur an Angel I&#x27;m Just Particles - Benee cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -1844,7 +1844,7 @@ In summary, Ur an Angel I&#x27;m Just Particles is a decently fun but basic pop 
     <p>Durch TikTok-Algorithmus hab&#x27; ich in letzter Zeit zu viel Musik von Ayliva gehört</p>
   </blockquote>
   
-  <img src="ssio.png" alt="Alles oder Nix - SSIO  cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/ssio.png" alt="Alles oder Nix - SSIO  cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -1911,7 +1911,7 @@ About a quarter of the albums on this list are not primarily in English, but thi
     <p>And my heart keeps telling me now, every time I see the boy</p>
   </blockquote>
   
-  <img src="rochelle.png" alt="Through the Wall - Rochelle Jordan cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/rochelle.png" alt="Through the Wall - Rochelle Jordan cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -1976,7 +1976,7 @@ About a quarter of the albums on this list are not primarily in English, but thi
     <p>Because I knew you, I&#x27;ve been changed for good</p>
   </blockquote>
   
-  <img src="wicked.png" alt="Wicked: For Good Soundtrack - Ariana Grande, Cynthia Erivio, and cast  cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/wicked.png" alt="Wicked: For Good Soundtrack - Ariana Grande, Cynthia Erivio, and cast  cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Musical Theater</span>
@@ -2045,7 +2045,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
     <p>Was the best day I had in a while &#x27;til she crossed my mind</p>
   </blockquote>
   
-  <img src="geliatry.png" alt="Anywhere Here is Perfect - Sam Gelliatry cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/geliatry.png" alt="Anywhere Here is Perfect - Sam Gelliatry cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -2111,7 +2111,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
     <p>You&#x27;re recommended to me by some people</p>
   </blockquote>
   
-  <img src="pinkpantheress.png" alt="Fancy That - Pinkpantheress cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/pinkpantheress.png" alt="Fancy That - Pinkpantheress cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -2177,7 +2177,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
     <p>Hard to let you go, Healthy as we pray for a journey home</p>
   </blockquote>
   
-  <img src="bloodorange.png" alt="Essex Honey - Blood Orange cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/bloodorange.png" alt="Essex Honey - Blood Orange cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> R&amp;B</span>
@@ -2243,7 +2243,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
     <p>Runnin&#x27; around, this shit don&#x27;t stop</p>
   </blockquote>
   
-  <img src="paristexas.png" alt="They Left me with the Sword - Paris Texas cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/paristexas.png" alt="They Left me with the Sword - Paris Texas cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -2309,7 +2309,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
     <p>I&#x27;ll keep myself up, that&#x27;s maybe how you know that</p>
   </blockquote>
   
-  <img src="21pilots.png" alt="Breach - 21 Pilots cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/21pilots.png" alt="Breach - 21 Pilots cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -2376,7 +2376,7 @@ I do have to comment on the themes that the duo tends to use on this and in the 
     <p>Don&#x27;t look at me like you&#x27;re in love</p>
   </blockquote>
   
-  <img src="blusher.png" alt="Racer - Blusher cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/blusher.png" alt="Racer - Blusher cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -2442,7 +2442,7 @@ I do have to comment on the themes that the duo tends to use on this and in the 
     <p>Flashlight, nitric gas, psychopath</p>
   </blockquote>
   
-  <img src="waterfromyoureyes.png" alt="It&#x27;s a Beautiful Place - Water From Your Eyes cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/waterfromyoureyes.png" alt="It&#x27;s a Beautiful Place - Water From Your Eyes cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -2511,7 +2511,7 @@ I&#x27;m fully aware these reviews shouldn&#x27;t focus on anything but the musi
     <p>I&#x27;m in deep, I could use you by my side</p>
   </blockquote>
   
-  <img src="pandabear.png" alt="Sinister Grift - Panda Bear cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/pandabear.png" alt="Sinister Grift - Panda Bear cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -2579,7 +2579,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
     <p>Now I’m hanging by my high hope</p>
   </blockquote>
   
-  <img src="josie.png" alt="Good Girls - Josie Edwards cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/josie.png" alt="Good Girls - Josie Edwards cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Folk</span>
@@ -2645,7 +2645,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
     <p>Del stage directo al sanatorio</p>
   </blockquote>
   
-  <img src="fredagain.png" alt="USB - Fred Again.. cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/fredagain.png" alt="USB - Fred Again.. cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -2711,7 +2711,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
     <p>Fearless and undefined, this is what it sounds like</p>
   </blockquote>
   
-  <img src="huntrix.png" alt="Kpop Demon Hunters Soundtrack cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/huntrix.png" alt="Kpop Demon Hunters Soundtrack cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -2777,7 +2777,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
     <p>Lost in a world of childlike things and tragedies</p>
   </blockquote>
   
-  <img src="twigs.png" alt="Eusexua - FKA Twigs cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/twigs.png" alt="Eusexua - FKA Twigs cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -2845,7 +2845,7 @@ In summary, I appluad this album for getting a reaction out of me, but I&#x27;m 
     <p>The moment the flame burns me, finally, I can breathe</p>
   </blockquote>
   
-  <img src="sserafim.png" alt="Hot - Le Sserafim cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/sserafim.png" alt="Hot - Le Sserafim cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -2913,7 +2913,7 @@ As a side - They did release a full album only on vinyl using songs from their l
     <p>Can’t run with the wolves when you&#x27;re a stray, Can&#x27;t let anyone know you gettin’ paid</p>
   </blockquote>
   
-  <img src="billiewoods.png" alt="Golliwag - Billie Woods cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/billiewoods.png" alt="Golliwag - Billie Woods cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -2980,7 +2980,7 @@ Individually, the tracklist&#x27;s high points offer a feast of profound bars ov
     <p>もっと 言葉の生まれる前からずっと</p>
   </blockquote>
   
-  <img src="ichiko.png" alt="Luminescent Creatures - Ichiko Aoba cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/ichiko.png" alt="Luminescent Creatures - Ichiko Aoba cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -3047,7 +3047,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
     <p>I might find them in the tune I’m listening to now</p>
   </blockquote>
   
-  <img src="taba.png" alt="Taba - Satomimagae cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/taba.png" alt="Taba - Satomimagae cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Ambient</span>
@@ -3112,7 +3112,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
     <p>Start drawing my name with a heart next to it</p>
   </blockquote>
   
-  <img src="triples.png" alt="Assemble25 - TripleS cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/triples.png" alt="Assemble25 - TripleS cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -3177,7 +3177,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
     <p>N/A</p>
   </blockquote>
   
-  <img src="skrillex.png" alt="Fuck You Skrillex You Think You&#x27;re Andy Warhol but You&#x27;re Not!! - Skrillex cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/skrillex.png" alt="Fuck You Skrillex You Think You&#x27;re Andy Warhol but You&#x27;re Not!! - Skrillex cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -3243,7 +3243,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
     <p>I thought I told you geek down, the trouble follow me &#x27;round</p>
   </blockquote>
   
-  <img src="earl.png" alt="Live Laugh Love - Earl Sweatshirt cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/earl.png" alt="Live Laugh Love - Earl Sweatshirt cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -3328,7 +3328,7 @@ Great album, just a bit too reminiscent of &lt;em&gt;Some Raps Songs&lt;/em&gt; 
     <p>I got a new chain, it say: &quot;FUCK ICE&quot;</p>
   </blockquote>
   
-  <img src="chance.png" alt="Star Line - Chance the Rapper cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/chance.png" alt="Star Line - Chance the Rapper cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -3394,7 +3394,7 @@ Great album, just a bit too reminiscent of &lt;em&gt;Some Raps Songs&lt;/em&gt; 
     <p>Back into my old ways again</p>
   </blockquote>
   
-  <img src="impala.png" alt="Deadbeat - Tame Impala cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/impala.png" alt="Deadbeat - Tame Impala cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -3461,7 +3461,7 @@ My only problem with the album, however, is that individual tracks don&#x27;t gi
     <p>When they ain’t nobody knowin’, Any prayer you’ve ever sang</p>
   </blockquote>
   
-  <img src="childers.png" alt="Snipe Hunter - Tyler Childers cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/childers.png" alt="Snipe Hunter - Tyler Childers cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Country</span>
@@ -3527,7 +3527,7 @@ My only problem with the album, however, is that individual tracks don&#x27;t gi
     <p>I wrеstled with strength just like you, I atе from the apple of my ruse</p>
   </blockquote>
   
-  <img src="deafheaven.png" alt="Lonely People with Power - Deafheaven cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/deafheaven.png" alt="Lonely People with Power - Deafheaven cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Metal</span>
@@ -3596,7 +3596,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
     <p>If you twist the knife right I will twist the knife left</p>
   </blockquote>
   
-  <img src="dinnerparty.png" alt="From the Pyre - The Last Dinner Party cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/dinnerparty.png" alt="From the Pyre - The Last Dinner Party cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -3662,7 +3662,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
     <p>Under crystal chandeliers, he tells me words I want to hear</p>
   </blockquote>
   
-  <img src="yeule.png" alt="Evangelic Girl is a Gun - Yeule cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/yeule.png" alt="Evangelic Girl is a Gun - Yeule cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -3727,7 +3727,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
     <p>N/A</p>
   </blockquote>
   
-  <img src="swim.png" alt="Loner - Barry Can&#x27;t Swim cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/swim.png" alt="Loner - Barry Can&#x27;t Swim cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -3794,7 +3794,7 @@ If there was one thing to say about this album, it&#x27;s in praise of how diver
     <p>And she ruses a life, but that&#x27;s fine</p>
   </blockquote>
   
-  <img src="celeste.png" alt="People of Faces - Celeste cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/celeste.png" alt="People of Faces - Celeste cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> R&amp;B</span>
@@ -3860,7 +3860,7 @@ If there was one thing to say about this album, it&#x27;s in praise of how diver
     <p>Would you turn my page? Would you read me?</p>
   </blockquote>
   
-  <img src="bibi.png" alt="Eve: Romance - Bibi cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/bibi.png" alt="Eve: Romance - Bibi cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -3928,7 +3928,7 @@ One random positive comment I have though is that it&#x27;s nice to have a kpop 
     <p>Oh, who could give me lightness?</p>
   </blockquote>
   
-  <img src="lorde.png" alt="Virgin - Lorde cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/lorde.png" alt="Virgin - Lorde cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -3996,7 +3996,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
     <p>N/A</p>
   </blockquote>
   
-  <img src="betcover.png" alt="Yuki - Betcover!! cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/betcover.png" alt="Yuki - Betcover!! cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Jazz</span>
@@ -4062,7 +4062,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
     <p>Are getting kinda freaky on a beach in Ibiza</p>
   </blockquote>
   
-  <img src="victorjones.png" alt="Zookeeper - Victor Jones cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/victorjones.png" alt="Zookeeper - Victor Jones cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -4128,7 +4128,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
     <p>He saw his body torn in two, Placed a hand but it sank straight through</p>
   </blockquote>
   
-  <img src="alon.png" alt="In Limerence - Jacob Alon cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/alon.png" alt="In Limerence - Jacob Alon cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Folk</span>
@@ -4197,7 +4197,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
     <p>What a waste of my fucking money, I&#x27;ll just do it myself</p>
   </blockquote>
   
-  <img src="lola.png" alt="I&#x27;m Only Fucking Myself - Lola Young cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/lola.png" alt="I&#x27;m Only Fucking Myself - Lola Young cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -4263,7 +4263,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
     <p>&quot;Well, that didn&#x27;t quite go to plan,&quot; I say on the radio</p>
   </blockquote>
   
-  <img src="wetleg.png" alt="Moisturizer - Wet Leg cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/wetleg.png" alt="Moisturizer - Wet Leg cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -4329,7 +4329,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
     <p>&quot;Yes, it&#x27;s a sunset&quot;, someone said. And just exactly how much did you spend?</p>
   </blockquote>
   
-  <img src="pulp.png" alt="More - Pulp cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/pulp.png" alt="More - Pulp cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -4396,7 +4396,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
     <p>If I were a gambling man, and I am, you’d be my best bet.</p>
   </blockquote>
   
-  <img src="lucy.png" alt="Forever is a Feeling - Lucy Dacus cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/lucy.png" alt="Forever is a Feeling - Lucy Dacus cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -4461,7 +4461,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
     <p>I got sixty-eight inches of the music in me waitin&#x27;</p>
   </blockquote>
   
-  <img src="janeremover3.png" alt="&lt;3 - Jane Remover cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/janeremover3.png" alt="&lt;3 - Jane Remover cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -4526,7 +4526,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
     <p>N/A</p>
   </blockquote>
   
-  <img src="condori.png" alt="Edits - Chuquimamani-Condori cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/condori.png" alt="Edits - Chuquimamani-Condori cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Other</span>
@@ -4595,7 +4595,7 @@ This is really hard to talk about for me both because of its complexity and beca
     <p>더위 먹은 듯 panic, 또다시 spinning, 돌고 돌아</p>
   </blockquote>
   
-  <img src="ifeye.png" alt="Sweet Tang  - Ifeye cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/ifeye.png" alt="Sweet Tang  - Ifeye cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -4661,7 +4661,7 @@ This is really hard to talk about for me both because of its complexity and beca
     <p>And you could pay a guy to get his horse to stomp you on the head, Life is hard, and it&#x27;s harder when you like it hard</p>
   </blockquote>
   
-  <img src="viagra.png" alt="Viagr Aboys - Viagra Boys cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/viagra.png" alt="Viagr Aboys - Viagra Boys cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -4727,7 +4727,7 @@ This is really hard to talk about for me both because of its complexity and beca
     <p>You at night, me by day, who would say it? (Fuck)</p>
   </blockquote>
   
-  <img src="ca7triel.png" alt="Papota - Ca7triel &amp; Paco Amoroso cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/ca7triel.png" alt="Papota - Ca7triel &amp; Paco Amoroso cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -4794,7 +4794,7 @@ These guys are inventive, addicting, and hilarious. It can be a bit crass someti
     <p>And you can suck the dick and then drink the piss!</p>
   </blockquote>
   
-  <img src="kylegordon.png" alt="Kyle Gordon is Wonderful - Kyle Gordon cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/kylegordon.png" alt="Kyle Gordon is Wonderful - Kyle Gordon cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Comedy</span>
@@ -4861,7 +4861,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
     <p>At the right time, I don&#x27;t wanna be somebody else</p>
   </blockquote>
   
-  <img src="caroline.png" alt="Caroline - Caroline 2 cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/caroline.png" alt="Caroline - Caroline 2 cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -4927,7 +4927,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
     <p>Dirty tea, you&#x27;re like the Mona Lisa</p>
   </blockquote>
   
-  <img src="bigthief.png" alt="Double Infinity - Big Thief cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/bigthief.png" alt="Double Infinity - Big Thief cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -4992,7 +4992,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
     <p>N/A</p>
   </blockquote>
   
-  <img src="krok.png" alt="Krok - СОЮЗ  cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/krok.png" alt="Krok - СОЮЗ  cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Jazz</span>
@@ -5058,7 +5058,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
     <p>And I don’t understand, do you got a plan?</p>
   </blockquote>
   
-  <img src="f5ve.png" alt="Sequence 01 - F5ve cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/f5ve.png" alt="Sequence 01 - F5ve cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -5124,7 +5124,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
     <p>Girl, inside that mask of yours-yours, just take it off and let it show</p>
   </blockquote>
   
-  <img src="yunglean.png" alt="Jonatan - Yung Lean cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/yunglean.png" alt="Jonatan - Yung Lean cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -5190,7 +5190,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
     <p>Been drowning in dreams lately, like it&#x27;s 2019, baby</p>
   </blockquote>
   
-  <img src="lisa.png" alt="Alter Ego - Lisa cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/lisa.png" alt="Alter Ego - Lisa cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -5258,7 +5258,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
     <p>A new wine intoxicates you slowly out of time</p>
   </blockquote>
   
-  <img src="deftones.png" alt="Deftones - Private Music cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/deftones.png" alt="Deftones - Private Music cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Metal</span>
@@ -5324,7 +5324,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
     <p>I wanna tell you I want you, you&#x27;d probably take it the wrong way</p>
   </blockquote>
   
-  <img src="quadeca.png" alt="Vanisher, Horizon Scraper - Quadeca cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/quadeca.png" alt="Vanisher, Horizon Scraper - Quadeca cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -5390,7 +5390,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
     <p>On the night we filled our bodies with amphetamines</p>
   </blockquote>
   
-  <img src="porches.png" alt="Je T&#x27;aime &amp; Scrap and Love Songs Revisited - Porches cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/porches.png" alt="Je T&#x27;aime &amp; Scrap and Love Songs Revisited - Porches cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -5457,7 +5457,7 @@ I don&#x27;t know much about Porches but I have to say that these two EPs really
     <p>And it&#x27;s not much faith that you have &#x27;cause it’s suffocating</p>
   </blockquote>
   
-  <img src="janeremover2.png" alt="Ghostholding - Venturing/Jane Remover cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/janeremover2.png" alt="Ghostholding - Venturing/Jane Remover cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -5523,7 +5523,7 @@ On &lt;em&gt;Ghostholding&lt;/em&gt;, Jane Remover, under the name Venturing, em
     <p>There&#x27;s a bomb in my car</p>
   </blockquote>
   
-  <img src="geese.png" alt="Getting Killed - Geese cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/geese.png" alt="Getting Killed - Geese cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -5591,7 +5591,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>Why they always wanna hate when the love is free</p>
   </blockquote>
   
-  <img src="simz.png" alt="Lotus - Little Simz cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/simz.png" alt="Lotus - Little Simz cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -5657,7 +5657,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>Scream I&#x27;m the worst, sitting shotgun at the church</p>
   </blockquote>
   
-  <img src="2hollis.png" alt="Star - 2Hollis cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/2hollis.png" alt="Star - 2Hollis cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -5723,7 +5723,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>It&#x27;s all coming down on me, Can we stay inside</p>
   </blockquote>
   
-  <img src="racing.png" alt="Racing Mount Pleasant - Racing Mount Pleasant cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/racing.png" alt="Racing Mount Pleasant - Racing Mount Pleasant cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -5789,7 +5789,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>Thank you for recording</p>
   </blockquote>
   
-  <img src="alexg.png" alt="Headlights - Alex G cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/alexg.png" alt="Headlights - Alex G cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -5855,7 +5855,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>Take what you want!</p>
   </blockquote>
   
-  <img src="cortis.png" alt="Color outside the Lines - Cortis cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/cortis.png" alt="Color outside the Lines - Cortis cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -5920,7 +5920,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>Tell me, tell me it&#x27;s not that heavy</p>
   </blockquote>
   
-  <img src="florence.png" alt="Fall Back - Florence Road cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/florence.png" alt="Fall Back - Florence Road cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -5986,7 +5986,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>And I&#x27;ll probably crash your stupid car and make your life a misery</p>
   </blockquote>
   
-  <img src="olivia.png" alt="The Art of Loving - Olivia Dean cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/olivia.png" alt="The Art of Loving - Olivia Dean cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -6052,7 +6052,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>Fucking relationships</p>
   </blockquote>
   
-  <img src="haim.png" alt="I Quit - Haim cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/haim.png" alt="I Quit - Haim cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -6118,7 +6118,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>And you&#x27;re leaning against the wall</p>
   </blockquote>
   
-  <img src="wolfalice.png" alt="The Clearing - Wolf Alice cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/wolfalice.png" alt="The Clearing - Wolf Alice cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -6184,7 +6184,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
     <p>I dreamed this life, now I&#x27;m scared to live it</p>
   </blockquote>
   
-  <img src="nourished.png" alt="Nourished by Time - The Passionate Ones cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/nourished.png" alt="Nourished by Time - The Passionate Ones cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> R&amp;B</span>
@@ -6252,7 +6252,7 @@ I would write more about it here, but I don&#x27;t think I could say anything ot
     <p>Or am I just different now?</p>
   </blockquote>
   
-  <img src="oklou.png" alt="Choke Enough - Oklou cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/oklou.png" alt="Choke Enough - Oklou cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -6320,7 +6320,7 @@ I listened to this album too late in the year, but I could definitley see it ris
     <p>I can&#x27;t help but feeling so much jellyous</p>
   </blockquote>
   
-  <img src="illit.png" alt="Bomb - Illit cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/illit.png" alt="Bomb - Illit cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -6386,7 +6386,7 @@ I listened to this album too late in the year, but I could definitley see it ris
     <p>They sent me right back from where I came, my tail between my legs on Broadway.</p>
   </blockquote>
   
-  <img src="haleywilliams.png" alt="Ego Death at the Bachelorette Party - Haley Williams cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/haleywilliams.png" alt="Ego Death at the Bachelorette Party - Haley Williams cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -6453,7 +6453,7 @@ This album was released song-by-song before being compiled into one project, and
     <p>Ni adiós ni buenas noches, good luck, good night</p>
   </blockquote>
   
-  <img src="estrada.png" alt="Vendrán Suaves Lluvias - Silvana Estrada  cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/estrada.png" alt="Vendrán Suaves Lluvias - Silvana Estrada  cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Folk</span>
@@ -6519,7 +6519,7 @@ This album was released song-by-song before being compiled into one project, and
     <p>I never thought this rhyming shit would be my life&#x27;s calling</p>
   </blockquote>
   
-  <img src="jvb.png" alt="Hyperyouth - Joey Valence &amp; Brae cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/jvb.png" alt="Hyperyouth - Joey Valence &amp; Brae cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -6585,7 +6585,7 @@ This album was released song-by-song before being compiled into one project, and
     <p>Cross section, cross section, axis, rotating body</p>
   </blockquote>
   
-  <img src="design.png" alt="Design Ah! Neo 1, 2, 3, &amp; 4 - Shuta Hasunuma, Ichiko Aoba, &amp; Tamaki Roy cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/design.png" alt="Design Ah! Neo 1, 2, 3, &amp; 4 - Shuta Hasunuma, Ichiko Aoba, &amp; Tamaki Roy cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Ambient</span>
@@ -6653,7 +6653,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
     <p>僕はアニマル、考えが単純</p>
   </blockquote>
   
-  <img src="semones.png" alt="Animaru - Mei Semones cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/semones.png" alt="Animaru - Mei Semones cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -6719,7 +6719,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
     <p>Cause the champagne tastes like elderberry wine</p>
   </blockquote>
   
-  <img src="wednesday.png" alt="Bleeds - Wednesday cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/wednesday.png" alt="Bleeds - Wednesday cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Country</span>
@@ -6785,7 +6785,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
     <p>Я не шукаю помсти</p>
   </blockquote>
   
-  <img src="rosalia.png" alt="Lux - Rosalia cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/rosalia.png" alt="Lux - Rosalia cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -6852,7 +6852,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
     <p>Every good thing comes my way, so I put my headphones on</p>
   </blockquote>
   
-  <img src="addison.png" alt="Addison - Addison Rae cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/addison.png" alt="Addison - Addison Rae cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -6919,7 +6919,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
     <p>I said a meaningless prayer through my gritted teeth. I kept my eyes on the long white lines.</p>
   </blockquote>
   
-  <img src="huron.png" alt="The Cosmic Selector - Lord Huron cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/huron.png" alt="The Cosmic Selector - Lord Huron cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -6984,7 +6984,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
     
   </blockquote>
   
-  <img src="bruit.png" alt="Age of Ephemerality - BRUIT&lt; cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/bruit.png" alt="Age of Ephemerality - BRUIT&lt; cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -7050,7 +7050,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
     <p>Check out how mine sounds.</p>
   </blockquote>
   
-  <img src="bunny.png" alt="Debi Tirar Mas Fotos - Bad Bunny cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/bunny.png" alt="Debi Tirar Mas Fotos - Bad Bunny cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -7118,7 +7118,7 @@ Debi Tirar Mas Fotos (I should have taken more photos) is, dare I say, a benchma
     <p>So imagine his pain findin&#x27; base in the cupboard</p>
   </blockquote>
   
-  <img src="clipse.png" alt="Let God Sort em Out - Clipse cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/clipse.png" alt="Let God Sort em Out - Clipse cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -7185,7 +7185,7 @@ There&#x27;s other albums on this list which are more enjoyable to listen to, bo
     <p>But you love the way I look when I sing along</p>
   </blockquote>
   
-  <img src="abstract.png" alt="Blush - Kevin Abstract cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/abstract.png" alt="Blush - Kevin Abstract cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -7253,7 +7253,7 @@ My only major issue with this album that I have to note is the inclusion of Amee
     <p>Discovered who I am, now I know my life purpose</p>
   </blockquote>
   
-  <img src="danny.png" alt="Stardust - Danny Brown cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/danny.png" alt="Stardust - Danny Brown cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rap</span>
@@ -7320,7 +7320,7 @@ My only notable complaint with the album is that it tries to hard to be dramatic
     <p>So should I change my name again? JR, JR, JR</p>
   </blockquote>
   
-  <img src="janeremover.png" alt="Revengeseekrz - Jane Remover cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/janeremover.png" alt="Revengeseekrz - Jane Remover cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -7386,7 +7386,7 @@ My only notable complaint with the album is that it tries to hard to be dramatic
     <p>THESE BIRDS NOT MEANT TO FLY ALONE</p>
   </blockquote>
   
-  <img src="turnstile.png" alt="Never Enough - Turnstile cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/turnstile.png" alt="Never Enough - Turnstile cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -7452,7 +7452,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
     <p>Show me how you&#x27;d hold me if tomorrow was comin&#x27; for sure</p>
   </blockquote>
   
-  <img src="miley.png" alt="Something Beautiful - Miley Cyrus cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/miley.png" alt="Something Beautiful - Miley Cyrus cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -7518,7 +7518,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
     <p>It&#x27;s our differences that make us beautiful.</p>
   </blockquote>
   
-  <img src="maruja.png" alt="Pain to Power - Maruja cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/maruja.png" alt="Pain to Power - Maruja cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -7584,7 +7584,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
     <p>FL Studio free download in my search history</p>
   </blockquote>
   
-  <img src="ninajirachi.png" alt="I Love my Computer - Ninajirachi cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/ninajirachi.png" alt="I Love my Computer - Ninajirachi cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Electronic</span>
@@ -7651,7 +7651,7 @@ On other Electronic albums I&#x27;ve reviewed this year, my main complaint on mo
     <p>You&#x27;re making me feel like a dollar in your hand</p>
   </blockquote>
   
-  <img src="winter.png" alt="Heavy Metal - Cameron Winter cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/winter.png" alt="Heavy Metal - Cameron Winter cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -7720,7 +7720,7 @@ You better start walking because love takes miles. </p>
     <p>I stalk myself on the internet just to see what you&#x27;ll find</p>
   </blockquote>
   
-  <img src="juliawolf.png" alt="Pressure - Julia Wolf cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/juliawolf.png" alt="Pressure - Julia Wolf cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -7788,7 +7788,7 @@ Anyways, would recommend. This is another album that I don&#x27;t have a ton to 
     <p>I should get my vitamin B</p>
   </blockquote>
   
-  <img src="blackcountry.png" alt="Forever Howlong - BC,NR cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/blackcountry.png" alt="Forever Howlong - BC,NR cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Indie</span>
@@ -7858,7 +7858,7 @@ There really is no one word to describe this album.
     <p>But l&#x27;d kill myself to find out if you think this song is good</p>
   </blockquote>
   
-  <img src="cmat.png" alt="Euro-Country - CMAT cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/cmat.png" alt="Euro-Country - CMAT cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Pop</span>
@@ -7926,7 +7926,7 @@ Incredibly emotional and evocative of a profound, universal western rural experi
     <p>Disarmed the anger I held like a rock my whole life</p>
   </blockquote>
   
-  <img src="fender.png" alt="People Watching - Sam Fender cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/fender.png" alt="People Watching - Sam Fender cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
@@ -7996,7 +7996,7 @@ Universal Accessibility is not a bad thing by any means so I don&#x27;t know why
     <p>Whoa, it&#x27;s wild being alive</p>
   </blockquote>
   
-  <img src="honningbarna.png" alt="Soft Spot - Honningbarna cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/../../assets/img/albumcovers25/honningbarna.png" alt="Soft Spot - Honningbarna cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
