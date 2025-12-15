@@ -4,7 +4,7 @@ title: "My top 120 Albums of 2025"
 custom_css: albumsof2025.css
 ---
 
-# Reviewing the 120 Albums and EPs I Listened to in 2025
+# The 120 Albums and EPs I Listened to in 2025
 
 ## Introduction
 First of all, thanks for reading. I’m going to allow myself to be pretentious for a second because this has been a not insignificant part of my year. I made an effort this year to listen to as many albums in full as comfortably possible - it paid off in terms of exposing me to a lot of new artists, but most of all I also learned a lot about my relationship to music and art as well as the role of a critic. More than anything this is mostly an exercise in learning to better write about art (it didn’t work). 
@@ -27,7 +27,7 @@ I also recorded a lot of stats and variables about the albums and tried to find 
 - **Found Through…**: I found 37% of albums through being an existing fan, 13% through AOTY.org (my preferred music forum over RYM), and 10% through tiktok. lol. The method that gave me the most interesting reccs was through randomly looking up the nominees for the Mercury Prize this year, which I am only aware of because my old flame Alt-J won in 2012. Two of my top three albums of the year were nominees. Anthony Fantano gave me recommendations for 4% of albums I listened to this year, which is lower than expected. 
 - **Language**: 80% of albums I reviewed were primarily in English, followed by Spanish, Korean, Japanese, or other. 
 - **Repeat Artists**: Jane Remover released two albums and one EP this year. Cameron Winter released a solo album and served as the frontman of the band Geese, who also released a record. Danny Brown, solo/featured on Jane Remover. Quadeca solo/featured on Kevin Abstract. Doja Cat solo/featured on Lisa. Sabrina Carpenter solo/featured on Taylor Swift. Clipse solo/featured on JID. Ichiko Aoba solo/credited on place #22. Underscores was featured on Danny Brown and Oklou's album. And I think that's about it. 
-- **Other stuff**: I wrote a total of 15,469 words about these albums and EPs. The entire document is Xover 17,000 words including the introduction, and the website is 8078 lines of HTML. No AI was used except for one instance of bug fixing. 
+- **Other stuff**: I wrote a total of 15,469 words about these albums and EPs. The entire document is over 17,000 words including the introduction, and the website is 8078 lines of HTML. No AI was used except for one instance of bug fixing. 
 <br>
 
 ## Artists I am not listening to
