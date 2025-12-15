@@ -48,11 +48,10 @@ Introduction goes here
   </div>
   
   <blockquote class="favorite-lyrics">
-    <p>First line of favorite lyrics</p>
-    <p>Second line of favorite lyrics</p>
+    <p>Lyrics (1-2 lines)</p>
   </blockquote>
   
-  <img src="../../assets/img/albumcovers25/honningbarna.png" alt="Album Name cover" class="album-cover">
+  <img src="filename.png" alt="Album Name cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Genre Name</span>
@@ -68,29 +67,29 @@ Introduction goes here
     <div class="scores-grid">
       <div class="score-item">
         <span class="score-label">Nuance</span>
-        <span class="score-value">9.5</span>
+        <span class="score-value">X</span>
       </div>
       <div class="score-item">
         <span class="score-label">Narrative/Lyrics</span>
-        <span class="score-value">9.0</span>
+        <span class="score-value">X</span>
       </div>
       <div class="score-item">
         <span class="score-label">Novelty</span>
-        <span class="score-value">8.5</span>
+        <span class="score-value">X</span>
       </div>
       <div class="score-item">
         <span class="score-label">Listenability</span>
-        <span class="score-value">9.5</span>
+        <span class="score-value">X</span>
       </div>
       <div class="score-item">
         <span class="score-label">Bonus Points</span>
-        <span class="score-value">+1.0</span>
+        <span class="score-value">+X</span>
       </div>
     </div>
     <div class="final-score">
       <span class="total-label">Total:</span>
-      <span class="total-value">37.5</span>
-      <span class="letter-grade">A+</span>
+      <span class="total-value">X/21</span>
+      <span class="letter-grade">X</span>
     </div>
   </div>
   
@@ -105,3 +104,69 @@ Introduction goes here
     <!-- Reserved for future content -->
   </div>
 </article>
+
+<!--
+
+<article class="album-card">
+  <div class="album-header">
+    <span class="placement">COLUMN AA</span>
+    <h2 class="album-title">COLUMN A</h2>
+  </div>
+  
+  <blockquote class="favorite-lyrics">
+    <p>COLUMN Y, MAY INCLUDE 1 LINE BREAK</p>
+  </blockquote>
+  
+  <img src="[COLUMN Z].png" alt="Album Name cover" class="album-cover">
+  
+  <div class="album-metadata">
+    <span class="meta-item"><strong>Genre:</strong> COLUMN B</span>
+    <span class="meta-item"><strong>Subgenre:</strong> COLUMN C </span>
+    <span class="meta-item"><strong>Country:</strong> COLUMN D</span>
+    <span class="meta-item"><strong>Language:</strong> COLUMN E</span>
+    <span class="meta-item"><strong>Format:</strong> COLUMN J</span>
+    <span class="meta-item"><strong>Favorite Song:</strong> COLUMN  L</span>
+  </div>
+  
+  <div class="scoring-section">
+    <h3>Scores</h3>
+    <div class="scores-grid">
+      <div class="score-item">
+        <span class="score-label">Nuance</span>
+        <span class="score-value">COLUMN N</span>
+      </div>
+      <div class="score-item">
+        <span class="score-label">Narrative/Lyrics</span>
+        <span class="score-value">COLUMN O</span>
+      </div>
+      <div class="score-item">
+        <span class="score-label">Novelty</span>
+        <span class="score-value">COLUMN P</span>
+      </div>
+      <div class="score-item">
+        <span class="score-label">Listenability</span>
+        <span class="score-value">COLUMN Q</span>
+      </div>
+      <div class="score-item">
+        <span class="score-label">Bonus Points</span>
+        <span class="score-value">+[COLUMN R]</span>
+      </div>
+    </div>
+    <div class="final-score">
+      <span class="total-label">Total:</span>
+      <span class="total-value">[COLUMN S]/21</span>
+      <span class="letter-grade">COLUMN U</span>
+    </div>
+  </div>
+  
+  <div class="album-review">
+    <h3>Review</h3>
+    <p>COLUMN V</p>
+  </div>
+  
+  <a href="COLUMN X" class="listen-link" target="_blank">Listen</a>
+  
+  <div class="placeholder-notes">
+    <!-- Placeholder for notes-->
+  </div>
+  -->
