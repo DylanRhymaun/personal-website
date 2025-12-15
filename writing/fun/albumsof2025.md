@@ -58,7 +58,10 @@ I’ve listened to the past few Weeknd albums in full, and every one of them was
 - Mk. Gee - the GOAT right now. Cannot believe I missed listening to his album in the year it was released. 
 - Hakushi Hasegawa is also an artist who would've disrupted last year's AOTY list. Truly innovative stuff. 
 <br>
-
+<br>
+One final note: I wrote almost all of this in a text editor which didn't have spellcheck, so if you see any mistakes, assume they're typos and that I know how to spell, though admittedly reccomendation/recommendation is one I always mess up on for some reason. Restaurant. Restaraunt. Absolutely. Absolutley. Hm maybe I am stupid without a computer checking me. 
+<br>Also, apologies for the low res images. I didn't want to risk anything with embedding them so I stored them locally. Still could've afforded to add a few more pixels but I'm not about to fetch them all over again. 
+<br>
 
 <article class="album-card">
   <div class="album-header">
