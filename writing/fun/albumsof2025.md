@@ -7964,7 +7964,7 @@ Universal Accessibility is not a bad thing by any means so I don&#x27;t know why
     <p>Whoa, it&#x27;s wild being alive</p>
   </blockquote>
   
-  <img src="../../assets/img/albumcovers25/../../assets/img/albumcovers25/honningbarna.png" alt="Soft Spot - Honningbarna cover" class="album-cover">
+  <img src="../../assets/img/albumcovers25/honningbarna.png" alt="Soft Spot - Honningbarna cover" class="album-cover">
   
   <div class="album-metadata">
     <span class="meta-item"><strong>Genre:</strong> Rock</span>
