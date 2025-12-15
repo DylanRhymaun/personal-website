@@ -7,7 +7,48 @@ custom_css: albumsof2025.css
 # Reviewing the 120 Albums and EPs I Listened to in 2025
 
 ## Introduction
-Introduction goes here
+First of all, thanks for reading. I’m going to allow myself to be pretentious for a second because this has been a not insignificant part of my year. I made an effort this year to listen to as many albums in full as comfortably possible - it paid off in terms of exposing me to a lot of new artists, but most of all I also learned a lot about my relationship to music and art as well as the role of a critic. More than anything this is mostly an exercise in learning to better write about art (it didn’t work). 
+This Summer I spent countless days biking out to quieter beaches along Lake Champlain and simply wading in the water with my headphones on, having the time of my life. At the same time, I found myself dissatisfied with my understanding of the album format, noticing more and more the cracks in the work of criticizing a collective of 10-20 songs. I realized a 10/10 album is borderline impossible with music. Even my favorite album of all time, Kendrick Lamar’s To Pimp a Butterfly has songs I would skip. That begs the question, should an album be treated like a collective of songs, or more like a movie? In my opinion, you must choose the latter. “Mortal Man”, the 12 minute closer of TPAB, is a song I’ve only listened to a handful of times. Would I want it removed from the album? Of course not, that’s a mandatory epilogue. 
+My point is this, albums are not the ideal format for experiencing music for fun, but they are a necessary format for creating further meaning behind the collection of songs being released. A single song within an album can be perfect pretty easily in comparison to making a perfect album which requires a level of cohesivity that is difficult in the medium of audio. In my opinion, It requires a tight direction of lyricism and instrumentation that many artists fail to even take notice of. I found myself talking a relatively ton of shit about the albums in this list for that reason even though the top 70 of this list are at the very least “good” or offer a hint or promise of future greatness.
+Speaking of scores, there’s a lot of numbers here so let me break it down. Richard WIlliamson is an art advisor (whatever that means) with a decent following on social media. I ran into one of his videos where he described how he judged art based on Novelty, Nuance (how much work went into it), and Narrative (how much of a story or message is conveyed through the piece). I gave each album a score out of 5 for each category. I thought this was a pretty concise and effective way of judging art, but I threw in 3 bonus points to give at my discretion to boost albums I enjoyed despite not scoring high from an objective perspective. Later in the year, I also added 3 points for listenability, as I really think making enjoyable music that can be listened to casually is something to be celebrated. The total numerical score is x/21. I also assigned letter grades to the final score, though I was much more liberal than traditional American letter grading (80% is an A-).
+
+I also recorded a lot of stats and variables about the albums and tried to find correlations both to check for any bias, and out of pure curiosity. Here are some random useless pieces of info:
+- **Gender**: 50.8% of projects I reviewed were primarily by men, 44.2% were by women, 3.3% were by Jane Remover who is nonbinary, and 1.7% are credited men and women. The correlation between review score and gender was -.001. 
+- **Popularity**: By my own perception, 19% of albums were by A listers, 22% were by “very popular” artists, 26% were by artists known in their genre, 21% were by unpopular artists, and 13% were by complete unknowns. I found a negative correlation of -.155 implying that I have an insignificant negative bias towards popular artists. 
+- **Format**: I reviewed 106 albums, 13 EPs, and 1 Mixtape.
+- **Country of Origin**: 50% of albums (60/120) were from American artists, followed by Britain (20%), South Korea (6%), Japan (4%), Australia (3%) and the remaining 17% from other countries from every continent excluding Africa (oops). 
+- **Genre**: 27% of album and EPs were Pop, followed by Rock (15%), Indie (15%), Rap (15%), Electronic (12.5%), and 4% or less in R&B, FOlk, Ambient, Metal, Country, Comedy, Jazz, Musical, and Collage. 
+- **Found Through…**: I found 37% of albums through being an existing fan, 13% through AOTY.org (my preferred music forum over RYM), and 10% through tiktok. lol. The method that gave me the most interesting reccs was through randomly looking up the nominees for the Mercury Prize this year, which I am only aware of because my old flame Alt-J won in 2012. Two of my top three albums of the year were nominees. Anthony Fantano gave me recommendations for 4% of albums I listened to this year, which is lower than expected. 
+- **Language**: 80% of albums I reviewed were primarily in English, followed by Spanish, Korean, Japanese, or other. 
+
+## Popular Artists I am not listening to
+Ethel Cain
+I am a big big fan of Preacher’s Daughter and “American Teenager”, but I sadly cannot look past the controversy Hayden encountered this past Summer regarding her social media posts she made at age 19. On one hand, I trust that she pivoted hard after coming out as trans at age 20 in 2018, but being the same age as her, I cannot fathom saying the things she said in that year. Yes, people can change and she obviously has (I really appreciate her political views today), but those are tough words to overlook in 2018. 
+
+Japanese Breakfast
+“Road Head” is one of my favorite songs of all time, and bonus points after I saw her live, front row, but I’m sadly off Michelle Zauner after she did an ad promoting gen AI for google. Girl, fuck you. 
+
+Justin Bieber
+I heard mixed things about them, but two Bieber albums called “Swag” is an immediate no from me. Also, zionist for some reason. 
+
+Lady Gaga
+I’m glad she exists but I’ve never understood the appeal of her music. Sorry. 
+
+Lily Allen
+I have a few songs by Lily Allen liked on Spotify but I was pretty blown away by the lead single “Pussy Palace” off her album that dropped in November. Unfortunately, I learned not long after its release that she’s kind of a dumbass. Google Lily Allen Dr. Luke if you’re interested. 
+
+The Weeknd
+I’ve listened to the past few Weeknd albums in full, and every one of them was not worth the album format. Apparently “Heartless” was in my top 5 most played tracks of last year according to Spotify (I don’t believe it), but that’s not tipping the scales in my overall view of the artist.
+
+## Other Artists I listened to this year
+- Jess Williamson is probably my most listened to artist this year, despite her last album coming out in 2023, and it being in the Country genre. 
+- Crosby Stills & Nash's song "Almost Cut my Hair" came on the radio one day and I was pretty blown away. My song of the Summer. 
+- Foster and Emily got me onto Vampire Weekend's 2024 album this year. Kicking myself for not listening to it before year end, because it would've totally disrupted last year's AOTY list. 
+- Some evil Turks showed me Kenan Dogulu & Melis Fiz while I was waiting for a train in Konya this October. They belong in prison but that music goes hard. 
+- MJ Lenderman is pretty great. The fact that he was formerly the guitarist of the band Wednesday makes almost too much sense in retrospect, but his solo work is great. 
+- Mk. Gee - the GOAT right now. Cannot believe I missed listening to his album in the year it was released. 
+- Hakushi Hasegawa is also an artist who would've disrupted last year's AOTY list. Truly innovative stuff. 
+
 
 <article class="album-card">
   <div class="album-header">
