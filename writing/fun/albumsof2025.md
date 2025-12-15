@@ -30,22 +30,22 @@ I also recorded a lot of stats and variables about the albums and tried to find 
 <br>
 
 ## Artists I am not listening to
-- Ethel Cain
+- **Ethel Cain**
 I am a big big fan of Preacher’s Daughter and “American Teenager”, but I sadly cannot look past the controversy Hayden encountered this past Summer regarding her social media posts she made at age 19. On one hand, I trust that she pivoted hard after coming out as trans at age 20 in 2018, but being the same age as her, I cannot fathom saying the things she said in that year. Yes, people can change and she obviously has (I really appreciate her political views today), but those are tough words to overlook in 2018. 
 
-- Japanese Breakfast
+- **Japanese Breakfast**
 “Road Head” is one of my favorite songs of all time, and bonus points after I saw her live, front row, but I’m sadly off Michelle Zauner after she did an ad promoting gen AI for google. Girl, fuck you. 
 
-- Justin Bieber
+- **Justin Bieber**
 I heard mixed things about them, but two Bieber albums called “Swag” is an immediate no from me. Also, zionist for some reason. 
 
-- Lady Gaga
+- **Lady Gaga**
 I’m glad she exists but I’ve never understood the appeal of her music. Sorry. 
 
-- Lily Allen
+- **Lily Allen**
 I have a few songs by Lily Allen liked on Spotify but I was pretty blown away by the lead single “Pussy Palace” off her album that dropped in November. Unfortunately, I learned not long after its release that she’s kind of a dumbass. Google Lily Allen Dr. Luke if you’re interested. 
 
-- The Weeknd
+- **The Weeknd**
 I’ve listened to the past few Weeknd albums in full, and every one of them was not worth the album format. Apparently “Heartless” was in my top 5 most played tracks of last year according to Spotify (I don’t believe it), but that’s not tipping the scales in my overall view of the artist.
 <br>
 
@@ -53,7 +53,7 @@ I’ve listened to the past few Weeknd albums in full, and every one of them was
 - Jess Williamson is probably my most listened to artist this year, despite her last album coming out in 2023, and it being in the Country genre. 
 - Crosby Stills & Nash's song "Almost Cut my Hair" came on the radio one day and I was pretty blown away. My song of the Summer. 
 - Foster and Emily got me onto Vampire Weekend's 2024 album this year. Kicking myself for not listening to it before year end, because it would've totally disrupted last year's AOTY list. 
-- Some evil Turks showed me Kenan Dogulu & Melis Fiz while I was waiting for a train in Konya this October. They belong in prison but that music goes hard. 
+- Some evil Turks showed me Kenan Dogulu & Melis Fiz while I was waiting for a train in Konya this October. Those guys belong in prison but their music reccs go hard. 
 - MJ Lenderman is pretty great. The fact that he was formerly the guitarist of the band Wednesday makes almost too much sense in retrospect, but his solo work is great. 
 - Mk. Gee - the GOAT right now. Cannot believe I missed listening to his album in the year it was released. 
 - Hakushi Hasegawa is also an artist who would've disrupted last year's AOTY list. Truly innovative stuff. 
