@@ -26,6 +26,7 @@ I also recorded a lot of stats and variables about the albums and tried to find 
 - **Genre**: 27% of album and EPs were Pop, followed by Rock (15%), Indie (15%), Rap (15%), Electronic (12.5%), and 4% or less in R&B, FOlk, Ambient, Metal, Country, Comedy, Jazz, Musical, and Collage. 
 - **Found Through…**: I found 37% of albums through being an existing fan, 13% through AOTY.org (my preferred music forum over RYM), and 10% through tiktok. lol. The method that gave me the most interesting reccs was through randomly looking up the nominees for the Mercury Prize this year, which I am only aware of because my old flame Alt-J won in 2012. Two of my top three albums of the year were nominees. Anthony Fantano gave me recommendations for 4% of albums I listened to this year, which is lower than expected. 
 - **Language**: 80% of albums I reviewed were primarily in English, followed by Spanish, Korean, Japanese, or other. 
+- **Repeat Artists**: Jane Remover released two albums and one EP this year. Cameron Winter released a solo album and served as the frontman of the band Geese, who also released a record. Danny Brown, solo/featured on Jane Remover. Quadeca solo/featured on Kevin Abstract. Doja Cat solo/featured on Lisa. Sabrina Carpenter solo/featured on Taylor Swift. Clipse solo/featured on JID. Ichiko Aoba solo/credited on place #22. Underscores was featured on Danny Brown and Oklou's album. And I think that's about it. 
 <br>
 
 ## Artists I am not listening to
@@ -179,7 +180,7 @@ I’ve listened to the past few Weeknd albums in full, and every one of them was
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I am a big Blackpink (music) hater, but Lisa’s success in 2024, and Jennie’s lead single “Love Hangover” made me give this a chance. I ranked this album super low when I first listened to it, but gave it another shot this week just to make sure I was correct - I was. This album is beyond soulless. You could say that about a lot of kpop (not that Jennie is considered kpop anymore), but what differentiates Jennie from others is that she doesn’t even seem like she’s having any fun doing it. Even singles such as “Like Jennie” are supposed to be bombastic, intimidating reintroductions to her as a solo artist, but comes across as a song she was told to do versus a representation of who she actually is. 
+    <p>I am a big Blackpink (music) hater, but Lisa’s success in 2024, and Jennie’s lead single “Love Hangover” made me give this a chance. I ranked this album super low when I first listened to it, but gave it another shot this week just to make sure I was correct - I was. This album is beyond soulless. You could say that about a lot of kpop (not that Jennie is considered kpop anymore), but what differentiates Jennie from others is that she doesn’t even seem like she’s having any fun doing it. Even singles such as “Like Jennie” are supposed to be bombastic, intimidating reintroductions to her as a solo artist, but comes across as a song she was told to do versus a representation of who she actually is. <br>
 This is a pretty terrible album across the board, but I should give praise again to that damn single “Love Hangover”. She can’t act, her attempts at rapping are embarrassing, but damn can she sing. Shoutout Matt Champion for pulling that out of her btw. 
 </p>
   </div>
@@ -312,9 +313,9 @@ This is a pretty terrible album across the board, but I should give praise again
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Someone please stop this woman. Taylor Swift has a tough job. She&#x27;s correct in feeling that she is the most criticized person in the world, probably moreso than even the president on the grounds that she is a woman, and for that I feel an ounce of sympathy. That level of fame comes with a lot of pressure, but with her resources, it neither seems that she ever attempts to live up to her expectations and potential, nor create anything of meaning for herself. 
-Let&#x27;s start with the lyrics because everybody knows that&#x27;s what her fans call her strong suit. I genuinely gagged (not was gagged - gagged) at every attempt at sexuality she made in here. &quot;Redwood tree, it ain&#x27;t hard to see. His love was thе key that opened my thighs&quot;. Disgusting. &quot;I mind my business, God&#x27;s my witness that I don&#x27;t provoke it. It&#x27;s kind of making me wet&quot;. No. It doesn&#x27;t end with the sex bars either. &quot;Was the first lamb to the slaughter. So we all dressed up as wolves and we looked fire&quot;. Give me a break. &quot;Good thing I like my friends cancelled. I like &#x27;em cloaked in Gucci and in scandal&quot;. Grow up. &quot;Her name was Kitty. Made her money being pretty and witty. They gave her the keys to this city. Then they said she didn&#x27;t do it legitly, uh&quot;. Ugh is right. This is not nitckpicking either - this album is soaked, SOAKED, in cringe. It&#x27;s beyond clear that Taylor surrounds herself with yes men who refuse to give her any negative feedback. I cannot imagine watching her record this in the studio with a straight face. Also, &quot;Cancelled&quot; is a dogwhistle to get off her back about hanging out with fascists. Fuck you. 
-Then there&#x27;s the overall sound. In short, the showgirl aesthetic is a waste does not align with the album whatsover apart from the objectification of women angle which is not dwelled on enough anyways. That&#x27;s fine, but when you call the album &quot;life of a showgirl&quot; and do all those photoshoots, you expect the music to sound a bit more like showgirl music and not just b-sides from Midnights. This album gives me a lot more respect for her last album, because at least the overall theme of TTPD aligned with real things in her life versus an aesthetic seemingly chosen at random. Apart from the showgirl theme, every song is also lacking. It&#x27;s hard to pinpoint, but it feels like there is an instrument missing, leaving a lot of songs feeling empty. I found myself turning the volume up just to make sure I wasn&#x27;t crazy. I blame this mostly on the overreliance on electronic production versus live instrumentation. At least it&#x27;s mixed well enought to hear the wack ass bars. 
+    <p>Someone please stop this woman. Taylor Swift has a tough job. She&#x27;s correct in feeling that she is the most criticized person in the world, probably moreso than even the president on the grounds that she is a woman, and for that I feel an ounce of sympathy. That level of fame comes with a lot of pressure, but with her resources, it neither seems that she ever attempts to live up to her expectations and potential, nor create anything of meaning for herself. <br>
+Let&#x27;s start with the lyrics because everybody knows that&#x27;s what her fans call her strong suit. I genuinely gagged (not was gagged - gagged) at every attempt at sexuality she made in here. &quot;Redwood tree, it ain&#x27;t hard to see. His love was thе key that opened my thighs&quot;. Disgusting. &quot;I mind my business, God&#x27;s my witness that I don&#x27;t provoke it. It&#x27;s kind of making me wet&quot;. No. It doesn&#x27;t end with the sex bars either. &quot;Was the first lamb to the slaughter. So we all dressed up as wolves and we looked fire&quot;. Give me a break. &quot;Good thing I like my friends cancelled. I like &#x27;em cloaked in Gucci and in scandal&quot;. Grow up. &quot;Her name was Kitty. Made her money being pretty and witty. They gave her the keys to this city. Then they said she didn&#x27;t do it legitly, uh&quot;. Ugh is right. This is not nitckpicking either - this album is soaked, SOAKED, in cringe. It&#x27;s beyond clear that Taylor surrounds herself with yes men who refuse to give her any negative feedback. I cannot imagine watching her record this in the studio with a straight face. Also, &quot;Cancelled&quot; is a dogwhistle to get off her back about hanging out with fascists. Fuck you. <br>
+Then there&#x27;s the overall sound. In short, the showgirl aesthetic is a waste does not align with the album whatsover apart from the objectification of women angle which is not dwelled on enough anyways. That&#x27;s fine, but when you call the album &quot;life of a showgirl&quot; and do all those photoshoots, you expect the music to sound a bit more like showgirl music and not just b-sides from Midnights. This album gives me a lot more respect for her last album, because at least the overall theme of TTPD aligned with real things in her life versus an aesthetic seemingly chosen at random. Apart from the showgirl theme, every song is also lacking. It&#x27;s hard to pinpoint, but it feels like there is an instrument missing, leaving a lot of songs feeling empty. I found myself turning the volume up just to make sure I wasn&#x27;t crazy. I blame this mostly on the overreliance on electronic production versus live instrumentation. At least it&#x27;s mixed well enought to hear the wack ass bars. <br>
 In summary, this project was even more dissapointing than I expected. Contrary to everything I&#x27;ve indicated in this review and in my review for TTPD, I actually want Taylor to be great. I didn&#x27;t dislike her as a person until she became a billionaire and started hanging around with RACISTS. She has had her moments throughout the years, I like her voice, and can say with my chest that Folklore and Evermore are smash hits that prove she&#x27;s deserving of her fame. However, she&#x27;s far too comfortable in her artistry, and we all suffer for it. If we have to have Taylor Swift in our lives, at least give us something worth celebrating. Bad album, bad person. </p>
   </div>
   
@@ -380,8 +381,8 @@ In summary, this project was even more dissapointing than I expected. Contrary t
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Before reading any further, I highly recommend listening to the linked song.  
-I didn&#x27;t hate this on first listen. In fact, I kinda liked it given that the massive needle drop into metal on the few few songs overshadowed the quieter, weaker segments. I saw it on the front page of Spotify, for some reason said &quot;why not&quot;, and was greeted a VERY heavy hitter opener. That opening track is still pretty great IMO, hell even the poppier &quot;Past Self&quot; is catchy as hell. After another couple listens though, the grandiosity of the soundscape Sleep Token made washed away, and what was left was little but cringe. The instrumentation here is mostly fine excluding some overuse of synths on certain songs which really pull it away from being a rock album - what really drags it down though is the singer. Holy shit you can just tell this guy is insufferable IRL. He sings like he is a damn prophet coming to save us from pop slop. Did he ever say anything related to the sort? Absolutley not, but the music oozes the same vibe as wallet chains and $40 katanas you&#x27;d get from a dying mall. 
+    <p>Before reading any further, I highly recommend listening to the linked song.  <br>
+I didn&#x27;t hate this on first listen. In fact, I kinda liked it given that the massive needle drop into metal on the few few songs overshadowed the quieter, weaker segments. I saw it on the front page of Spotify, for some reason said &quot;why not&quot;, and was greeted a VERY heavy hitter opener. That opening track is still pretty great IMO, hell even the poppier &quot;Past Self&quot; is catchy as hell. After another couple listens though, the grandiosity of the soundscape Sleep Token made washed away, and what was left was little but cringe. The instrumentation here is mostly fine excluding some overuse of synths on certain songs which really pull it away from being a rock album - what really drags it down though is the singer. Holy shit you can just tell this guy is insufferable IRL. He sings like he is a damn prophet coming to save us from pop slop. Did he ever say anything related to the sort? Absolutley not, but the music oozes the same vibe as wallet chains and $40 katanas you&#x27;d get from a dying mall. <br>
 In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to say this album was neither boring or uninteresting - I just wouldn&#x27;t want to be seen with these guys. </p>
   </div>
   
@@ -579,8 +580,8 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>This is not an edgy &quot;look at me&quot; choice, so bare with me. Second year in a row where I’m putting Tyler close to the bottom of the list, but with heavy disclaimers just like I did last year. This is not the worst album to come out this year, nor that I listened to. It is, however, the most disappointing. Flower Boy and Igor are two undisputed classics, and Tyler is a top 20 producer of all time in my book. Call Me When You Get Lost was a big step down in direction for Tyler, but still had a couple 10/10 songs and features from Wayne and NBA Youngboy of all people. Last year, Tyler dropped Chromakopia after a solid rollout and hype train, but he completely lost the plot in my view. The rollout had a solid unique visual style, but the music itself, save two songs, was mostly repetitive at best, and utter unlistenable trash at worst. 
-Don’t Tap the Glass was a surprise drop with not much rollout, but needless to say, I wasn’t optimistic going into my first listen given the short turnaround between Chromakopia and this. As you can imagine, Tyler’s sound evolved minimally, and my complaints from Chromakopia carry over to DTtG. 
+    <p>This is not an edgy &quot;look at me&quot; choice, so bare with me. Second year in a row where I’m putting Tyler close to the bottom of the list, but with heavy disclaimers just like I did last year. This is not the worst album to come out this year, nor that I listened to. It is, however, the most disappointing. Flower Boy and Igor are two undisputed classics, and Tyler is a top 20 producer of all time in my book. Call Me When You Get Lost was a big step down in direction for Tyler, but still had a couple 10/10 songs and features from Wayne and NBA Youngboy of all people. Last year, Tyler dropped Chromakopia after a solid rollout and hype train, but he completely lost the plot in my view. The rollout had a solid unique visual style, but the music itself, save two songs, was mostly repetitive at best, and utter unlistenable trash at worst. <br>
+Don’t Tap the Glass was a surprise drop with not much rollout, but needless to say, I wasn’t optimistic going into my first listen given the short turnaround between Chromakopia and this. As you can imagine, Tyler’s sound evolved minimally, and my complaints from Chromakopia carry over to DTtG. <br>
 That said, this album made me think about why I bother to write about music for fun in the first place, let alone what right I have to criticize it. I forget if he actually said it or not, but it was clear that this album is a “just for fun album” and not personal, important, or profound. I love just for fun albums, but it makes the role of the critic difficult. You can criticize the Fast and Furious movies all you want, they’re still going to be entertaining and worthy of good reviews in that regard. Is Music different in that just because an auteur made something special in the past, they can’t make something fun in the future? Probably not, because George Miller made Happy Feet in between Mad Max movies with enough success. Am I involuntarily living through Tyler’s career, seeing him as someone I could’ve been, upset by the fact that neither he nor I are not making meaningful contributions to art and constantly living up to our potential? 
 Anyways, most of the songs on this album sound the same, and like last year, Tyler is too comfortable in the sound he developed 8 years ago. “Ring Ring Ring” is an undeniable banger but that’s the one exception in my book. 
 </p>
@@ -716,7 +717,7 @@ Anyways, most of the songs on this album sound the same, and like last year, Tyl
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I should probably not have taken recommendations from friends - not because I hated this or wasn&#x27;t curious, but because I hate to put down a homie&#x27;s favorite artist. For what it&#x27;s worth, I really really enjoyed his December EP *Beyond Light*. 
+    <p>I should probably not have taken recommendations from friends - not because I hated this or wasn&#x27;t curious, but because I hate to put down a homie&#x27;s favorite artist. For what it&#x27;s worth, I really really enjoyed his December EP *Beyond Light*. <br>
 My problems with this type of electronic music and AU5 are 100% reflective of my problems with the genre as a whole; at this point in my life it all just feels very impersonable. Perhaps some of that comes from just knowing the process behind how its made, both from a production standpoint and a business standpoint. More likely it&#x27;s a lyrical problem. A lot of electronic artists, in my eyes, do not care about the word singers are saying on their songs, and it results in the music equivalent of a early 2010s B sci fi movie where all the budget went towards the CG. </p>
   </div>
   
@@ -783,7 +784,7 @@ My problems with this type of electronic music and AU5 are 100% reflective of my
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Sombr has had a crazy year, even for a nepo baby. Undeniably, he released 3-4 generational hits, which also happen to be the first 4 tracks, so of course they had to rush out an album to capitalize on his popularity. And rush they did. This album has the hardest falloff after track 4 of any album on this list. It honestly feels like most of the tracks on here are written by plugging in the lyrics of the singles to chatgpt and asking for it to reword them. The subject matter also gets extremely tired after a while. We get it, you&#x27;re sad over a breakup, but you&#x27;re 20, which is old enough to know when you sound like you&#x27;re whining. If this was an EP, it would shoot way up in my rankings, but the fact that they felt the need to force the kid to vomit out 5-6 more cries for help makes the whole situation uncomfortable to say the least. But hey, those first 4 tracks are an insane run. 
+    <p>Sombr has had a crazy year, even for a nepo baby. Undeniably, he released 3-4 generational hits, which also happen to be the first 4 tracks, so of course they had to rush out an album to capitalize on his popularity. And rush they did. This album has the hardest falloff after track 4 of any album on this list. It honestly feels like most of the tracks on here are written by plugging in the lyrics of the singles to chatgpt and asking for it to reword them. The subject matter also gets extremely tired after a while. We get it, you&#x27;re sad over a breakup, but you&#x27;re 20, which is old enough to know when you sound like you&#x27;re whining. If this was an EP, it would shoot way up in my rankings, but the fact that they felt the need to force the kid to vomit out 5-6 more cries for help makes the whole situation uncomfortable to say the least. But hey, those first 4 tracks are an insane run. <br>
 As a side, check out his VMAs performance. I have never seen a dance LICK an artist before. There is some very confused marketting going on surrounding Sombr. 
 </p>
   </div>
@@ -1048,7 +1049,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I know Bon Iver gets a lot of love for their collaborations with Taylor Swift and that circle, but IMO at least 50% of this album is pretentious miserable bullshit. Ok, maybe &quot;bullshit&quot; is too harsh, but it the organization of this album does not immediatley inspire confidence in otherwise. It starts out with an unnecessary disc 1 which has plenty of blank space and a quiet, sad, boring, monotonous tone through most of it. Disc 2, which for some reason has 8 songs, picks up the pace a bit and barely sticks the landing emotionally - but only barely so that I didn&#x27;t walk away angry. Danielle Haim&#x27;s feature was also a welcome but all too short break from singer Justin Vernon&#x27;s depressing voice. Speaking of which it&#x27;s a miracle that they were able to pull out one non-suicide inducing song out of this album with &quot;I&#x27;ll Be There&quot; - that&#x27;s a decent bop I must admit. 
+    <p>I know Bon Iver gets a lot of love for their collaborations with Taylor Swift and that circle, but IMO at least 50% of this album is pretentious miserable bullshit. Ok, maybe &quot;bullshit&quot; is too harsh, but it the organization of this album does not immediatley inspire confidence in otherwise. It starts out with an unnecessary disc 1 which has plenty of blank space and a quiet, sad, boring, monotonous tone through most of it. Disc 2, which for some reason has 8 songs, picks up the pace a bit and barely sticks the landing emotionally - but only barely so that I didn&#x27;t walk away angry. Danielle Haim&#x27;s feature was also a welcome but all too short break from singer Justin Vernon&#x27;s depressing voice. Speaking of which it&#x27;s a miracle that they were able to pull out one non-suicide inducing song out of this album with &quot;I&#x27;ll Be There&quot; - that&#x27;s a decent bop I must admit. <br>
 This was my first and will most likely be my last time listening to Bon Iver. I really just don&#x27;t see the appeal. </p>
   </div>
   
@@ -1115,8 +1116,8 @@ This was my first and will most likely be my last time listening to Bon Iver. I 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I reviewed this in November when my list was nearing it&#x27;s end point, and my general dislike of this album made me want to look into the relationship between how well I know the artist and my standards of them. I found that after 85 reviews, there was a correlation of -0.187 when comparing my perceived popularity of the artist and my take on the album. While that somewhat aligns with my worries, the fact that the correlation is so weak is glad to see. It says only 3.5% of my review is impacted by their perceived popularity in my eyes, in theory. 
-With that said, I did not like this album. For starters, it sounds way too much like pretty much everything this band has released before, but lacking in emotional depth in comparison. Florence&#x27;s singing especially suffers in comparison to her work from the early 2010s, to the point where it honestly felt like she was bored of her very existence. Maybe she&#x27;s depressed. Then there&#x27;s the lyrics. I won&#x27;t go into too much detail here, but there&#x27;s one song on here, &quot;One of the Greats&quot; which is brutally whiny. Florence and the Machine has the privelege of being a household name in 2025. I don&#x27;t doubt in the slightest that it took a ton of behind the scenes work to get them to the heights they reached in around 2013, but they won. Yet Florence decides to say &quot;It must be nice to be a man and make boring music just because you can&quot;, claiming the line is referring to men being lazier performers than women. That&#x27;s 100% true on average, but the blanket statement and lack of self reflection is a terrible look. 
+    <p>I reviewed this in November when my list was nearing it&#x27;s end point, and my general dislike of this album made me want to look into the relationship between how well I know the artist and my standards of them. I found that after 85 reviews, there was a correlation of -0.187 when comparing my perceived popularity of the artist and my take on the album. While that somewhat aligns with my worries, the fact that the correlation is so weak is glad to see. It says only 3.5% of my review is impacted by their perceived popularity in my eyes, in theory. <br>
+With that said, I did not like this album. For starters, it sounds way too much like pretty much everything this band has released before, but lacking in emotional depth in comparison. Florence&#x27;s singing especially suffers in comparison to her work from the early 2010s, to the point where it honestly felt like she was bored of her very existence. Maybe she&#x27;s depressed. Then there&#x27;s the lyrics. I won&#x27;t go into too much detail here, but there&#x27;s one song on here, &quot;One of the Greats&quot; which is brutally whiny. Florence and the Machine has the privelege of being a household name in 2025. I don&#x27;t doubt in the slightest that it took a ton of behind the scenes work to get them to the heights they reached in around 2013, but they won. Yet Florence decides to say &quot;It must be nice to be a man and make boring music just because you can&quot;, claiming the line is referring to men being lazier performers than women. That&#x27;s 100% true on average, but the blanket statement and lack of self reflection is a terrible look. <br>
 That&#x27;s just one example of a few misandrist lines scattered around the album. If you know me, you know I&#x27;m not a men&#x27;s rights guy and that I&#x27;m not defending men in any way shape or form. I bring this up because on top of being simply boring, *Everybody Scream* also has a lot of anger within it that comes out in some pretty unflattering ways. At the very least, they could be communicated much more effectively. </p>
   </div>
   
@@ -1838,9 +1839,9 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>This is far from a bad album, however I left it a bit let down due to how high of a standard the singles set for the full project. &quot;Cinnamon&quot; and &quot;Off the Rails&quot;, especially, are a couple of the catchiest and most exciting songs I&#x27;ve heard all year, but they are two standouts on an album of mostly pop I&#x27;ve been listening to for close to a decade now. Props to &quot;Prey4U&quot; for getting close to matching their energy. 
-I also have a bit of an issue with the sequencing of the album. In my opinion, the &quot;Off the Rails&quot; should have opened the album, being a song that I could sprint a mile on, but instead Benee chose to kick things off with &quot;Demons&quot;, a slower, almost lethargic R&amp;B track. It&#x27;s not a bad song, but it&#x27;s lacking intrigue. 
-That could be said about most of the album, in fact. I was really missing any form of narrative throughline. Not to bring up &quot;Off the Rails&quot; so much, but that song tells the story of a girl who&#x27;s taking advantage of the destruction and chaos of fame, and it&#x27;s frankly pretty profound when you think about it. That idea does not show up anywhere else on the album, and I think it was a missed opportunity. 
+    <p>This is far from a bad album, however I left it a bit let down due to how high of a standard the singles set for the full project. &quot;Cinnamon&quot; and &quot;Off the Rails&quot;, especially, are a couple of the catchiest and most exciting songs I&#x27;ve heard all year, but they are two standouts on an album of mostly pop I&#x27;ve been listening to for close to a decade now. Props to &quot;Prey4U&quot; for getting close to matching their energy. <br>
+I also have a bit of an issue with the sequencing of the album. In my opinion, the &quot;Off the Rails&quot; should have opened the album, being a song that I could sprint a mile on, but instead Benee chose to kick things off with &quot;Demons&quot;, a slower, almost lethargic R&amp;B track. It&#x27;s not a bad song, but it&#x27;s lacking intrigue. <br>
+That could be said about most of the album, in fact. I was really missing any form of narrative throughline. Not to bring up &quot;Off the Rails&quot; so much, but that song tells the story of a girl who&#x27;s taking advantage of the destruction and chaos of fame, and it&#x27;s frankly pretty profound when you think about it. That idea does not show up anywhere else on the album, and I think it was a missed opportunity. <br>
 In summary, Ur an Angel I&#x27;m Just Particles is a decently fun but basic pop album which, despite it&#x27;s standouts, holds on too close to the lockdown vibes of 2020 and lacks a hook, despite its many excellent hooks. </p>
   </div>
   
@@ -1906,7 +1907,7 @@ In summary, Ur an Angel I&#x27;m Just Particles is a decently fun but basic pop 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I found this artist through his really stellar performance on Colors and had to check it out. It&#x27;s a mixed bag, but you can tell SSIO is hungry. 
+    <p>I found this artist through his really stellar performance on Colors and had to check it out. It&#x27;s a mixed bag, but you can tell SSIO is hungry. <br>
 About a quarter of the albums on this list are not primarily in English, but this album above others was especially hard to comprehend for me as it was so lyrically dense that cultural and liguistic differences between my experience as an American and him as a German complicated my understanding of what he was trying to say, even in the translated lyrics. I&#x27;m not going to go into specifics, but there are some comments about women in this album that were a bit over the line in terms of their sexism, yet they also felt extremely out of place compared to the rest of the album. I don&#x27;t think you need to know about the artist&#x27;s personal and political life in order to understand what they&#x27;re trying to say in their songs, in most cases. </p>
   </div>
   
@@ -2038,8 +2039,8 @@ About a quarter of the albums on this list are not primarily in English, but thi
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>If Elphaba wasn&#x27;t such a shitlib she would&#x27;ve painted the walls red with nazi Wizard&#x27;s blood in the first act. 
-I was told going into this that the second half of the broadway show was famously the weaker half, and on the music front that is definitley true. It&#x27;s still, dare I say, good both within and outside of the musical theater genre, but when I compare it to the high points of &quot;part 1&quot;, I can&#x27;t help but feeling like something was missing. At the very least the statement stands looking at &quot;Wicked&quot; as a complete product between both parts - if only I was more interested in theater as a kid while my sister was a fan. I neither identified any lighthearted hits like &quot;Popular&quot; or triumphs like &quot;Defying gravity&quot; here, which more than anything speaks to how the range of music on &quot;part 2&quot; is a lot more limited than it once was in part 1. 
+    <p>If Elphaba wasn&#x27;t such a shitlib she would&#x27;ve painted the walls red with nazi Wizard&#x27;s blood in the first act. <br>
+I was told going into this that the second half of the broadway show was famously the weaker half, and on the music front that is definitley true. It&#x27;s still, dare I say, good both within and outside of the musical theater genre, but when I compare it to the high points of &quot;part 1&quot;, I can&#x27;t help but feeling like something was missing. At the very least the statement stands looking at &quot;Wicked&quot; as a complete product between both parts - if only I was more interested in theater as a kid while my sister was a fan. I neither identified any lighthearted hits like &quot;Popular&quot; or triumphs like &quot;Defying gravity&quot; here, which more than anything speaks to how the range of music on &quot;part 2&quot; is a lot more limited than it once was in part 1. <br>
 Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to part 1, although it&#x27;s a terribly drawn out one, but skip the soundtrack unless you&#x27;re a nerd. 
 </p>
   </div>
@@ -2371,7 +2372,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I somehow missed out on 2021&#x27;s *Scaled and Icy* and 2024&#x27;s *Clancy*, and was not a huge fan prior to 2018, but that year&#x27;s *Trench* went triple platnium in my bedroom for me as both an angry college student and a kid learning bass. To this day I haven&#x27;t heard Scaled and Icy nor Clancy so I don&#x27;t know much about their evolution nor whether they&#x27;re overdoing their sound in on a discographical level, but *Breach* brings me right back to the best parts of 2018/2019 pre-pandemic. It&#x27;s just a good, headbanging time while also being digestible, understandble, and most of all, fun. 
+    <p>I somehow missed out on 2021&#x27;s *Scaled and Icy* and 2024&#x27;s *Clancy*, and was not a huge fan prior to 2018, but that year&#x27;s *Trench* went triple platnium in my bedroom for me as both an angry college student and a kid learning bass. To this day I haven&#x27;t heard Scaled and Icy nor Clancy so I don&#x27;t know much about their evolution nor whether they&#x27;re overdoing their sound in on a discographical level, but *Breach* brings me right back to the best parts of 2018/2019 pre-pandemic. It&#x27;s just a good, headbanging time while also being digestible, understandble, and most of all, fun. <br>
 I do have to comment on the themes that the duo tends to use on this and in the past. In short, 21p makes music for young men who choose to see mental health treatment as YA novels from the mid-2000s (Maze Runner, Divergent, et cetera). That has never been more apparent than on this album, such as the most popular track &quot;City Walls&quot; - you can fill in the gaps as to what the walls represent. Grow up guys.  Still a catchy track though. </p>
   </div>
   
@@ -2504,8 +2505,8 @@ I do have to comment on the themes that the duo tends to use on this and in the 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Around the middle of this list here, I&#x27;ve realized I start to slump in that I have little to say about these albums. They aren&#x27;t bad, and they very well may end up in someone&#x27;s top 20 of the year, but they are simply what they are. *It&#x27;s a Beautiful Place* is the epitome of that concept. 
-A good number of year-end lists I saw ranked this as one of the best albums of the year, but I just don&#x27;t get the hype. It&#x27;s a slightly sub par alt rock record, and I can&#x27;t find the words to describe it any further. I like the space motifs though. 
+    <p>Around the middle of this list here, I&#x27;ve realized I start to slump in that I have little to say about these albums. They aren&#x27;t bad, and they very well may end up in someone&#x27;s top 20 of the year, but they are simply what they are. *It&#x27;s a Beautiful Place* is the epitome of that concept. <br>
+A good number of year-end lists I saw ranked this as one of the best albums of the year, but I just don&#x27;t get the hype. It&#x27;s a slightly sub par alt rock record, and I can&#x27;t find the words to describe it any further. I like the space motifs though. <br>
 I&#x27;m fully aware these reviews shouldn&#x27;t focus on anything but the music, but then I remember it&#x27;s my website and I can do what I want. 
 </p>
   </div>
@@ -2573,8 +2574,8 @@ I&#x27;m fully aware these reviews shouldn&#x27;t focus on anything but the musi
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>One of those albums that&#x27;s a real gauntlet to get through. 
-I&#x27;ve been familiar with Panda Bear and the Animal Collective going back as early as 2014, so I kinda knew what I was getting into with this record. The most popular track *Defense* went certified platnium for me this Spring, so I had to give the whole thing a shot. What could go wrong? Well, nothing, per se, but it wasn&#x27;t a particular enjoyable experience either. Panda Bear thrives in very specific circumstances- you have to want to hear something interesting, or you have to be tripping. His music is not for casual listening, which is at least unique amongst rock/indie artists that don&#x27;t call themselves &quot;art rock&quot;. 
+    <p>One of those albums that&#x27;s a real gauntlet to get through. <br>
+I&#x27;ve been familiar with Panda Bear and the Animal Collective going back as early as 2014, so I kinda knew what I was getting into with this record. The most popular track *Defense* went certified platnium for me this Spring, so I had to give the whole thing a shot. What could go wrong? Well, nothing, per se, but it wasn&#x27;t a particular enjoyable experience either. Panda Bear thrives in very specific circumstances- you have to want to hear something interesting, or you have to be tripping. His music is not for casual listening, which is at least unique amongst rock/indie artists that don&#x27;t call themselves &quot;art rock&quot;. <br>
 In short, there&#x27;s a lot of value here, but it&#x27;s an album that will scare away casual listenrs, yet doesn&#x27;t offer much in substance to justify that experience either (save the closing track). </p>
   </div>
   
@@ -2839,7 +2840,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Eusexua is a mixed bag in terms of enjoyment and listenability. In my opinion, the majority of songs on here suffer from Twigs&#x27; desire to make the album sound as futuristic as possible, such that the final product is incredibly emotionally gripping yet very unpleasant, depressing, and sometimes creepy. I&#x27;m a big fan of artists experimenting and making experimental music, and she succeeds on balancing newish sounds with a vibe that doesn&#x27;t make me feel like I&#x27;m in a haunted house with a couple songs, namely &quot;Drums of Death&quot; and &quot;Sticky&quot;, but I think back on the entire album in the same way I think about Cronenberg&#x27;s &quot;Crimes of the Future&quot;; bleak dystopia with poisonous air and art meant to disgust because all everything else has been done before. Not to say that this album is disgusting, though Twigs has played around with body horror before. 
+    <p>Eusexua is a mixed bag in terms of enjoyment and listenability. In my opinion, the majority of songs on here suffer from Twigs&#x27; desire to make the album sound as futuristic as possible, such that the final product is incredibly emotionally gripping yet very unpleasant, depressing, and sometimes creepy. I&#x27;m a big fan of artists experimenting and making experimental music, and she succeeds on balancing newish sounds with a vibe that doesn&#x27;t make me feel like I&#x27;m in a haunted house with a couple songs, namely &quot;Drums of Death&quot; and &quot;Sticky&quot;, but I think back on the entire album in the same way I think about Cronenberg&#x27;s &quot;Crimes of the Future&quot;; bleak dystopia with poisonous air and art meant to disgust because all everything else has been done before. Not to say that this album is disgusting, though Twigs has played around with body horror before. <br>
 In summary, I appluad this album for getting a reaction out of me, but I&#x27;m not interested in listening to it again, save my favorite and most outlandish track compared to the rest of the album &quot;Childish Things&quot;. Again, it&#x27;s a mixed bag. 
 </p>
   </div>
@@ -2907,8 +2908,8 @@ In summary, I appluad this album for getting a reaction out of me, but I&#x27;m 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I had to include my girls on here. In case you don&#x27;t listen to any kpop, you should know that groups typically release EPs of 5-6 songs instead of full albums, but with the same overall song distribution rate of western artists. I was introduced to Le Sserafim after they very successfully, although confusingly, collaborated with my most played video game, Overwatch, releasing skins for characters and putting their music on the main menu. It worked on me and made me able to understand the appeal of the genre as corporatist as it has been and will continue to be. 
-This EP is consists of 5 songs, 1 of which is an intro, and another, “Come Over” is a flop in my book. That said, as a whole, this EP is the best directed  product the group has put out, and the three remaining songs are some of the best they’ve released, period. I rank it this low because it’s not as impressive or groundbreaking of a release as other albums on here, but it’s still a big thumbs up from me, and a 60% hit project  is cause for celebration no matter what. 
+    <p>I had to include my girls on here. In case you don&#x27;t listen to any kpop, you should know that groups typically release EPs of 5-6 songs instead of full albums, but with the same overall song distribution rate of western artists. I was introduced to Le Sserafim after they very successfully, although confusingly, collaborated with my most played video game, Overwatch, releasing skins for characters and putting their music on the main menu. It worked on me and made me able to understand the appeal of the genre as corporatist as it has been and will continue to be. <br>
+This EP is consists of 5 songs, 1 of which is an intro, and another, “Come Over” is a flop in my book. That said, as a whole, this EP is the best directed  product the group has put out, and the three remaining songs are some of the best they’ve released, period. I rank it this low because it’s not as impressive or groundbreaking of a release as other albums on here, but it’s still a big thumbs up from me, and a 60% hit project  is cause for celebration no matter what. <br>
 As a side - They did release a full album only on vinyl using songs from their last three EPs called *Easy-Crazy-Hot*. I really wish that got a proper release. </p>
   </div>
   
@@ -2975,7 +2976,7 @@ As a side - They did release a full album only on vinyl using songs from their l
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I was curious to check out this album because it was one fo the highest rated rap albums of the year on both AOTY and RYM. However, this is not only the least digestible album of the year, but possibly that I&#x27;ve ever heard. It&#x27;s so undigestible, in fact, that I don&#x27;t even know what to rate it. Is there any artistic merit in here? Of course there is, as proven by &quot;Doll Fulla Pins&quot;, &quot;Born Alone&quot;, and plenty others, but the full experience is drawn down by some of the most challenging songs being at the beginning of the tracklist. 
+    <p>I was curious to check out this album because it was one fo the highest rated rap albums of the year on both AOTY and RYM. However, this is not only the least digestible album of the year, but possibly that I&#x27;ve ever heard. It&#x27;s so undigestible, in fact, that I don&#x27;t even know what to rate it. Is there any artistic merit in here? Of course there is, as proven by &quot;Doll Fulla Pins&quot;, &quot;Born Alone&quot;, and plenty others, but the full experience is drawn down by some of the most challenging songs being at the beginning of the tracklist. <br>
 Individually, the tracklist&#x27;s high points offer a feast of profound bars over smooth jazz inspired, Earl Sweatshirt reminiscent New York beats, but as a complete album, it suffers by not reversing the order of songs. </p>
   </div>
   
@@ -3305,24 +3306,24 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>When they have open mic night at the krusty krab.
-Ok so you&#x27;re just cruisin the ocean in 1674 and pirates pull up on you blasting this wyd.
-Earl must of bought this beat for some spice and 3 shillings. 
-The beat trying to kill itself.
-This sounds like saying goodbye to someone then going in the same direction.
-This beat feels like putting your hand under your desk and accidentally touching gum.
-This song sounds like when you step off a boat and feel the land moving.
-This song sounds like sleeping with jeans on.
-This beat sounds like that one kid who shakes the whole table tryna erase something on his paper.
-This song will keep mosquitoes off you.
-This sounds like practicing a handshake with yourself.
-This song sound like when your long sleeves roll up when you put a coat on.
-This sounds like your sleeves coming down while you’re washing your hands.
-This sounds like the background music to someone deleting their search history in panic.
-This is what rap would’ve sounded like during the great depression.
-This sound like when you eat ice cream with a wooden spoon but you taste the wooden spoon more than the ice cream.
-This sound like washing paper plates.
-This beat is like he was watching ratatouille and Earl was like damn this hard.
+    <p>When they have open mic night at the krusty krab.<br>
+Ok so you&#x27;re just cruisin the ocean in 1674 and pirates pull up on you blasting this wyd.<br>
+Earl must of bought this beat for some spice and 3 shillings. <br>
+The beat trying to kill itself.<br>
+This sounds like saying goodbye to someone then going in the same direction.<br>
+This beat feels like putting your hand under your desk and accidentally touching gum.<br>
+This song sounds like when you step off a boat and feel the land moving.<br>
+This song sounds like sleeping with jeans on.<br>
+This beat sounds like that one kid who shakes the whole table tryna erase something on his paper.<br>
+This song will keep mosquitoes off you.<br>
+This sounds like practicing a handshake with yourself.<br>
+This song sound like when your long sleeves roll up when you put a coat on.<br>
+This sounds like your sleeves coming down while you’re washing your hands.<br>
+This sounds like the background music to someone deleting their search history in panic.<br>
+This is what rap would’ve sounded like during the great depression.<br>
+This sound like when you eat ice cream with a wooden spoon but you taste the wooden spoon more than the ice cream.<br>
+This sound like washing paper plates.<br>
+This beat is like he was watching ratatouille and Earl was like damn this hard.<br>
 Great album, just a bit too reminiscent of *Some Raps Songs* (2018) for me. 
  </p>
   </div>
@@ -3456,7 +3457,7 @@ Great album, just a bit too reminiscent of *Some Raps Songs* (2018) for me.
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Not to immediatley compare my reaction to this album to other critics, but I was surprised bu how much I enjoyed this record even after hearing such bad reviews. It&#x27;s by a far stretch the least exciting album he&#x27;s put out, but I get what he&#x27;s going for here. Is house a downgrade from the decade defining psychadelic hits he put out through the 2010s? Slightly - but I&#x27;d rather he switch genres now instead of attempting to repeat the success of &quot;New Person, Same Old Mistakes&quot; and ruining the memory of his best work through his own self pastiche. 
+    <p>Not to immediatley compare my reaction to this album to other critics, but I was surprised bu how much I enjoyed this record even after hearing such bad reviews. It&#x27;s by a far stretch the least exciting album he&#x27;s put out, but I get what he&#x27;s going for here. Is house a downgrade from the decade defining psychadelic hits he put out through the 2010s? Slightly - but I&#x27;d rather he switch genres now instead of attempting to repeat the success of &quot;New Person, Same Old Mistakes&quot; and ruining the memory of his best work through his own self pastiche. <br>
 My only problem with the album, however, is that individual tracks don&#x27;t give nearly as positive of an experience was the whole album did - it&#x27;s definitley a listen that you benefit more from hearing in full versus in segments. </p>
   </div>
   
@@ -3590,8 +3591,8 @@ My only problem with the album, however, is that individual tracks don&#x27;t gi
   <div class="album-review">
     <h3>Review</h3>
     <p>It&#x27;s a Deafheaven record. 
-This is the only band I know of able to make black metal (screamo, as it was once deemed) palatable. The issue is that the black metal genre is inherently, impossibly unlegible due to how dense it is. Hence, I wouldn&#x27;t be able to tell the difference from one song to another, let alone between this album, and the last record of theirs I listened to over a decade ago. 
-If you have any interest in this band or genre, I cannot recommend enough their 2013 album *Sunbather*, specifically the song &quot;Dream House&quot;. Easily a top 10 song of all time for me, and one of the few of theirs that stands out as unique from the rest. 
+This is the only band I know of able to make black metal (screamo, as it was once deemed) palatable. The issue is that the black metal genre is inherently, impossibly unlegible due to how dense it is. Hence, I wouldn&#x27;t be able to tell the difference from one song to another, let alone between this album, and the last record of theirs I listened to over a decade ago. <br>
+If you have any interest in this band or genre, I cannot recommend enough their 2013 album *Sunbather*, specifically the song &quot;Dream House&quot;. Easily a top 10 song of all time for me, and one of the few of theirs that stands out as unique from the rest. <br>
 This album is still pretty great though, it&#x27;s just another Deadheaven record. </p>
   </div>
   
@@ -3789,7 +3790,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>This is a pretty fun house-y debut record from Barry Can&#x27;t Swim, a dj who&#x27;s been gaining deserved popularity over the past coupe years. 
+    <p>This is a pretty fun house-y debut record from Barry Can&#x27;t Swim, a dj who&#x27;s been gaining deserved popularity over the past coupe years. <br>
 If there was one thing to say about this album, it&#x27;s in praise of how diverse it is. Every track has a distinct sound it, and listening to the album in full sounds like you&#x27;re travelling around the world without feeling like Barry is appropriating anything. He&#x27;s also able to tell a decent narrative despite it being lyrically sparse. It&#x27;s just a good, decent time with a majorly good closing track. Not as impressive, shocking, revolutionary, or heady as the debuts of his peers like Fred Again, but not bad in the slightest. </p>
   </div>
   
@@ -3922,8 +3923,8 @@ If there was one thing to say about this album, it&#x27;s in praise of how diver
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I go back and forth on this album and it&#x27;s hard to pinpoint why. The memory of *Eve: Romance* is not super positive, but when I go back and listen to individual songs, they&#x27;re all pretty great. I have the entire thing liked on sp*tify and that isn&#x27;t me being lazy. Bibi does a great job keeping you interested throughout the record, and there&#x27;s plenty of variation in genre, themes, instruments, even languages from song to song. Every song sounds like it could be a single. Perhaps it&#x27;s that diversity that holds the entire album back. There&#x27;s so many good ideas and so many songs competing for your attention, yet after many listens, I don&#x27;t see them fitting together to make a cohesive album. 
-Another possibility that is far less flattering to my image as a famous and respected music critic /s is that the album cover neither looks professional or appropriate for the seriousness and maturity of the work within it. The cover gives 14-year-old bedroom pop wannabe on soundcloud. Shoot me. 
+    <p>I go back and forth on this album and it&#x27;s hard to pinpoint why. The memory of *Eve: Romance* is not super positive, but when I go back and listen to individual songs, they&#x27;re all pretty great. I have the entire thing liked on sp*tify and that isn&#x27;t me being lazy. Bibi does a great job keeping you interested throughout the record, and there&#x27;s plenty of variation in genre, themes, instruments, even languages from song to song. Every song sounds like it could be a single. Perhaps it&#x27;s that diversity that holds the entire album back. There&#x27;s so many good ideas and so many songs competing for your attention, yet after many listens, I don&#x27;t see them fitting together to make a cohesive album. <br>
+Another possibility that is far less flattering to my image as a famous and respected music critic /s is that the album cover neither looks professional or appropriate for the seriousness and maturity of the work within it. The cover gives 14-year-old bedroom pop wannabe on soundcloud. Shoot me. <br>
 One random positive comment I have though is that it&#x27;s nice to have a kpop artist be uncontrollably horny for a change. </p>
   </div>
   
@@ -3990,7 +3991,7 @@ One random positive comment I have though is that it&#x27;s nice to have a kpop 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I almost didn&#x27;t listen to this record, but I&#x27;m very glad I did. 
+    <p>I almost didn&#x27;t listen to this record, but I&#x27;m very glad I did. <br>
 Lorde is one of the few A list artists that I&#x27;ve been following since the very start of their career. I remember being hyped for the Love Club EP, and downloading &quot;400 Lux&quot; when it was Itunes&#x27; free track of the week in 2013. But *Melodrama* never really hit for me, and 2021&#x27;s *Solar Power* was universally panned as a hit and a miss, so my opinion of Lorde has been muddied by that and the one video of her shushing her audience for singing along with her. 
 
 </p>
@@ -4058,7 +4059,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>A great jazz album with a strong story throughout. Not the most fun or uplifting listen, but consistently interesting at the very least. Interesting lyrics that tell a compelling story, but I struggle to rate it higher because at the end of the day, it&#x27;s just jazz. Shoot me now for saying that but that&#x27;s my truth. </p>
+    <p>A great jazz album with a strong story throughout. Not the most fun or uplifting listen, but consistently interesting and tells a compelling story. Unfortunatley, it&#x27;s also just jazz. Shoot me now for saying that but that&#x27;s my truth. </p>
   </div>
   
   <a href="https://www.youtube.com/watch?v=R7I2jRC8JXk&amp;list=RDR7I2jRC8JXk&amp;start_radio=1&amp;t=158s" class="listen-link" target="_blank">Listen</a>
@@ -4190,8 +4191,8 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Good god please watch the linked video - &quot;Don&#x27;t Fall Asleep&quot; is representative of the album but miles ahead in terms of the individual representation of Jacob&#x27;s songwriting and musical talent. As for the initial review...
-This album feels like Jacob entered the studio with the sole intention of creating the most devastating album he can come up with, and I say that in a slightly bad way. It&#x27;s not a one note project in the slightest, but it also doesn&#x27;t feel like it was meant for anything other than to make the listener sad. Obviously that wasn&#x27;t the actual or sole intention, but that&#x27;s all I left this album with after the first listen. There are hints of lyricism which dare to step off the beaten path, but they don&#x27;t stray far before returning to the comfort of very on-the-nose &quot;you were my best friend wah wah&quot; lines. That may very well hit with you, but it was simply too sad for me. FFS, my favorite song is about his cousin who drowned after doing whipits. It&#x27;s an amazing song, as are most on here, but god is it a brutal, brutal listen. 
+    <p>Good god please watch the linked video - &quot;Don&#x27;t Fall Asleep&quot; is representative of the album but miles ahead in terms of the individual representation of Jacob&#x27;s songwriting and musical talent. As for the initial review...<br>
+This album feels like Jacob entered the studio with the sole intention of creating the most devastating album he can come up with, and I say that in a slightly bad way. It&#x27;s not a one note project in the slightest, but it also doesn&#x27;t feel like it was meant for anything other than to make the listener sad. Obviously that wasn&#x27;t the actual or sole intention, but that&#x27;s all I left this album with after the first listen. There are hints of lyricism which dare to step off the beaten path, but they don&#x27;t stray far before returning to the comfort of very on-the-nose &quot;you were my best friend wah wah&quot; lines. That may very well hit with you, but it was simply too sad for me. FFS, my favorite song is about his cousin who drowned after doing whipits. It&#x27;s an amazing song, as are most on here, but god is it a brutal, brutal listen. <br>
 What I I do need to commend on this album on it&#x27;s instrumentation. If I was ranking guitar playing, this would be in the top 10. Downright masterful stuff and Jacob&#x27;s skill alone gives this project a ton of bonus points in my book. 
 </p>
   </div>
@@ -4391,7 +4392,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I am so glad I listened to this album. I&#x27;ve heard of Pulp growing up but couldn&#x27;t name a song by them, and their most popular single was a complete mystery to me. I guess this is one of those Robbie Williams phenomenons that never made it to the US much. 
+    <p>I am so glad I listened to this album. I&#x27;ve heard of Pulp growing up but couldn&#x27;t name a song by them, and their most popular single was a complete mystery to me. I guess this is one of those Robbie Williams phenomenons that never made it to the US much. <br>
 Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and lighthearted than Blackstar, but at the end of the day it&#x27;s still old people singing about death. Still worth a listen, but probably won&#x27;t make it into anyone&#x27;s regular rotation. This was a one and done for me. </p>
   </div>
   
@@ -4588,8 +4589,8 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Edits is a unique but rewarding gauntlet that not only makes you think about what&#x27;s sampled (using loosely), but about what makes &quot;songs&quot;, &quot;albums&quot;, and &quot;music&quot; itself. 
-The &quot;songs&quot; on this album, are definitley music, it&#x27;s wild that I have to say that, but what makes this album unique is that it&#x27;s entirely DJ edits, so as far as I know, it&#x27;s sampling on top of sampling, at best. That does not sound like something worthy of praise, nor am I praising it, but the final product is something I have genuinely never heard before. Most of the time, it sounds fucking insane, like nothing more than two completely unrelated tracks played over one another. 
+    <p>Edits is a unique but rewarding gauntlet that not only makes you think about what&#x27;s sampled (using loosely), but about what makes &quot;songs&quot;, &quot;albums&quot;, and &quot;music&quot; itself. <br>
+The &quot;songs&quot; on this album, are definitley music, it&#x27;s wild that I have to say that, but what makes this album unique is that it&#x27;s entirely DJ edits, so as far as I know, it&#x27;s sampling on top of sampling, at best. That does not sound like something worthy of praise, nor am I praising it, but the final product is something I have genuinely never heard before. Most of the time, it sounds fucking insane, like nothing more than two completely unrelated tracks played over one another. <br>
 This is really hard to talk about for me both because of its complexity and because it kinda fried my brain for the day, so I&#x27;m just going to refer you to Sam Goldner&#x27;s pitchf*rk review from here on out: [Link](https://pitchfork.com/reviews/albums/chuquimamani-condori-edits/)
 </p>
   </div>
@@ -4675,8 +4676,9 @@ This is really hard to talk about for me both because of its complexity and beca
   </div>
   
   <blockquote class="favorite-lyrics">
-    <p>And years ago on the plains of North America, There weren&#x27;t no rules &#x27;bout nothing</p>
-    <p>And you could pay a guy to get his horse to stomp you on the head, Life is hard, and it&#x27;s harder when you like it hard</p>
+    <p>And years ago on the plains of North America, there weren&#x27;t no rules &#x27;bout nothing</p>
+    <p>And you could pay a guy to get his horse to stomp you on the head, </p>
+    <p>Life is hard, and it&#x27;s harder when you like it hard</p>
   </blockquote>
   
   <img src="../../assets/img/albumcovers25/viagra.png" alt="Viagr Aboys - Viagra Boys cover" class="album-cover">
@@ -4789,7 +4791,7 @@ This is really hard to talk about for me both because of its complexity and beca
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>There&#x27;s only two exceptions to the rule I&#x27;m usually strict on being that everything must be a new 2025 release: an album that came out in December of 2024, and this EP which is simply a few new songs mixed with a live version of this duo&#x27;s explosive 2024 breakout album Bano Maria. Both exceptions the rule of 2025-only are made because the music was relatively recent and just too good to leave to the &quot;other music I listened to this year&quot; list that people are just going to scroll over. 
+    <p>There&#x27;s only two exceptions to the rule I&#x27;m usually strict on being that everything must be a new 2025 release: an album that came out in December of 2024, and this EP which is simply a few new songs mixed with a live version of this duo&#x27;s explosive 2024 breakout album Bano Maria. Both exceptions the rule of 2025-only are made because the music was relatively recent and just too good to leave to the &quot;other music I listened to this year&quot; list that people are just going to scroll over. <br>
 These guys are inventive, addicting, and hilarious. It can be a bit crass sometimes, but never crosses a line. If you&#x27;re able to get over that, what awaits is one of the most fun projects of the year, let alone that I&#x27;ve ever heard out of Argentina. Nice to have something good make it to the US from Argentina. </p>
   </div>
   
@@ -4856,7 +4858,7 @@ These guys are inventive, addicting, and hilarious. It can be a bit crass someti
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>A comedy album in the top 50 AOTY for me. Lol. 
+    <p>A comedy album in the top 50 AOTY for me. Lol. <br>
 Kyle Gordon is a musical comedian who somehow made musical comedy not the worst thing ever (excluding Bo Burnham&#x27;s *Inside*), and I think he owes that to the effort, talent, and direction he puts into his work. It&#x27;s not as simple as singing jokes, or inversely, joking about music, this particular album I would closer describe as surgery of genre, and the Frankenstein&#x27;s monster that comes out of it somehow ends up sounding great while also making you crack up. Good stuff. </p>
   </div>
   
@@ -5252,8 +5254,8 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I&#x27;m ranking this album so low despite my high scores because, while the highs really knock it up quite a few points, it&#x27;s tracklist is still very polarized. This is a good album to talk about track by track. Firstly, the &quot;alter ego&quot; concept was a loose, seemingly abandoned idea in which each song is produced by a certain persona. However, that is not demonstrated on the album whatsover outside of a mention of some of those names in the bonus remixes at the end. 
-Let&#x27;s start with the highs. The album opens with the smash hit &quot;Born Again&quot;. I listened to this constantly in the gym at the beginning of the year and it&#x27;s one of those songs that will inject energy in your veins. It&#x27;s hype, even if the Doja feature is a bit too much. &quot;Thunder&quot; is a well produced, hard hitting track that&#x27;s still a fun listen despite some typical kpop lyrical cringe. That&#x27;s followed up immediatley by &quot;New Woman&quot;, my song of the year of 2025. Just an incredible, unexpected, inventive, unique experimental pop track that might leave you awestruck, even though I hated it on first listen. &quot;Rapunzel&quot; is a fun, upbeat capitalist jerkfest. It&#x27;s fine, though I prefer the version without the Megan feature. &quot;Moonlit Floor&quot; is a wildly unnecessary and out-of-place cover int he middle of the album, but I can&#x27;t deny that Lisa and the band do a great rendition. Lastly, &quot;Dream&quot; may be my favorite track behind &quot;New Woman&quot; and really shows off Lisa&#x27;s skills as a singer and songwriter, which was typically surpressed by the kpop corporate overlords. That leaves 7/13 track remaining as duds, at best. To avoid getting too negative, these are the Blackpink songs - bombastic, overproduced, intimidating in a cringe way, celebrating capitalism, playing the raunchier songs off too safe to evoke much feeling... you get the point. They&#x27;re there to appease that audience and satisfy investors - I&#x27;m not too mad, though I would just kill to see an album 100% under her artistic control. 
+    <p>I&#x27;m ranking this album so low despite my high scores because, while the highs really knock it up quite a few points, it&#x27;s tracklist is still very polarized. This is a good album to talk about track by track. Firstly, the &quot;alter ego&quot; concept was a loose, seemingly abandoned idea in which each song is produced by a certain persona. However, that is not demonstrated on the album whatsover outside of a mention of some of those names in the bonus remixes at the end. <br>
+Let&#x27;s start with the highs. The album opens with the smash hit &quot;Born Again&quot;. I listened to this constantly in the gym at the beginning of the year and it&#x27;s one of those songs that will inject energy in your veins. It&#x27;s hype, even if the Doja feature is a bit too much. &quot;Thunder&quot; is a well produced, hard hitting track that&#x27;s still a fun listen despite some typical kpop lyrical cringe. That&#x27;s followed up immediatley by &quot;New Woman&quot;, my song of the year of 2025. Just an incredible, unexpected, inventive, unique experimental pop track that might leave you awestruck, even though I hated it on first listen. &quot;Rapunzel&quot; is a fun, upbeat capitalist jerkfest. It&#x27;s fine, though I prefer the version without the Megan feature. &quot;Moonlit Floor&quot; is a wildly unnecessary and out-of-place cover int he middle of the album, but I can&#x27;t deny that Lisa and the band do a great rendition. Lastly, &quot;Dream&quot; may be my favorite track behind &quot;New Woman&quot; and really shows off Lisa&#x27;s skills as a singer and songwriter, which was typically surpressed by the kpop corporate overlords. That leaves 7/13 track remaining as duds, at best. To avoid getting too negative, these are the Blackpink songs - bombastic, overproduced, intimidating in a cringe way, celebrating capitalism, playing the raunchier songs off too safe to evoke much feeling... you get the point. They&#x27;re there to appease that audience and satisfy investors - I&#x27;m not too mad, though I would just kill to see an album 100% under her artistic control. <br>
 In summary, this is a solid, solid solo debut, and easily the best work to come out of the Blackpink 4, even if the money and artistry budget available could have gone further. </p>
   </div>
   
@@ -5452,7 +5454,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>This placement is actually two EPs I&#x27;m grouping together. I originally had them separated, but placed them next to each other because I found it hard to differentiate between the two. That is in no way a dig at them, though. They simply sound alike. 
+    <p>This placement is actually two EPs I&#x27;m grouping together. I originally had them separated, but placed them next to each other because I found it hard to differentiate between the two. That is in no way a dig at them, though. They simply sound alike. <br>
 I don&#x27;t know much about Porches but I have to say that these two EPs really gripped me. His voice and lyricism are seriously entrancing and unique, and *Scrap and Love Songs Revisited* is especially impressive for being a throwaway. </p>
   </div>
   
@@ -5519,7 +5521,7 @@ I don&#x27;t know much about Porches but I have to say that these two EPs really
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>This is about the point in the list where it gets really good, so much so that it pains me to rank this so low. 
+    <p>This is about the point in the list where it gets really good, so much so that it pains me to rank this so low. <br>
 On *Ghostholding*, Jane Remover, under the name Venturing, embodies the spirit of Mk. Gee and creates one of the most addictive and surprising rock records of the year. This is one of three releases Jane put out this year, and the only one that leans into rock versus electronic, hence the name change. Excellent stuff. </p>
   </div>
   
@@ -5585,8 +5587,8 @@ On *Ghostholding*, Jane Remover, under the name Venturing, embodies the spirit o
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>If you somehow went through 2025 without hearing about Geese, you&#x27;ve been living under a rock. 
-I don&#x27;t have much to say or critique about this album because Geese have somehow, in my view, made themselves immune to criticism. I could tell you I was slightly let down by the lack of listenability of this album, but the artistry, pasison, meaning, lyricism, instrumentation, et cetera, consistently demand that I rethink my own system and expectations. *Getting Killed* refuses to not be taken seriously, yet Geese gives the impression that they&#x27;re just playing around and having fun on every track. I feel like I&#x27;m getting trolled in the best way possible. 
+    <p>If you somehow went through 2025 without hearing about Geese, you&#x27;ve been living under a rock. <br>
+I don&#x27;t have much to say or critique about this album because Geese have somehow, in my view, made themselves immune to criticism. I could tell you I was slightly let down by the lack of listenability of this album, but the artistry, pasison, meaning, lyricism, instrumentation, et cetera, consistently demand that I rethink my own system and expectations. *Getting Killed* refuses to not be taken seriously, yet Geese gives the impression that they&#x27;re just playing around and having fun on every track. I feel like I&#x27;m getting trolled in the best way possible. <br>
 Good album, great singles, legendary band. Crazy and personally concerning that they&#x27;re this respected despite being in their early 20s. </p>
   </div>
   
@@ -6246,7 +6248,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>If there was ever an album that demanded more than one listen to fully understand, it&#x27;s *The Passionate Ones*. As with many of my favorite songs and albums, I hated it on first listen, but a strong reaction of any kind is a good sign in most cases. This album is crazy introspective, and universally relatable. 
+    <p>If there was ever an album that demanded more than one listen to fully understand, it&#x27;s *The Passionate Ones*. As with many of my favorite songs and albums, I hated it on first listen, but a strong reaction of any kind is a good sign in most cases. This album is crazy introspective, and universally relatable. <br>
 I would write more about it here, but I don&#x27;t think I could say anything other than rephrasing what Marcus said about it already in an interview with TheFace.com back in June: 
 &quot;Everyone lives their life in such an interesting way, whether you’re a doctor or a sex worker, but one thing that connects everyone is that we all want to have passion in our lives – have something we care about and protect that thing. That’s what the basis of the album was for me. I’m finally able to live out my dreams, and when that happens, you have two ways to go: you can do your own thing, or you can help someone else. I’ve figured out a way to talk about love and leftism and existentialism in a pop format. I’m really grateful for that, to be able to stand up for something. I care about workers’ rights, I care about people, and I care about the human condition. Basically, this album is really just all about me – but we’re all mirrors for each other. So if it’s about me, it’s about you, too.&quot;</p>
   </div>
@@ -6448,7 +6450,7 @@ I listened to this album too late in the year, but I could definitley see it ris
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Worthy of its reviews despite the bizzare rollout. My first listen produced the line &quot;some high points but is a bit too long to get overarching meaning or theme from. Overall a good album but I don&#x27;t see myself revisiting it apart from six or seven great songs.&quot; Turns out, those six or seven great songs are definitive of the album itself, and the other inclusions are welcome accompaniment to it&#x27;s heavy hitters. 
+    <p>Worthy of its reviews despite the bizzare rollout. My first listen produced the line &quot;some high points but is a bit too long to get overarching meaning or theme from. Overall a good album but I don&#x27;t see myself revisiting it apart from six or seven great songs.&quot; Turns out, those six or seven great songs are definitive of the album itself, and the other inclusions are welcome accompaniment to it&#x27;s heavy hitters. <br>
 This album was released song-by-song before being compiled into one project, and its mixtape-y construction works for its length and diversity. There are some dud songs here and there, but as a complete album, I see the connective thread. </p>
   </div>
   
@@ -6647,8 +6649,8 @@ This album was released song-by-song before being compiled into one project, and
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I adore these EPs. Admittedly, Neo 4 was a bit of a letdown with Ichiko Aoba and Tamaki Roy dropping out of the project, but until then, this is a collection of some unadadulterated, unbridled creativity. 
-The story behind these EPs are kind of interesting, and they may be more familiar to you than you think. They were comissioned for the &quot;Design Ah&quot; convention in Tokyo, and meant to soundtrack the whole convention as well as the interactive exhibits in them. If you&#x27;ve been seeing any tiktoks or whatever that prompt you to make a thumb-swiping motion to a metronome, I believe that trend started here. 
+    <p>I adore these EPs. Admittedly, Neo 4 was a bit of a letdown with Ichiko Aoba and Tamaki Roy dropping out of the project, but until then, this is a collection of some unadadulterated, unbridled creativity. <br>
+The story behind these EPs are kind of interesting, and they may be more familiar to you than you think. They were comissioned for the &quot;Design Ah&quot; convention in Tokyo, and meant to soundtrack the whole convention as well as the interactive exhibits in them. If you&#x27;ve been seeing any tiktoks or whatever that prompt you to make a thumb-swiping motion to a metronome, I believe that trend started here. <br>
 That may sound boring to listen to outside of those stupid videos, but each song is far from as simple as that sounds. And with that, everything else I can say cannot be said because of the diversity and indescribabily of what&#x27;s on offer. Whether you&#x27;re working, or on a walk and just want to make the world around you feel more interesting, give these EPs a shot. </p>
   </div>
   
@@ -6847,7 +6849,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Someone on twitter said &quot;She remembered she was European and not Latino on this one&quot;. 
+    <p>Someone on twitter said &quot;She remembered she was European and not Latino on this one&quot;. <br>
 *Lux* is wildly ambitious, and as one of the biggest musicians on Earth, it&#x27;s beyond welcome and refreshing to see someone use their resources to the fullest extent and expose the masses to real art. The pursuit of real art occiasionally hurts this album&#x27;s listenability, though, as Rosalia really aims to imbue every song with shock and awe over making a necessarily enjoyable experience. That said, when it hits, it hits hard, and unlike anything you&#x27;ve heard this century. </p>
   </div>
   
@@ -7113,7 +7115,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
   <div class="album-review">
     <h3>Review</h3>
     <p>Yeah, I get it now. 
-Bad Bunny is one of those uber-popular artists that you&#x27;ve heard a few songs by but never understood the hype. Little did I know that this guy is not only comparably extremely conservative with his official releases, but also willing to experiment as well despite the size of his audience. 
+Bad Bunny is one of those uber-popular artists that you&#x27;ve heard a few songs by but never understood the hype. Little did I know that this guy is not only comparably extremely conservative with his official releases, but also willing to experiment as well despite the size of his audience. <br>
 Debi Tirar Mas Fotos (I should have taken more photos) is, dare I say, a benchmark, for both reggaeton and latin music. I say that as someone who has zero knowledge, expertise, or familiarity with Latin or Reggaeton, but I make the claim anyways because I know it made me and millions of other people not only interested, but invested. Truly phenomenal stuff.</p>
   </div>
   
@@ -7180,7 +7182,7 @@ Debi Tirar Mas Fotos (I should have taken more photos) is, dare I say, a benchma
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>*Let God Sort Em Out* is a mixed bag in terms of songs you might actually *want* to listen to, but it&#x27;s high points are good enough to get you invited to perform at the damn vatican despite being an autobiography about selling crack. That&#x27;s a huge oversimplification just to get you interested, but it&#x27;s true, and if I were the pope I&#x27;d invite them too. 
+    <p>*Let God Sort Em Out* is a mixed bag in terms of songs you might actually *want* to listen to, but it&#x27;s high points are good enough to get you invited to perform at the damn vatican despite being an autobiography about selling crack. That&#x27;s a huge oversimplification just to get you interested, but it&#x27;s true, and if I were the pope I&#x27;d invite them too. <br>
 There&#x27;s other albums on this list which are more enjoyable to listen to, both for personal enjoyment and due to the subject matter, but few have the same level of emotional depth and storytelling ability that this album does. It cannot be ignored. </p>
   </div>
   
@@ -7247,8 +7249,8 @@ There&#x27;s other albums on this list which are more enjoyable to listen to, bo
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>If you were to think about albums as meals, a lot of them would make you physically sick by the end. Maybe not because each plate/song is unpleasant, but moreso because it&#x27;s a lot of the same. Nobody wants 15 ribeyes in a row. Blush is a diverse tasting menu from one of the top restaurants in the world. There is not a song on this album I&#x27;d rank below a 9/10 and every one is unique.
-If you&#x27;re reading this, you probably know me and might have expected me to put a Brockhampton member in this list somewhere. That said, I didn&#x27;t expect so personally because Kevin Abstract&#x27;s last solo album Blanket had some high points but was mostly forgettable. The difference in quality obviously comes from the collaboration that took place on this album. The success of Brockhampton was not that each member individually could create what they did, it came from them bouncing each others ideas off the wall and seeing what stuck. No one person had the final say on what something sounded like. Despite this being listed as a solo project, Kevin has made it clear that &quot;Blush&quot; is a loose collective. It just so happens that that collective involves some of the greatest working talents in the industry right now, namely JPEGMafia, Quadeca, and Romil Hemnani, as well as introducing tons of no-name artists which will deservedly blow up after this album gains traction (Love Spells, Derby). 
+    <p>If you were to think about albums as meals, a lot of them would make you physically sick by the end. Maybe not because each plate/song is unpleasant, but moreso because it&#x27;s a lot of the same. Nobody wants 15 ribeyes in a row. Blush is a diverse tasting menu from one of the top restaurants in the world. There is not a song on this album I&#x27;d rank below a 9/10 and every one is unique.<br>
+If you&#x27;re reading this, you probably know me and might have expected me to put a Brockhampton member in this list somewhere. That said, I didn&#x27;t expect so personally because Kevin Abstract&#x27;s last solo album Blanket had some high points but was mostly forgettable. The difference in quality obviously comes from the collaboration that took place on this album. The success of Brockhampton was not that each member individually could create what they did, it came from them bouncing each others ideas off the wall and seeing what stuck. No one person had the final say on what something sounded like. Despite this being listed as a solo project, Kevin has made it clear that &quot;Blush&quot; is a loose collective. It just so happens that that collective involves some of the greatest working talents in the industry right now, namely JPEGMafia, Quadeca, and Romil Hemnani, as well as introducing tons of no-name artists which will deservedly blow up after this album gains traction (Love Spells, Derby). <br>
 My only major issue with this album that I have to note is the inclusion of Ameer Vann. Ameer was famously kicked out of Brockhampton in 2018 due to allegations of sexual misconduct by multiple women. Moreover, in 2024, fellow Brockhampton member Dom McKlennon claimed that Ameer also set him up to be robbed following his dismissal from the group. Ameer is talented and Kevin and him have been good friends since high school, yet I take serious issue with Kevin including him on the album as it associates the other talents on this album, and the listener, with Kevin&#x27;s forgiveness of the man. Ameer appears on 4/18 songs.</p>
   </div>
   
@@ -7315,7 +7317,7 @@ My only major issue with this album that I have to note is the inclusion of Amee
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>A wild twist in subject matter from Danny Brown on this one, and a twist that not only refreshes his music, but my entire image of him as an artist. On *Stardust*, Danny seamlessly bounces between a memoir of his career and substance abuse, to his own artistry and gratitude for his fans and collaborators, as well as other themes and motifs that I can&#x27;t even list because of how lyrically dense the album is. The features on this thing are also really impressive. I especially enjoyed Ta Ukrainka&#x27;s verses on &quot;The End&quot; which discusses her move to Poland from Ukraine and the social isolation that came with not knowing the language, paired with the fact that she sings in both Ukranian and Polish on the song. 
+    <p>A wild twist in subject matter from Danny Brown on this one, and a twist that not only refreshes his music, but my entire image of him as an artist. On *Stardust*, Danny seamlessly bounces between a memoir of his career and substance abuse, to his own artistry and gratitude for his fans and collaborators, as well as other themes and motifs that I can&#x27;t even list because of how lyrically dense the album is. The features on this thing are also really impressive. I especially enjoyed Ta Ukrainka&#x27;s verses on &quot;The End&quot; which discusses her move to Poland from Ukraine and the social isolation that came with not knowing the language, paired with the fact that she sings in both Ukranian and Polish on the song. <br>
 My only notable complaint with the album is that it tries to hard to be dramatic at times, with some songs, including &quot;The End&quot; having long, spoken word sections at the end of the song. If those sections were made into their own, seperate, interludes, I&#x27;d push this up a few more placements. Other than that, A+ record, and my personal favorite of Danny&#x27;s. </p>
   </div>
   
@@ -7448,7 +7450,7 @@ My only notable complaint with the album is that it tries to hard to be dramatic
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>From start to finish, this album feels like a neverending soundscape of a psyche. The memory of *Never Enough* feels like a dream. 
+    <p>From start to finish, this album feels like a neverending soundscape of a psyche. The memory of *Never Enough* feels like a dream. <br>
 I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and that I don&#x27;t know what to say. It&#x27;s fairly one-note, but that note is consistently catchy and exhilerating, yet still manages to throw in plenty of surprises while still staying within the same sound. </p>
   </div>
   
@@ -7646,7 +7648,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I took a break from listening to EDM between 2015 and ~2023 when Fred Again&#x27;s Boiler Room set dragged me back to the genre against my will. Given that I&#x27;m still getting a fair view of the contemporary mainstream landscape, it&#x27;s only fair that I compare Ninajirachi to her peers. And with that said, nobody is doing it like Nina. 
+    <p>I took a break from listening to EDM between 2015 and ~2023 when Fred Again&#x27;s Boiler Room set dragged me back to the genre against my will. Given that I&#x27;m still getting a fair view of the contemporary mainstream landscape, it&#x27;s only fair that I compare Ninajirachi to her peers. And with that said, nobody is doing it like Nina. <br>
 On other Electronic albums I&#x27;ve reviewed this year, my main complaint on most of them was that the producer doesn&#x27;t sing, which leads to a disconnect between the lyrics and backing track, amongst other, more specific mismatches. I&#x27;ve been following Nina since her 2019 EP *Lapland*, which she released when she was 19, and one thing you can always say about her is music is that it is incredibly focused and she plays has a hand in every aspect of her work. What sets *I Love my Computer Apart* from her prior discography is that it&#x27;s significantly more personal and heartfelt. It feels like more like a memoir at times than an EDM album. &quot;Ipod Touch&quot;, for example, brings up moments from her childhood that made her fall in love with Electronic Music. &quot;Sing Good&quot; is another obvious example of this kind of writing, with her telling the story of how she was able to open up and be brave enough to sing on her songs rather than just producing them. I really don&#x27;t think you&#x27;re going to get than kind of personal touch on anything else in the EDM genre today. Please correct me if I&#x27;m wrong. </p>
   </div>
   
@@ -7713,8 +7715,8 @@ On other Electronic albums I&#x27;ve reviewed this year, my main complaint on mo
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>Yes, this came out at the end of 2024, emdash, fuck you. This year was a pretty emotional one for me, and while sad songs have never been in my rotation, songs about love and relationships have been and have been exacerbated as of recent. None of the songs on Heavy Metal are particularly or outright sad, though his voice and piano riffs may initially make you think they are. In fact, this album gave me more hope than any other music this decade. 
-I may not be in as much need of hope as most people in the world, but jesus christ this album spoke to me in unexpected ways. I gave it a listen after weeks/months of seeing the unique album cover pop up on a mix of folks “best of 2024” list or “albums to listen to Jan 2025” yadayadayada. The reason for that praise is clearly due to Cameron&#x27;s care and passion behind his music. I don&#x27;t think there&#x27;s a single other artist I&#x27;ve listened to this year that sang from the heart at a level that he did. I was absolutely destroyed after learning he was born in 2002, because the maturity shown in each song, both lyrically and sonically, are that of someone in the mid-30s, minimum, reminiscent of Bob Dylan or even the Beatles on the songwriting front. 
+    <p>Yes, this came out at the end of 2024, emdash, fuck you. This year was a pretty emotional one for me, and while sad songs have never been in my rotation, songs about love and relationships have been and have been exacerbated as of recent. None of the songs on Heavy Metal are particularly or outright sad, though his voice and piano riffs may initially make you think they are. In fact, this album gave me more hope than any other music this decade. <br>
+I may not be in as much need of hope as most people in the world, but jesus christ this album spoke to me in unexpected ways. I gave it a listen after weeks/months of seeing the unique album cover pop up on a mix of folks “best of 2024” list or “albums to listen to Jan 2025” yadayadayada. The reason for that praise is clearly due to Cameron&#x27;s care and passion behind his music. I don&#x27;t think there&#x27;s a single other artist I&#x27;ve listened to this year that sang from the heart at a level that he did. I was absolutely destroyed after learning he was born in 2002, because the maturity shown in each song, both lyrically and sonically, are that of someone in the mid-30s, minimum, reminiscent of Bob Dylan or even the Beatles on the songwriting front. <br>
 Side note: it&#x27;s pretty wild the differences between Cameron&#x27;s solo work and as the frontman of the band Geese. I liked and appreciated Geese&#x27;s album this year, but didn&#x27;t love it, whereas *Heavy Metal* is impossible not to love after a few listens. 
 You better start walking because love takes miles. </p>
   </div>
@@ -7782,8 +7784,8 @@ You better start walking because love takes miles. </p>
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>For the record, I listened to this well before she got a disrespectful but prominent feature on a dr*ke song which shall not be named. 
-I gotta say this is pretty much a flawless album, while also balancing an impressive use of early 2000s nostalgia with modern sounds and themes. Julia&#x27;s voice is so unique, and the softness of it and her words mesh shockingly well with the more metal instrumentation in the background. Speaking of the instrumentation, I forget the guy&#x27;s name but she worked closely with one producer/guitarist on *Pressure* that deserves as much praise as Julia. It&#x27;s downright masterful stuff. 
+    <p>For the record, I listened to this well before she got a disrespectful but prominent feature on a dr*ke song which shall not be named. <br>
+I gotta say this is pretty much a flawless album, while also balancing an impressive use of early 2000s nostalgia with modern sounds and themes. Julia&#x27;s voice is so unique, and the softness of it and her words mesh shockingly well with the more metal instrumentation in the background. Speaking of the instrumentation, I forget the guy&#x27;s name but she worked closely with one producer/guitarist on *Pressure* that deserves as much praise as Julia. It&#x27;s downright masterful stuff. <br>
 Anyways, would recommend. This is another album that I don&#x27;t have a ton to say about because it doesn&#x27;t need defending. </p>
   </div>
   
@@ -7850,7 +7852,7 @@ Anyways, would recommend. This is another album that I don&#x27;t have a ton to 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I have to admit that this is a case of me deciding this would be an album of the year contender before it even came out. 
+    <p>I have to admit that this is a case of me deciding this would be an album of the year contender before it even came out. <br>
 After BC,NR&#x27;s previous frontman dropped out, I was curious, to put it lightly how the band would choose to move forwards. Their previous album, Live at Bush Hall, gave a preview of that path, but went over my and many other&#x27;s heads due to the confusing marketting of it being a full fledged BC,NR album but sold, in my view, as just a collection of concert recordings. 
 To say I love the direction this band took is putting it lightly. It&#x27;s impossible to fill the shoes left by the previous singer Isaac Wood, but he was replaced by the three female members of the group all stepping up the plate as singers, and the new form BC,NR takes is, in my opinion, even stronger than before. 99% of fans would say otherwise despite enjoying Forever Howlong, but I&#x27;ll stand by that claim because the diversity and uniqueness that&#x27;s spawned from their band makeup is really unlike anything else I&#x27;ve heard before. 
 There really is no one word to describe this album. 
@@ -7920,8 +7922,8 @@ There really is no one word to describe this album.
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>After my first listen to *Euro Country* I thought &quot;Some great melodies and instrumentation, and an interesting premise, though the vibe that comes with supplanting american style white trash on europe is tough to both chew and swallow&quot;. I acknowledged it was still worth listening to as that premise is also what makes it so unique, but as a completed package, it&#x27;s something I struggle to love despite the utter greatness of its components. Admittedly, this is also a good example of how my judgements of music unfortunatley are not 100% based on the music in itself, because the album cover is confusing to someone who is unaware of the themes of the work within it. This album is well worth all the praise it receives, but the seriousness of the music is directly denied by the comedic album art. 
-Pause. I listen to the album a two or three more times.
+    <p>After my first listen to *Euro Country* I thought &quot;Some great melodies and instrumentation, and an interesting premise, though the vibe that comes with supplanting american style white trash on europe is tough to both chew and swallow&quot;. I acknowledged it was still worth listening to as that premise is also what makes it so unique, but as a completed package, it&#x27;s something I struggle to love despite the utter greatness of its components. Admittedly, this is also a good example of how my judgements of music unfortunatley are not 100% based on the music in itself, because the album cover is confusing to someone who is unaware of the themes of the work within it. This album is well worth all the praise it receives, but the seriousness of the music is directly denied by the comedic album art. <br>
+Pause. I listen to the album a two or three more times.<br>
 Incredibly emotional and evocative of a profound, universal western rural experience - I left this album with a sense of yearning for empty roads and cold sunsets, while also getting a history lesson on the unique difficulties faced by 21st century Ireland. This album is absolutely devastating in the best way possible. A visceral recollection of the Celtic Tiger, a girl my age thrown into a world surrounded by suicide, poverty, the disolution of families, communities, homes, and the feeling of powerlessness which comes with that and seeing its perpetrators celebrated. Love gained and love lost, yet every song is filled with eclectic energy, great melodies, and phenomenal singing that makes it incredibly enjoyable nonetheless. And that only describes the title track. Good god this is one for the ages on lyrics alone. Please, for the love of g*d, listen to this album intentionally. </p>
   </div>
   
@@ -7988,10 +7990,10 @@ Incredibly emotional and evocative of a profound, universal western rural experi
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>It was extremely difficult choosing between this album and my #1 as my AOTY. 
-4 out of 5 albums on this list are those that don&#x27;t stop me in my tracks. The top 60 of this 100 are at the very least &quot;good&quot;, but not many of them are those that make me say &quot;wow this is really something special&quot; on first listen. &quot;People Watching&quot; is an album that you will understand why it receives it&#x27;s praise on first listen. On the first listen, I had to ask myself if I was hearing things correctly. 
-I am not being hyperbolic when I say every song on this album is not only lead single-worthy, but also individually career defining for any other artist. I mentioned earlier under Kevin Abstract&#x27;s Blush that nobody wants an album that&#x27;s equivalent to a meal with 15 subsequent steaks, but this is an exception. Each song is a heavy hitter with a strong story to it that, and while simple, are all very legible even when listening casually. Melodies across the board are infectous and the instrumentation across the album is nothing short if spectacular. The basslines on &quot;Rein Me In&quot; is a highlight for me, along with the guitar loop on &quot;Nostalgia&#x27;s Lie&quot;. 
-My only somewhat negative comment about *People Watching* is that it doesn&#x27;t push the needle forward in genre. It&#x27;s a collection of hitworthy songs, yet still plays it relatively safe in it&#x27;s universal accessibility. That&#x27;s fine because there are definitley moments on here that will still catch you off-guard amongst their other already incredible components, but it doesn&#x27;t experiment much, approaching Alex Warren &quot;ordinary&quot; vibes. It&#x27;s music video comments are filled with boomers telling you their age and how the song reminds them of buddy whothefuck that they listened to when they got home from Vietnam. Forget it. 
+    <p>It was extremely difficult choosing between this album and my #1 as my AOTY. <br>
+4 out of 5 albums on this list are those that don&#x27;t stop me in my tracks. The top 60 of this 100 are at the very least &quot;good&quot;, but not many of them are those that make me say &quot;wow this is really something special&quot; on first listen. &quot;People Watching&quot; is an album that you will understand why it receives it&#x27;s praise on first listen. On the first listen, I had to ask myself if I was hearing things correctly. <br>
+I am not being hyperbolic when I say every song on this album is not only lead single-worthy, but also individually career defining for any other artist. I mentioned earlier under Kevin Abstract&#x27;s Blush that nobody wants an album that&#x27;s equivalent to a meal with 15 subsequent steaks, but this is an exception. Each song is a heavy hitter with a strong story to it that, and while simple, are all very legible even when listening casually. Melodies across the board are infectous and the instrumentation across the album is nothing short if spectacular. The basslines on &quot;Rein Me In&quot; is a highlight for me, along with the guitar loop on &quot;Nostalgia&#x27;s Lie&quot;. <br>
+My only somewhat negative comment about *People Watching* is that it doesn&#x27;t push the needle forward in genre. It&#x27;s a collection of hitworthy songs, yet still plays it relatively safe in it&#x27;s universal accessibility. That&#x27;s fine because there are definitley moments on here that will still catch you off-guard amongst their other already incredible components, but it doesn&#x27;t experiment much, approaching Alex Warren &quot;ordinary&quot; vibes. It&#x27;s music video comments are filled with boomers telling you their age and how the song reminds them of buddy whothefuck that they listened to when they got home from Vietnam. Forget it. <br>
 Universal Accessibility is not a bad thing by any means so I don&#x27;t know why I bothered writing so much about that. Anyways, I enjoyed the hell out of this album and would recommend to anyone and everyone. It&#x27;s honestly as close to perfect as anything on here. </p>
   </div>
   
@@ -8058,7 +8060,7 @@ Universal Accessibility is not a bad thing by any means so I don&#x27;t know why
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I&#x27;m a nobody but I still treat this as the highest praise I can possibly give, period. Chills, start to finish. A portrait of the modern man crumbling under the weight of the 21st century, grappling with remnant of late 90s corporate rejection with the real and violent threat of the contemporary borgeois. It took a long long time to decide my album of the year between the early in the year release of the inventive Forever Howlong, the lyrically perfected Euro Country, and the emotional, expertly crafted and executed People Watching and  Pressure, but at the end of it all, no music this year stood up to the feeling I have when listening to Soft Spot. In fact, it&#x27;s not even close. This album honestly slowed down my ability to listen to other music because I was re-listening to it in full too many times. 
+    <p>I&#x27;m a nobody but I still treat this as the highest praise I can possibly give, period. Chills, start to finish. A portrait of the modern man crumbling under the weight of the 21st century, grappling with remnant of late 90s corporate rejection with the real and violent threat of the contemporary borgeois. It took a long long time to decide my album of the year between the early in the year release of the inventive Forever Howlong, the lyrically perfected Euro Country, and the emotional, expertly crafted and executed People Watching and  Pressure, but at the end of it all, no music this year stood up to the feeling I have when listening to Soft Spot. In fact, it&#x27;s not even close. This album honestly slowed down my ability to listen to other music because I was re-listening to it in full too many times. <br>
 Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it has it all and is incredibly digestible at that for something in the hardcore genre. Best of all, there is not a song on the tracklist, save, debatably, the intro and interlude, that would make you feel otherwise. Downright incredible levels of energy with something powerful, contemporary, and relevant to boot. No soft spots for fascist hot shots.</p>
   </div>
   
