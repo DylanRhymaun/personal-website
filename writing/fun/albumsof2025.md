@@ -4497,7 +4497,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
   <img src="../../assets/img/albumcovers25/condori.png" alt="Edits - Chuquimamani-Condori cover" class="album-cover">
   
   <div class="album-metadata">
-    <span class="meta-item"><strong>Genre:</strong> Other</span>
+    <span class="meta-item"><strong>Genre:</strong> Collage</span>
     <span class="meta-item"><strong>Subgenre:</strong> Epic Collage</span>
     <span class="meta-item"><strong>Country:</strong> USA</span>
     <span class="meta-item"><strong>Language:</strong> Spanish</span>
