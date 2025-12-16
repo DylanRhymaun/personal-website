@@ -4,8 +4,9 @@ layout: default
 <br>
 <br>
 <!-- Dropdown -->
-<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br> 
-Last updated 12/15/2025 7:54 PM EST.<br>
+<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
+<a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
+Last updated 12/15/2025 8:14 PM EST.<br>
 &copy; Dylan Rhymaun MMXXV<br>
 
 {% raw %}
@@ -145,10 +146,10 @@ Last updated 12/15/2025 7:54 PM EST.<br>
       <h3>Blog</h3>
         <ul>
           <!--<li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>-->
+          <li><a href="./writing/fun/albumsof2025.html">Rating every album and EP I listened to in 2025</a></li>          
           <li><a href="./writing/fun/albumsof2024.html">My 20 Favorite Albums of 2024</a></li>
           <li><a href="./writing/fun/songsof2024.html">My 20 favorite songs of 2024</a></li>
           <li><a href="./writing/fun/othermusicof2024.html">Other Music I listened to in 2024</a></li>
-          <li><a href="./writing/fun/albumsof2025.html" style="color: white; text-decoration: none;">My 110 Favorite Albumsand EPs of 2025 (work in progress)</a></li>          
         </ul>
       <h3>Articles & Essays</h3>
         <ul>
