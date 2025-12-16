@@ -8071,7 +8071,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
   <a href="https://www.youtube.com/watch?v=swDEpLDsp0Q" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    Recommended for: <span style='color:#f9f9f9'>Foster</span>, <span style='color:#f9f9f9'>Aidan B</span>, <span style='color:#f9f9f9'>Aidan C</span><br>A must listen to for <span style='color:#f9f9f9'>Foster</span>
+    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Foster</span> <span style='color:#f9f9f9'>Aidan B</span> <span style='color:#f9f9f9'>Aidan C</span><br>A must listen to for <span style='color:#f9f9f9'>Foster</span></span>
   </div>
 </article>
 
