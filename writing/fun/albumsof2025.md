@@ -5809,8 +5809,8 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   </div>
   
   <blockquote class="favorite-lyrics">
-    <p>There&#x27;s a tornado swing and it&#x27;s rocking me right to sleep</p>
-    <p>Thank you for recording</p>
+    <p>Let me write down, every word. Once I was a mockingbird. </p>
+    <p>Not an angel, but I'm your man. I can bring you back again</p>
   </blockquote>
   
   <img src="../../assets/img/albumcovers25/alexg.png" alt="Headlights - Alex G cover" class="album-cover">
