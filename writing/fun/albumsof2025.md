@@ -3,9 +3,9 @@ layout: default
 title: "My top 120 Albums of 2025"
 custom_css: albumsof2025.css
 ---
-
+<br>
 # The 120 Albums and EPs I Listened to in 2025
-
+<br>
 ## Introduction
 First of all, thanks for reading. I’m going to allow myself to be pretentious for a second because this has been a not insignificant part of my year. I made an effort this year to listen to as many albums in full as comfortably possible - it paid off in terms of exposing me to a lot of new artists, but most of all I also learned a lot about my relationship to music and art as well as the role of a critic. More than anything this is mostly an exercise in learning to better write about art (it didn’t work). 
 <br>
@@ -125,7 +125,7 @@ One final note: I wrote almost all of this in a text editor which didn't have sp
   <a href="https://www.youtube.com/watch?v=52ToK1R1kzI&amp;list=RD52ToK1R1kzI&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -192,7 +192,7 @@ This is a pretty terrible album across the board, but I should give praise again
   <a href="https://www.youtube.com/watch?v=23urWKmHS6o&amp;list=RD23urWKmHS6o&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -258,7 +258,7 @@ This is a pretty terrible album across the board, but I should give praise again
   <a href="https://www.youtube.com/watch?v=JlQoMeRRbkM" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -326,7 +326,7 @@ In summary, this project was even more dissapointing than I expected. Contrary t
   <a href="https://www.youtube.com/watch?v=ko70cExuzZM&amp;list=RDko70cExuzZM&amp;start_radio=1&amp;pp=ygUNdGF5bG9yIHN3aWZ0IKAHAQ%3D%3D" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -393,7 +393,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
   <a href="https://www.youtube.com/watch?v=JJpFTUP6fIo&amp;list=RDJJpFTUP6fIo&amp;start_radio=1&amp;pp=ygUVZW1lcmdlbmNlIHNsZWVwIHRva2VuoAcB" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -459,7 +459,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
   <a href="https://www.youtube.com/watch?v=-V4jiPcNUjg&amp;list=RD-V4jiPcNUjg&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -524,7 +524,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
   <a href="https://www.youtube.com/watch?v=9cXpou1r6sI" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -594,7 +594,7 @@ Anyways, most of the songs on this album sound the same, and like last year, Tyl
   <a href="https://www.youtube.com/watch?v=GJDmvDSWK64&amp;list=RDGJDmvDSWK64&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -661,7 +661,7 @@ Anyways, most of the songs on this album sound the same, and like last year, Tyl
   <a href="https://www.youtube.com/watch?v=hE2DLtuxcUU&amp;list=RDhE2DLtuxcUU&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -728,7 +728,7 @@ My problems with this type of electronic music and AU5 are 100% reflective of my
   <a href="https://www.youtube.com/watch?v=83gLGjj1gZg&amp;list=RD83gLGjj1gZg&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -796,7 +796,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
   <a href="https://www.youtube.com/watch?v=cZgUiR31m-Y&amp;list=RDcZgUiR31m-Y&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -861,7 +861,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
   <a href="https://www.youtube.com/watch?v=fgWM__UuQFc" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -927,7 +927,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
   <a href="https://www.youtube.com/watch?v=w6acdzD1Tr0&amp;list=RDw6acdzD1Tr0&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -993,7 +993,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
   <a href="https://www.youtube.com/watch?v=Id_0DsBctYg&amp;list=RDId_0DsBctYg&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1060,7 +1060,7 @@ This was my first and will most likely be my last time listening to Bon Iver. I 
   <a href="https://www.youtube.com/watch?v=ZSkXZ6zz5PQ&amp;list=RDZSkXZ6zz5PQ&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1128,7 +1128,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=QRqCK7jv9tc&amp;list=RDQRqCK7jv9tc&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1194,7 +1194,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=vsd9LFuxVFY&amp;list=RDvsd9LFuxVFY&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1259,7 +1259,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=HcZN--J_87k&amp;list=RDHcZN--J_87k&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1324,7 +1324,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=jr_ArQThFlo&amp;list=RDjr_ArQThFlo&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1390,7 +1390,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=vPI0mdAmLHU&amp;list=RDvPI0mdAmLHU&amp;start_radio=1&amp;pp=ygUMZGlqb24gcmV3aW5koAcB" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1455,7 +1455,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=f4e3aVU7cjI&amp;list=RDf4e3aVU7cjI&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1521,7 +1521,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=oGvBg_UwkJ0&amp;list=RDoGvBg_UwkJ0&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1587,7 +1587,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=9q71ywEqJjA&amp;list=RD9q71ywEqJjA&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1652,7 +1652,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=dWHA_sZRt88&amp;list=RDdWHA_sZRt88&amp;start_radio=1&amp;pp=ygUSaGlnaCBzb2NpZXR5IGJyZWFroAcB" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1717,7 +1717,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=L_UBFnwaOgY" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1783,7 +1783,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
   <a href="https://www.youtube.com/watch?v=3ZmlRsNysNY&amp;list=RD3ZmlRsNysNY&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1852,7 +1852,7 @@ In summary, Ur an Angel I&#x27;m Just Particles is a decently fun but basic pop 
   <a href="https://www.youtube.com/watch?v=TVnSI84fGqY&amp;list=RDTVnSI84fGqY&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1918,7 +1918,7 @@ About a quarter of the albums on this list are not primarily in English, but thi
   <a href="https://www.youtube.com/watch?v=rl0HAGx6X0I&amp;list=RDrl0HAGx6X0I&amp;start_radio=1&amp;pp=ygUTY29sb3JzIGljaCBiaW4gcmF1c6AHAQ%3D%3D" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -1984,7 +1984,7 @@ About a quarter of the albums on this list are not primarily in English, but thi
   <a href="https://www.youtube.com/watch?v=qJDn6PseE2k&amp;list=RDqJDn6PseE2k&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2052,7 +2052,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
   <a href="https://www.youtube.com/watch?v=wYTeyNB1k5g&amp;list=RDwYTeyNB1k5g&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2118,7 +2118,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
   <a href="https://www.youtube.com/watch?v=XpDnNK8uKNs&amp;list=RDXpDnNK8uKNs&amp;start_radio=1&amp;pp=ygUSc2FtIGdlbGxhaXRyeSBzY2FyoAcB" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2184,7 +2184,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
   <a href="https://www.youtube.com/watch?v=TFWXqLSr4ZM&amp;list=RDTFWXqLSr4ZM&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2251,7 +2251,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
   <a href="https://www.youtube.com/watch?v=yTaz0TB9Zco&amp;list=RDyTaz0TB9Zco&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2316,7 +2316,7 @@ Anyways, I&#x27;d reccomend the movie simply because it&#x27;s a conclusion to p
   <a href="https://www.youtube.com/watch?v=C_jANET2Zs4&amp;list=RDC_jANET2Zs4&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2383,7 +2383,7 @@ I do have to comment on the themes that the duo tends to use on this and in the 
   <a href="https://www.youtube.com/watch?v=QZfH7cFp3Ys" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2449,7 +2449,7 @@ I do have to comment on the themes that the duo tends to use on this and in the 
   <a href="https://www.youtube.com/watch?v=2_zqDxcg08w&amp;list=RD2_zqDxcg08w&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2518,7 +2518,7 @@ I&#x27;m fully aware these reviews shouldn&#x27;t focus on anything but the musi
   <a href="https://www.youtube.com/watch?v=usrOTCqBpuk" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2586,7 +2586,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
   <a href="https://www.youtube.com/watch?v=vXz4lEwglkg&amp;list=RDvXz4lEwglkg&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2652,7 +2652,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
   <a href="https://www.youtube.com/watch?v=Qrgnr0N8iwU" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2718,7 +2718,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
   <a href="https://www.youtube.com/watch?v=BOtCBy_FSZE&amp;list=RDBOtCBy_FSZE&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2784,7 +2784,7 @@ In short, there&#x27;s a lot of value here, but it&#x27;s an album that will sca
   <a href="https://www.youtube.com/watch?v=vjaKvvuRW_g&amp;list=RDvjaKvvuRW_g&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2852,7 +2852,7 @@ In summary, I appluad this album for getting a reaction out of me, but I&#x27;m 
   <a href="https://www.youtube.com/watch?v=ax54oYnkjjc&amp;list=RDax54oYnkjjc&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2920,7 +2920,7 @@ As a side - They did release a full album only on vinyl using songs from their l
   <a href="https://www.youtube.com/watch?v=G6CSdvvrI-k" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -2987,7 +2987,7 @@ Individually, the tracklist&#x27;s high points offer a feast of profound bars ov
   <a href="https://www.youtube.com/watch?v=pm41IrkBrwc&amp;list=RDpm41IrkBrwc&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3054,7 +3054,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
   <a href="https://www.youtube.com/watch?v=u2jlWouXz-8&amp;list=RDu2jlWouXz-8&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3120,7 +3120,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
   <a href="https://www.youtube.com/watch?v=0ZQG1uS9hx8&amp;list=RD0ZQG1uS9hx8&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3185,7 +3185,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
   <a href="https://www.youtube.com/watch?v=VcZRvMBGS38&amp;list=OLAK5uy_lBlPitKOQ40-ALwHtbA31sanXDOZ3-bz8&amp;index=5" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3250,7 +3250,7 @@ If you aren&#x27;t familiar with Ichiko Aoba, she&#x27;s probably the most popul
   <a href="https://www.youtube.com/watch?v=Xwml50CG6LA" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3335,7 +3335,7 @@ Great album, just a bit too reminiscent of *Some Raps Songs* (2018) for me.
   <a href="https://www.youtube.com/watch?v=q_nwxIIUVAw&amp;list=RDq_nwxIIUVAw&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3401,7 +3401,7 @@ Great album, just a bit too reminiscent of *Some Raps Songs* (2018) for me.
   <a href="https://www.youtube.com/watch?v=l-2l5XFJNdg&amp;list=RDl-2l5XFJNdg&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3468,7 +3468,7 @@ My only problem with the album, however, is that individual tracks don&#x27;t gi
   <a href="https://www.youtube.com/watch?v=pyUOSaQZmxw&amp;list=RDpyUOSaQZmxw&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3534,7 +3534,7 @@ My only problem with the album, however, is that individual tracks don&#x27;t gi
   <a href="https://www.youtube.com/watch?v=l66QEIfCE0Q&amp;list=RDl66QEIfCE0Q&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3603,7 +3603,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
   <a href="https://www.youtube.com/watch?v=Lq5kBkD-F1o&amp;list=RDLq5kBkD-F1o&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3669,7 +3669,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
   <a href="https://www.youtube.com/watch?v=Oa2eBo-qKVw" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3735,7 +3735,7 @@ This album is still pretty great though, it&#x27;s just another Deadheaven recor
   <a href="https://www.youtube.com/watch?v=sUdvVt7Ldso&amp;list=RDsUdvVt7Ldso&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3801,7 +3801,7 @@ If there was one thing to say about this album, it&#x27;s in praise of how diver
   <a href="https://www.youtube.com/watch?v=mDI49vzM4jw&amp;list=RDmDI49vzM4jw&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3867,7 +3867,7 @@ If there was one thing to say about this album, it&#x27;s in praise of how diver
   <a href="https://www.youtube.com/watch?v=4Wa3RWq_3U4&amp;list=RD4Wa3RWq_3U4&amp;start_radio=1&amp;pp=ygUWd29tYW4gb2YgZmFjZXMgY2VsZXN0ZaAHAQ%3D%3D" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -3935,7 +3935,7 @@ One random positive comment I have though is that it&#x27;s nice to have a kpop 
   <a href="https://www.youtube.com/watch?v=d7glwJ5yd20&amp;list=RDd7glwJ5yd20&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4004,7 +4004,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
   <a href="https://www.youtube.com/watch?v=ynrSkSYirB0&amp;list=RDynrSkSYirB0&amp;start_radio=1&amp;pp=ygUVbWFuIG9mIHRoZSB5ZWFyIGxvcmRloAcB" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4069,7 +4069,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
   <a href="https://www.youtube.com/watch?v=R7I2jRC8JXk&amp;list=RDR7I2jRC8JXk&amp;start_radio=1&amp;t=158s" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4135,7 +4135,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
   <a href="https://www.youtube.com/watch?v=cZirSkxX3QA&amp;list=RDcZirSkxX3QA&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4204,7 +4204,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
   <a href="https://www.youtube.com/watch?v=0cQwz7PHsCw&amp;list=RD0cQwz7PHsCw&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4270,7 +4270,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
   <a href="https://www.youtube.com/watch?v=XlD7jaLE_68&amp;list=RDXlD7jaLE_68&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4336,7 +4336,7 @@ What I I do need to commend on this album on it&#x27;s instrumentation. If I was
   <a href="https://www.youtube.com/watch?v=IFSgIHXvckk&amp;list=RDIFSgIHXvckk&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4403,7 +4403,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
   <a href="https://www.youtube.com/watch?v=zTcrz0NIlrc&amp;list=RDzTcrz0NIlrc&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4469,7 +4469,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
   <a href="https://www.youtube.com/watch?v=a90_cjTF770&amp;list=RDa90_cjTF770&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4534,7 +4534,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
   <a href="https://www.youtube.com/watch?v=jI8FcPWekBs&amp;list=RDjI8FcPWekBs&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4602,7 +4602,7 @@ This is really hard to talk about for me both because of its complexity and beca
   <a href="https://www.youtube.com/watch?v=9WSEaokjJYQ&amp;list=RD9WSEaokjJYQ&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4668,7 +4668,7 @@ This is really hard to talk about for me both because of its complexity and beca
   <a href="https://www.youtube.com/watch?v=tGMy0z1akLs&amp;list=RDtGMy0z1akLs&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4735,7 +4735,7 @@ This is really hard to talk about for me both because of its complexity and beca
   <a href="https://www.youtube.com/watch?v=9kWgvEKIo4c" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4802,7 +4802,7 @@ These guys are inventive, addicting, and hilarious. It can be a bit crass someti
   <a href="https://www.youtube.com/watch?v=zYc1qMe_kpc" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4869,7 +4869,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   <a href="https://www.youtube.com/watch?v=6vRZRZVDlqU&amp;list=RD6vRZRZVDlqU&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -4935,7 +4935,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   <a href="https://www.youtube.com/watch?v=rAg3YuHkMHQ&amp;list=RDrAg3YuHkMHQ&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5001,7 +5001,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   <a href="https://www.youtube.com/watch?v=GOeELtc6fqg" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5066,7 +5066,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   <a href="https://gruppasoyuz.bandcamp.com/album/krok" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5132,7 +5132,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   <a href="https://www.youtube.com/watch?v=uWDprhRTXMQ&amp;list=RDuWDprhRTXMQ&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5198,7 +5198,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   <a href="https://www.youtube.com/watch?v=qjYkr78anZs&amp;list=RDqjYkr78anZs&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5266,7 +5266,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
   <a href="https://www.youtube.com/watch?v=FMX98ROVRCE&amp;list=RDFMX98ROVRCE&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5332,7 +5332,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
   <a href="https://www.youtube.com/watch?v=D1zErtM1r2c" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5398,7 +5398,7 @@ In summary, this is a solid, solid solo debut, and easily the best work to come 
   <a href="https://www.youtube.com/watch?v=RDp61U9zTj0&amp;list=RDRDp61U9zTj0&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5465,7 +5465,7 @@ I don&#x27;t know much about Porches but I have to say that these two EPs really
   <a href="https://www.youtube.com/watch?v=c7khrDCCiHo&amp;list=RDc7khrDCCiHo&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5532,7 +5532,7 @@ On *Ghostholding*, Jane Remover, under the name Venturing, embodies the spirit o
   <a href="https://www.youtube.com/watch?v=109ySMbakh4&amp;list=PLrDqpvWmwFNNy57vMeeUI2ldjrMZgs3h1&amp;index=3" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5599,7 +5599,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=nT43dsYhw0k&amp;list=RDnT43dsYhw0k&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5665,7 +5665,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=goChcI7lH0o&amp;list=RDgoChcI7lH0o&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5731,7 +5731,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=7DgSHDI4yh8&amp;list=RD7DgSHDI4yh8&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5797,7 +5797,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=cYrjyZvKNAw&amp;list=RDcYrjyZvKNAw&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5863,7 +5863,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=kt0Z9RZkg-4" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5929,7 +5929,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=42wfEs7oIP8&amp;list=RD0CWZMg4cHKo&amp;index=2" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -5994,7 +5994,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=z_oaGG6a5QQ&amp;list=RDEMo_5D6tt2WkkPsm6yRVvGQA&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6060,7 +6060,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=6kLEQi0u5rA&amp;list=RD6kLEQi0u5rA&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6126,7 +6126,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=dOI_QTmK8Ks&amp;list=RDdOI_QTmK8Ks&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6192,7 +6192,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
   <a href="https://www.youtube.com/watch?v=UXOgzXmd5Zo&amp;list=RDUXOgzXmd5Zo&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6260,7 +6260,7 @@ I would write more about it here, but I don&#x27;t think I could say anything ot
   <a href="https://www.youtube.com/watch?v=zIIx09j6-Ek&amp;list=RDzIIx09j6-Ek&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6328,7 +6328,7 @@ I listened to this album too late in the year, but I could definitley see it ris
   <a href="https://www.youtube.com/watch?v=haEH7C1lpNI&amp;list=RDhaEH7C1lpNI&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6394,7 +6394,7 @@ I listened to this album too late in the year, but I could definitley see it ris
   <a href="https://www.youtube.com/watch?v=GkG60kISnfc&amp;list=RDGkG60kISnfc&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6461,7 +6461,7 @@ This album was released song-by-song before being compiled into one project, and
   <a href="https://www.youtube.com/watch?v=Bw72CQYfHvY&amp;list=RDBw72CQYfHvY&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6527,7 +6527,7 @@ This album was released song-by-song before being compiled into one project, and
   <a href="https://www.youtube.com/watch?v=CM7TBl0zzvM" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6593,7 +6593,7 @@ This album was released song-by-song before being compiled into one project, and
   <a href="https://www.youtube.com/watch?v=mkQ1AOLnxho&amp;list=RDmkQ1AOLnxho&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6661,7 +6661,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
   <a href="https://open.spotify.com/track/6gWNlVuIp6AJHdqRwNwqhj?si=777feefa08b04aed" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6727,7 +6727,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
   <a href="https://www.youtube.com/watch?v=ftsmkLJHIc8&amp;list=RDftsmkLJHIc8&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6793,7 +6793,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
   <a href="https://www.youtube.com/watch?v=B24si8B9C-g" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6860,7 +6860,7 @@ That may sound boring to listen to outside of those stupid videos, but each song
   <a href="https://www.youtube.com/watch?v=htQBS2Ikz6c&amp;list=RDhtQBS2Ikz6c&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6927,7 +6927,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
   <a href="https://www.youtube.com/watch?v=XdFpzaM07i0&amp;list=RDXdFpzaM07i0&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -6993,7 +6993,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
   <a href="https://www.youtube.com/watch?v=1828lQRbK5o&amp;list=RD1828lQRbK5o&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7058,7 +7058,7 @@ A higher power decided to let Addison Rae of all people make the 2nd best pure p
   <a href="https://www.youtube.com/watch?v=8bFlXzPDF7M&amp;list=RD8bFlXzPDF7M&amp;start_radio=1&amp;t=2310s" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7126,7 +7126,7 @@ Debi Tirar Mas Fotos (I should have taken more photos) is, dare I say, a benchma
   <a href="https://www.youtube.com/watch?v=vmbyVU9w47Y" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7193,7 +7193,7 @@ There&#x27;s other albums on this list which are more enjoyable to listen to, bo
   <a href="https://www.youtube.com/watch?v=kt64MDdjtR8&amp;list=RDkt64MDdjtR8&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7261,7 +7261,7 @@ My only major issue with this album that I have to note is the inclusion of Amee
   <a href="https://www.youtube.com/watch?v=OgVXdeKbF_E&amp;list=RDOgVXdeKbF_E&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7328,7 +7328,7 @@ My only notable complaint with the album is that it tries to hard to be dramatic
   <a href="https://www.youtube.com/watch?v=FweQc5g2030&amp;list=RDFweQc5g2030&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7394,7 +7394,7 @@ My only notable complaint with the album is that it tries to hard to be dramatic
   <a href="https://www.youtube.com/watch?v=RiwEzF3DsGk" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7461,7 +7461,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
   <a href="https://www.youtube.com/watch?v=a95G2GzB3t0&amp;list=RDa95G2GzB3t0&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7527,7 +7527,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
   <a href="https://www.youtube.com/watch?v=y2nu8zpVBmY" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7592,7 +7592,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
   <a href="https://www.youtube.com/watch?v=jw6X2U2t0vI&amp;list=RDjw6X2U2t0vI&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7659,7 +7659,7 @@ On other Electronic albums I&#x27;ve reviewed this year, my main complaint on mo
   <a href="https://www.youtube.com/watch?v=MxekyGtqcNE&amp;list=RDMxekyGtqcNE&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7728,7 +7728,7 @@ You better start walking because love takes miles. </p>
   <a href="https://www.youtube.com/watch?v=ETZKZzz7MWo&amp;list=RDETZKZzz7MWo&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7796,7 +7796,7 @@ Anyways, would recommend. This is another album that I don&#x27;t have a ton to 
   <a href="https://www.youtube.com/watch?v=0CWZMg4cHKo&amp;list=RD0CWZMg4cHKo&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7866,7 +7866,7 @@ There really is no one word to describe this album.
   <a href="https://youtu.be/MkypqnDwsUI?si=liFZ-2tElzsrsV3s&amp;t=955" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -7934,7 +7934,7 @@ Incredibly emotional and evocative of a profound, universal western rural experi
   <a href="https://www.youtube.com/watch?v=z5B5ZGuZz2I&amp;list=RDz5B5ZGuZz2I&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -8004,7 +8004,7 @@ Universal Accessibility is not a bad thing by any means so I don&#x27;t know why
   <a href="https://www.youtube.com/watch?v=3triLkS0nq4&amp;list=RD3triLkS0nq4&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    
   </div>
 </article>
 
@@ -8071,7 +8071,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
   <a href="https://www.youtube.com/watch?v=swDEpLDsp0Q" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <!-- Placeholder for notes-->
+    Recommended for: <span style='color:#f9f9f9'>Foster</span>, <span style='color:#f9f9f9'>Aidan B</span>, <span style='color:#f9f9f9'>Aidan C</span><br>A must listen to for <span style='color:#f9f9f9'>Foster</span>
   </div>
 </article>
 
