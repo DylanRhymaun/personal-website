@@ -19,7 +19,7 @@ Speaking of scores, there’s a lot of numbers here so let me break it down. Ric
 <br>
 
 I also recorded a lot of stats and variables about the albums and tried to find correlations both to check for any bias, and out of pure curiosity. Here are some random useless pieces of info:
-- **Gender**: 50.8% of projects I reviewed were primarily by men, 44.2% were by women, 3.3% were by nonbinary artists, and 1.7% are credited 50/50 men and women. The correlation between review score and gender was -.001. 
+- **Gender**: 50.8% of projects I reviewed were primarily by people identifying as men, 44.2% were by those identifying as women, 3.3% were by nonbinary artists, and 1.7% are credited 50/50 men and women. The correlation between review score and gender was -.001. 
 - **Popularity**: By my own perception, 19% of albums were by A listers, 22% were by “very popular” artists, 26% were by artists known in their genre, 21% were by unpopular artists, and 13% were by complete unknowns. I found a negative correlation of -.155 implying that I have an insignificant negative bias towards popular artists. 
 - **Format**: I reviewed 106 albums, 13 EPs, and 1 Mixtape.
 - **Country of Origin**: 50% of albums (60/120) were from American artists, followed by Britain (20%), South Korea (6%), Japan (4%), Australia (3%) and the remaining 17% from other countries from every continent excluding Africa (oops). 
