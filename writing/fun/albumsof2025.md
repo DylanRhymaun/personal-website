@@ -2449,7 +2449,7 @@ I do have to comment on the themes that the duo tends to use on this and in the 
   <a href="https://www.youtube.com/watch?v=2_zqDxcg08w&amp;list=RD2_zqDxcg08w&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Sally</span></span>
+    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Sally</span></span><br>A must listen to for <span style='color:#f9f9f9'>Tess</span></span>
   </div>
 </article>
 
@@ -7934,7 +7934,7 @@ Incredibly emotional and evocative of a profound, universal western rural experi
   <a href="https://www.youtube.com/watch?v=z5B5ZGuZz2I&amp;list=RDz5B5ZGuZz2I&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Andrew</span> <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Emily</span> <span style='color:#f9f9f9'>Foster</span> <span style='color:#f9f9f9'>Tess</span> <span style='color:#f9f9f9'>Sally</span><br>A must listen to for <span style='color:#f9f9f9'>Sally</span></span>
+    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Andrew</span> <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Emily</span> <span style='color:#f9f9f9'>Foster</span> <span style='color:#f9f9f9'>Tess</span> <span style='color:#f9f9f9'>Sally</span>
   </div>
 </article>
 
@@ -8075,5 +8075,11 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
   </div>
 </article>
 
+<br>
+## Post List Clarity (Adjustments after the fact)
+- I would push Miley Cyrus's *Something Beautiful* down a few spaces to around number 15. It's an amazing experience when listened in full, but lacks single power and it's hard pull out individual lyrics that I would call clever or poetic. 
+- I would push *Yuki* by Betcover! up at least 10 spaces. I was horribly mistaken when I called it "just jazz". 
+- I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about it.
+- Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I would'nt change the placement yet but I would acknowledge it in the review because it does recontextualize things.  
 <br>
   <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
