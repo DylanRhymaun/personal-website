@@ -2449,7 +2449,7 @@ I do have to comment on the themes that the duo tends to use on this and in the 
   <a href="https://www.youtube.com/watch?v=2_zqDxcg08w&amp;list=RD2_zqDxcg08w&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Sally</span></span><br>A must listen to for <span style='color:#f9f9f9'>Tess</span></span>
+    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Sally</span></span><br>A must listen to for <span style='color:#f9f9f9'>Tess</span>
   </div>
 </article>
 
@@ -4595,7 +4595,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
     <h3>Review</h3>
     <p>Edits is a unique but rewarding gauntlet that not only makes you think about what&#x27;s sampled (using loosely), but about what makes &quot;songs&quot;, &quot;albums&quot;, and &quot;music&quot; itself. <br>
 The &quot;songs&quot; on this album, are definitley music, it&#x27;s wild that I have to say that, but what makes this album unique is that it&#x27;s entirely DJ edits, so as far as I know, it&#x27;s sampling on top of sampling, at best. That does not sound like something worthy of praise, nor am I praising it, but the final product is something I have genuinely never heard before. Most of the time, it sounds fucking insane, like nothing more than two completely unrelated tracks played over one another. <br>
-This is really hard to talk about for me both because of its complexity and because it kinda fried my brain for the day, so I&#x27;m just going to refer you to Sam Goldner&#x27;s pitchf*rk review from here on out: [Link](https://pitchfork.com/reviews/albums/chuquimamani-condori-edits/)
+This is really hard to talk about for me both because of its complexity and because it kinda fried my brain for the day, so I&#x27;m just going to refer you to Sam Goldner&#x27;s pitchf*rk review from here on out: <a href="https://pitchfork.com/reviews/albums/chuquimamani-condori-edits/" target="_blank">Link</a>
 </p>
   </div>
   
@@ -7934,7 +7934,7 @@ Incredibly emotional and evocative of a profound, universal western rural experi
   <a href="https://www.youtube.com/watch?v=z5B5ZGuZz2I&amp;list=RDz5B5ZGuZz2I&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Andrew</span> <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Emily</span> <span style='color:#f9f9f9'>Foster</span> <span style='color:#f9f9f9'>Tess</span> <span style='color:#f9f9f9'>Sally</span>
+    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Andrew</span> <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Emily</span> <span style='color:#f9f9f9'>Foster</span> <span style='color:#f9f9f9'>Tess</span> <span style='color:#f9f9f9'>Sally</span></span>
   </div>
 </article>
 
@@ -8076,10 +8076,12 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 </article>
 
 <br>
-## Post List Clarity (Adjustments after the fact)
-- I would push Miley Cyrus's *Something Beautiful* down a few spaces to around number 15. It's an amazing experience when listened in full, but lacks single power and it's hard pull out individual lyrics that I would call clever or poetic. 
-- I would push *Yuki* by Betcover! up at least 10 spaces. I was horribly mistaken when I called it "just jazz". 
-- I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about it.
-- Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I would'nt change the placement yet but I would acknowledge it in the review because it does recontextualize things.  
+<h2>Post List Clarity (Adjustments after the fact)</h2>
+<ul>
+<li>I would push Miley Cyrus's *Something Beautiful* down a few spaces to around number 15. It's an amazing experience when listened in full, but lacks single power and it's hard pull out individual lyrics that I would call clever or poetic. </li>
+<li>I would push *Yuki* by Betcover! up at least 10 spaces. I was horribly mistaken when I called it "just jazz". </li>
+<li>I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about it.</li>
+<li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I would'nt change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
+</ul>
 <br>
   <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
