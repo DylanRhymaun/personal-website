@@ -6527,7 +6527,7 @@ This album was released song-by-song before being compiled into one project, and
   <a href="https://www.youtube.com/watch?v=CM7TBl0zzvM" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Phil</span> <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Emily</span> <span style='color:#f9f9f9'>Aidan C</span> <span style='color:#f9f9f9'>Sally</span><br>A must listen to for <span style='color:#f9f9f9'>Sally</span></span>
+    <span style='font-size:0.95em'>Recommended for: <span style='color:#f9f9f9'>Phil</span> <span style='color:#f9f9f9'>Lena</span> <span style='color:#f9f9f9'>Emily</span> <span style='color:#f9f9f9'>Aidan C</span></span>
   </div>
 </article>
 
@@ -7857,7 +7857,7 @@ Anyways, would recommend. This is another album that I don&#x27;t have a ton to 
   <div class="album-review">
     <h3>Review</h3>
     <p>I have to admit that this is a case of me deciding this would be an album of the year contender before it even came out. <br>
-After BC,NR&#x27;s previous frontman dropped out, I was curious, to put it lightly how the band would choose to move forwards. Their previous album, Live at Bush Hall, gave a preview of that path, but went over my and many other&#x27;s heads due to the confusing marketting of it being a full fledged BC,NR album but sold, in my view, as just a collection of concert recordings. 
+After BC,NR&#x27;s previous frontman dropped out, I was curious how the band would choose to move forwards. Their previous album, Live at Bush Hall, gave a preview of that path, but went over my and many other&#x27;s heads due to the confusing marketting of it being a full fledged BC,NR album but sold, in my view, as just a collection of concert recordings. 
 To say I love the direction this band took is putting it lightly. It&#x27;s impossible to fill the shoes left by the previous singer Isaac Wood, but he was replaced by the three female members of the group all stepping up the plate as singers, and the new form BC,NR takes is, in my opinion, even stronger than before. 99% of fans would say otherwise despite enjoying Forever Howlong, but I&#x27;ll stand by that claim because the diversity and uniqueness that&#x27;s spawned from their band makeup is really unlike anything else I&#x27;ve heard before. 
 There really is no one word to describe this album. 
 </p>
@@ -7928,7 +7928,7 @@ There really is no one word to describe this album.
     <h3>Review</h3>
     <p>After my first listen to *Euro Country* I thought &quot;Some great melodies and instrumentation, and an interesting premise, though the vibe that comes with supplanting american style white trash on europe is tough to both chew and swallow&quot;. I acknowledged it was still worth listening to as that premise is also what makes it so unique, but as a completed package, it&#x27;s something I struggle to love despite the utter greatness of its components. Admittedly, this is also a good example of how my judgements of music unfortunatley are not 100% based on the music in itself, because the album cover is confusing to someone who is unaware of the themes of the work within it. This album is well worth all the praise it receives, but the seriousness of the music is directly denied by the comedic album art. <br>
 Pause. I listen to the album a two or three more times.<br>
-Incredibly emotional and evocative of a profound, universal western rural experience - I left this album with a sense of yearning for empty roads and cold sunsets, while also getting a history lesson on the unique difficulties faced by 21st century Ireland. This album is absolutely devastating in the best way possible. A visceral recollection of the Celtic Tiger, a girl my age thrown into a world surrounded by suicide, poverty, the disolution of families, communities, homes, and the feeling of powerlessness which comes with that and seeing its perpetrators celebrated. Love gained and love lost, yet every song is filled with eclectic energy, great melodies, and phenomenal singing that makes it incredibly enjoyable nonetheless. And that only describes the title track. Good god this is one for the ages on lyrics alone. Please, for the love of g*d, listen to this album intentionally. </p>
+Incredibly emotional and evocative of a profound, universal western rural experience - I left this album with a sense of yearning for empty roads and cold sunsets, while also getting a history lesson on the unique difficulties faced by 21st century Ireland. This album is absolutely devastating in the best way possible. A visceral recollection of the Celtic Tiger, a girl my age thrown into a world surrounded by suicide, poverty, the disolution of families, communities, homes, and the feeling of powerlessness which comes with that and seeing its perpetrators celebrated. Love gained and love lost, yet every song is filled with eclectic energy, great melodies, and phenomenal singing that makes it incredibly enjoyable nonetheless. And that only describes the title track. Good god this is one for the ages on lyrics alone. Please listen to this album intentionally. </p>
   </div>
   
   <a href="https://www.youtube.com/watch?v=z5B5ZGuZz2I&amp;list=RDz5B5ZGuZz2I&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
@@ -7946,7 +7946,7 @@ Incredibly emotional and evocative of a profound, universal western rural experi
   </div>
   
   <blockquote class="favorite-lyrics">
-    <p>She caught my by the arm, kissed me through the song,</p>
+    <p>She caught me by the arm, kissed me through the song,</p>
     <p>Disarmed the anger I held like a rock my whole life</p>
   </blockquote>
   
@@ -8064,7 +8064,7 @@ Universal Accessibility is not a bad thing by any means so I don&#x27;t know why
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>I&#x27;m a nobody but I still treat this as the highest praise I can possibly give, period. Chills, start to finish. A portrait of the modern man crumbling under the weight of the 21st century, grappling with remnant of late 90s corporate rejection with the real and violent threat of the contemporary borgeois. It took a long long time to decide my album of the year between the early in the year release of the inventive Forever Howlong, the lyrically perfected Euro Country, and the emotional, expertly crafted and executed People Watching and  Pressure, but at the end of it all, no music this year stood up to the feeling I have when listening to Soft Spot. In fact, it&#x27;s not even close. This album honestly slowed down my ability to listen to other music because I was re-listening to it in full too many times. <br>
+    <p>I&#x27;m a nobody but I still treat this as the highest praise I can possibly give, period. Chills, start to finish. A portrait of the modern man crumbling under the weight of the 21st century, grappling with remnant of late 90s corporate rejection with the real and violent threat of the contemporary borgeois. It took a long long time to decide my album of the year between the early in the year release of the inventive *Forever Howlong*, the lyrically perfected *Euro Country*, and the emotional, expertly crafted and executed *People Watching* and  *Pressure*, but at the end of it all, no music this year stood up to the feeling I have when listening to *Soft Spot*. In fact, it&#x27;s not even close. This album honestly slowed down my ability to listen to other music because I was re-listening to it in full too many times. <br>
 Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it has it all and is incredibly digestible at that for something in the hardcore genre. Best of all, there is not a song on the tracklist, save, debatably, the intro and interlude, that would make you feel otherwise. Downright incredible levels of energy with something powerful, contemporary, and relevant to boot. No soft spots for fascist hot shots.</p>
   </div>
   
