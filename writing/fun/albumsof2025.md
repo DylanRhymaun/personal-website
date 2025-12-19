@@ -8081,7 +8081,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 <li>I would push Miley Cyrus's *Something Beautiful* down a few spaces to around number 15. It's an amazing experience when listened in full, but lacks single power and it's hard pull out individual lyrics that I would call clever or poetic. </li>
 <li>I would push *Yuki* by Betcover! up at least 10 spaces. I was horribly mistaken when I called it "just jazz". </li>
 <li>I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about it.</li>
-<li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I would'nt change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
+<li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I wouldn't change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
 </ul>
 <br>
   <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
