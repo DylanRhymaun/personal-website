@@ -6,6 +6,7 @@ custom_css: albumsof2025.css
 <br>
 # The 120 Albums and EPs I Listened to in 2025
 <br>
+<br>
 ## Introduction
 First of all, thanks for reading. I’m going to allow myself to be pretentious for a second because this has been a not insignificant part of my year. I made an effort this year to listen to as many albums in full as comfortably possible - it paid off in terms of exposing me to a lot of new artists, but most of all I also learned a lot about my relationship to music and art as well as the role of a critic. More than anything this is mostly an exercise in learning to better write about art (it didn’t work). 
 <br>
@@ -29,6 +30,7 @@ I also recorded a lot of stats and variables about the albums and tried to find 
 - **Repeat Artists**: Jane Remover released two albums and one EP this year. Cameron Winter released a solo album and served as the frontman of the band Geese, who also released a record. Danny Brown, solo/featured on Jane Remover. Quadeca solo/featured on Kevin Abstract. Doja Cat solo/featured on Lisa. Sabrina Carpenter solo/featured on Taylor Swift. Clipse solo/featured on JID. Ichiko Aoba solo/credited on place #22. Underscores was featured on Danny Brown and Oklou's album. And I think that's about it. 
 - **Other stuff**: I wrote a total of 15,469 words about these albums and EPs. The entire document is over 17,000 words including the introduction, and the website is 8078 lines of HTML. No AI was used except for one instance of bug fixing. 
 <br>
+<br>
 
 ## Artists I am not listening to
 - **Ethel Cain**
@@ -48,6 +50,7 @@ I have a few songs by Lily Allen liked on Spotify but I was pretty blown away by
 
 - **The Weeknd**
 I’ve listened to the past few Weeknd albums in full, and every one of them was not worth the album format. Apparently “Heartless” was in my top 5 most played tracks of last year according to Spotify (I don’t believe it), but that’s not tipping the scales in my overall view of the artist.
+<br>
 <br>
 
 ## Other Artists I listened to this year
