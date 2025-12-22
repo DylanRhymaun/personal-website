@@ -4408,7 +4408,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
   <a href="https://www.youtube.com/watch?v=zTcrz0NIlrc&amp;list=RDzTcrz0NIlrc&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
   
   <div class="placeholder-notes">
-    <span style='font-size:0.95em'>Would love to hear the thoughts of: <span style='color:#f9f9f9'>Foster</span></span>
+    <span style='font-size:0.95em'>Would love to hear the thoughts of: <span style='color:#f9f9f9'></span></span>
   </div>
 </article>
 
