@@ -3999,8 +3999,7 @@ One random positive comment I have though is that it&#x27;s nice to have a kpop 
   <div class="album-review">
     <h3>Review</h3>
     <p>I almost didn&#x27;t listen to this record, but I&#x27;m very glad I did. <br>
-Lorde is one of the few A list artists that I&#x27;ve been following since the very start of their career. I remember being hyped for the Love Club EP, and downloading &quot;400 Lux&quot; when it was Itunes&#x27; free track of the week in 2013. But *Melodrama* never really hit for me, and 2021&#x27;s *Solar Power* was universally panned as a hit and a miss, so my opinion of Lorde has been muddied by that and the one video of her shushing her audience for singing along with her. 
-
+Lorde is one of the few A list artists that I&#x27;ve been following since the very start of their career. I remember being hyped for the Love Club EP, and downloading &quot;400 Lux&quot; when it was Itunes&#x27; free track of the week in 2013. But *Melodrama* never really hit for me, and 2021&#x27;s *Solar Power* was universally panned as a hit and a miss, so my opinion of Lorde has been muddied by that and the one video of her shushing her audience for singing along with her. <br>*Virgin* is pretty aight. It got a reaction out of me, and it didn't feel like Lorde would shush me for getting <em>really</em> into *Man of the Year* for the reasons she really subtely intended. Good stuff. 
 </p>
   </div>
   
