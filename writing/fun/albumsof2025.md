@@ -66,6 +66,9 @@ I’ve listened to the past few Weeknd albums in full, and every one of them was
 One final note: I wrote almost all of this in a text editor which didn't have spellcheck, so if you see any mistakes, assume they're typos and that I know how to spell, though admittedly reccomendation/recommendation is one I always mess up on for some reason. Restaurant. Restaraunt. Absolutely. Absolutley. Hm maybe I am stupid without a computer checking me. 
 <br>Also, apologies for the low res images. I didn't want to risk anything with embedding them so I stored them locally. Still could've afforded to add a few more pixels but I'm not about to fetch them all over again. 
 <br>
+<br>
+<p>An asterisk ("*") implies I have further thoughts on the album or its placement - note available under the list at the bottom of the page.</p> 
+<br>
 
 <article class="album-card">
   <div class="album-header">
@@ -269,7 +272,7 @@ This is a pretty terrible album across the board, but I should give praise again
 <article class="album-card">
   <div class="album-header">
     <span class="placement">117</span>
-    <h2 class="album-title">The Life of a Showgirl - Taylor Swift</h2>
+    <h2 class="album-title">The Life of a Showgirl - Taylor Swift *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -4014,7 +4017,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
 <article class="album-card">
   <div class="album-header">
     <span class="placement">61</span>
-    <h2 class="album-title">Yuki - Betcover!!</h2>
+    <h2 class="album-title">Yuki - Betcover!! *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -4544,7 +4547,7 @@ Anyways, this album is my Blackstar of the year. It&#x27;s more upbeat and light
 <article class="album-card">
   <div class="album-header">
     <span class="placement">53</span>
-    <h2 class="album-title">Edits - Chuquimamani-Condori</h2>
+    <h2 class="album-title">Edits - Chuquimamani-Condori *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -6202,7 +6205,7 @@ Good album, great singles, legendary band. Crazy and personally concerning that 
 <article class="album-card">
   <div class="album-header">
     <span class="placement">28</span>
-    <h2 class="album-title">Nourished by Time - The Passionate Ones</h2>
+    <h2 class="album-title">Nourished by Time - The Passionate Ones *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -7136,7 +7139,7 @@ Debi Tirar Mas Fotos (I should have taken more photos) is, dare I say, a benchma
 <article class="album-card">
   <div class="album-header">
     <span class="placement">14</span>
-    <h2 class="album-title">Let God Sort em Out - Clipse</h2>
+    <h2 class="album-title">Let God Sort em Out -  *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -7471,7 +7474,7 @@ I&#x27;m realizing I don&#x27;t know how to talk about this album very much, and
 <article class="album-card">
   <div class="album-header">
     <span class="placement">9</span>
-    <h2 class="album-title">Something Beautiful - Miley Cyrus</h2>
+    <h2 class="album-title">Something Beautiful - Miley Cyrus *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -8085,6 +8088,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 <li>I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about the tracklist. My god, "Cancelled" is truly unbelievable.</li>
 <li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I wouldn't change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
 <li>I would move Nourished by Time's *The Passionate Ones* waaaaaaay up to the 5-15 range. That mf makes me want to live.</li>
+<li>I would move Chuquimamani-Condori's album *Edits* up quite a few places, to around 40 or 45. Just an unbelievably creative and novel experience that won't leave my mind. 
 </ul>
 <br>
   <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
