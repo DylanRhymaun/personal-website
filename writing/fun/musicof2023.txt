@@ -1,0 +1,33 @@
+---
+layout: default
+title: "My fav Music of 2023"
+custom_css: albumsof2025.css
+---
+
+# My 15 Favorite Songs of 2023 (at the time)
+<ol>
+    <li>Ballad of a Homeschool Girl - Olivia Rodrigo</li>
+    <li>Can You Hear the Music? - Ludwig Göransson </li>
+    <li>America Has a Problem - Kendrick & Beyonce</li>
+    <li>Rush - Troye Sivan</li>
+    <li>Feather - Sabrina Carpenter</li>
+    <li>Impossible - Teezo Touchdown</li>
+    <li>Namesake - Noname</li>
+    <li>I Been Young - George Clanton</li>
+    <li>Paint the Town Red - Doja Cat</li>
+    <li>Sociopathic Dance Queen - Amaarae</li>
+    <li>Familiarity - Teezo Touchdown</li>
+    <li>Super Shy - NewJeans</li>
+    <li>Kingdom Hearts - Jpeg and DB</li>
+    <li>Jaded - Miley Cyrus</li>
+    <li>Rose Colored Lenses - Miley Cyrus</li>
+</ol>
+
+#My 5 Favorite Albums of 2023 (at the time)
+<ol>
+    <li>Something to Give Each Other - Troye Sivan</li>
+    <li>Scaring the Hoes - Jpeg and DB</li>
+    <li>How Do You Fall Asleep at Night? - Teezo Touchdown</li>
+    <li>Heaven Knows - PinkPantheress</li>
+    <li>Guts - Olivia Rodrigo</li>
+</ol>
