@@ -4202,7 +4202,7 @@ Lorde is one of the few A list artists that I&#x27;ve been following since the v
     <h3>Review</h3>
     <p>Good god please watch the linked video - &quot;Don&#x27;t Fall Asleep&quot; is representative of the album but miles ahead in terms of the individual representation of Jacob&#x27;s songwriting and musical talent. As for the initial review...<br>
 This album feels like Jacob entered the studio with the sole intention of creating the most devastating album he can come up with, and I say that in a slightly bad way. It&#x27;s not a one note project in the slightest, but it also doesn&#x27;t feel like it was meant for anything other than to make the listener sad. Obviously that wasn&#x27;t the actual or sole intention, but that&#x27;s all I left this album with after the first listen. There are hints of lyricism which dare to step off the beaten path, but they don&#x27;t stray far before returning to the comfort of very on-the-nose &quot;you were my best friend wah wah&quot; lines. That may very well hit with you, but it was simply too sad for me. FFS, my favorite song is about his cousin who drowned after doing whipits. It&#x27;s an amazing song, as are most on here, but god is it a brutal, brutal listen. <br>
-What I I do need to commend on this album on it&#x27;s instrumentation. If I was ranking guitar playing, this would be in the top 10. Downright masterful stuff and Jacob&#x27;s skill alone gives this project a ton of bonus points in my book. 
+What I do need to commend on this album on it&#x27;s instrumentation. If I was ranking guitar playing, this would be in the top 10. Downright masterful stuff and Jacob&#x27;s skill alone gives this project a ton of bonus points in my book. 
 </p>
   </div>
   
@@ -7139,7 +7139,7 @@ Debi Tirar Mas Fotos (I should have taken more photos) is, dare I say, a benchma
 <article class="album-card">
   <div class="album-header">
     <span class="placement">14</span>
-    <h2 class="album-title">Let God Sort em Out -  *</h2>
+    <h2 class="album-title">Let God Sort em Out - Clipse *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
