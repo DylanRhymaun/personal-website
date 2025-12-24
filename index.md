@@ -16,7 +16,6 @@ Last updated 12/22/2025 12:18 AM EST.<br>
   <option value="two">Photography</option>
   <option value="three">Words</option>
   <option value="four">Games</option>
-  <option value="five">EDLI 6720</option>
 </select>
 {% endraw %}
 
@@ -180,7 +179,7 @@ Last updated 12/22/2025 12:18 AM EST.<br>
       <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
     </section>
-    <section id="five" class="hidden">
+    <!--<section id="five" class="hidden">
         <h2>EDLI 6720 - Managing School Library Media Centers Portfolio / Personal Learning Network</h2>
           <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
           <br>
@@ -210,5 +209,5 @@ Last updated 12/22/2025 12:18 AM EST.<br>
 	      <p>The work it takes to be certified as a librarian also caught me off guard. I had assumed that the preparation process would focus mainly on collection management and instructional support, but the scope of their position and responsibilities needed to prepare for is far wider. The Policy and Procedure Analysis Project, for example, demonstrated just how much of a school librarian’s effectiveness rests on having clear and equitable rules. A poorly written or invisible procedure can limit access, while a strong one can expand it.</p>
         <p>Meanwhile, the Strategic Planning & Advocacy assignment helped me understand that improvement in a school library is not coincidental - it requires intentional planning, alignment with district goals, and a willingness to seek out and make sense of empirical evidence from the library space.	</p>
         <p>As someone who took this as an elective, this course expanded that view by showing me the intellectual, strategic, and ethical depth of the profession. It is not just about loving books or supporting curious students, it is about designing systems, protecting access, leading change, and constantly evaluating whether the library is meeting the needs of its community. That realization has made me respect the profession even more, and it has pushed me to question my own assumptions about what effective library leadership looks like.</p>
-    </section>
+    </section>-->
 </div>
