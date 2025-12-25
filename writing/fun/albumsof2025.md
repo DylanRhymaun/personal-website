@@ -524,7 +524,7 @@ In contrast to some of the albums I&#x27;ve ranked lower on the list, I have to 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>A lengthy and overall somewhat miserable experience. The instrumentation, vision, and narrative are there, albeit a bit bland, but that narrative centers on Emma&#x27;s mental health journey, and unfortunatley, it comes across as the thoughts of someone who should have grown out of those feelings years earlier. That is in no way meant to discredit her experience, instead I argue that the story clashes with the more mature sound the other aspects of the music has, leaving the listener ultimatley neutral about her journey. In my opinion, there a huge disconnect and lack of cohesion between the subject matter and instrumentation. 3/4 of the way in, and I just got annoyed by most of the songs. None are particularly worthy of being in a daily rotation, yet it almost sounds like they expect to be taken as such while also being worthy of critical analysis and acclaim. Good album art tho. </p>
+    <p>A lengthy and overall somewhat miserable experience. The instrumentation, vision, and narrative are there, albeit a bit bland - that narrative centers on Emma&#x27;s mental health journey, and unfortunatley it comes across as the thoughts of someone who should have grown out of those feelings years earlier. That is in no way meant to discredit her experience, instead I argue that the story clashes with the more mature sound the other aspects of the music has, leaving the listener ultimatley neutral about her journey. In my opinion, there a huge disconnect and lack of cohesion between the subject matter and instrumentation. 3/4 of the way in, and I just got annoyed by most of the songs. None are particularly worthy of being in a daily rotation, yet it almost sounds like they expect to be taken as such while also being worthy of critical analysis and acclaim. Good album art tho. </p>
   </div>
   
   <a href="https://www.youtube.com/watch?v=9cXpou1r6sI" class="listen-link" target="_blank">Listen</a>
@@ -927,7 +927,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>*Isolation* (2018) is a top 30 album of all time for me, so don’t dismiss my negativity on this album on the grounds that I don’t speak enough Spanish, because I do know Marina’s work (and plenty of songs are in English anyhow). I found Sincerely frankly pretty sad. It really just sounds like Kali/Marina is going down the Tyler route where she’s just too comfortable with the sound she’s had for almost a decade. Nothing about this album surprised or excited me. Was the music good, yeah, but it’s baseline work for her. Surprise me, please! Hell, maybe she would have surprised me if I could hear her voice better over the poor mixing between them and the background track. </p>
+    <p>*Isolation* (2018) is a top 30 album of all time for me, so don’t dismiss my negativity on this album on the grounds that I don’t speak enough Spanish, because I do know Marina’s work (and plenty of songs are in English anyhow). I found *Sincerely* frankly pretty sad. It really just sounds like Kali/Marina is going down the Tyler route where she’s just too comfortable with the sound she’s had for almost a decade. Nothing about this album surprised or excited me. Was the music good, yeah, but it’s baseline work for her. Surprise me, please! Hell, maybe she would have surprised me if I could hear her voice better over the poor mixing between them and the background track. </p>
   </div>
   
   <a href="https://www.youtube.com/watch?v=w6acdzD1Tr0&amp;list=RDw6acdzD1Tr0&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
@@ -5131,7 +5131,7 @@ Kyle Gordon is a musical comedian who somehow made musical comedy not the worst 
   
   <div class="album-review">
     <h3>Review</h3>
-    <p>*Sequence 01* is a really fun, experimental, and inventive jpop project with some genuine hits and catchy melodies throughout, however it suffers slightly from a confused aesthetic that bounces between states of maturity. If you can get over that, it&#x27;s very worth listening to, and surprisingly coherent as a debut album despite it&#x27;s many many risks. </p>
+    <p>*Sequence 01* is a really fun, experimental, and inventive jpop project with some genuine hits and catchy melodies throughout, however it suffers slightly from a confused aesthetic that bounces between states of maturity. If you can get over that, it&#x27;s very worth listening to, and surprisingly coherent as a debut album despite its many many risks. </p>
   </div>
   
   <a href="https://www.youtube.com/watch?v=uWDprhRTXMQ&amp;list=RDuWDprhRTXMQ&amp;start_radio=1" class="listen-link" target="_blank">Listen</a>
