@@ -166,7 +166,52 @@ Last updated 12/22/2025 12:18 AM EST.<br>
           <li><a href="./writing/professional/20230731.html">The Job Hunter’s AI</a></li>
           <li><a href="./writing/professional/20231031.html">The Realities of Health Inequity in Vermont</a></li>
         </ul>
-          <!--<h3>Canned Fish Reviews</h3>-->
+      <!--<h3>Canned Fish Reviews</h3>
+        <ul>
+          <li><a href="./writing/fish/PATH.html">Fishwife Albacore Tuna in Spicy Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Smoked Salmon</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Smoked Salmon with Sichuian Chili Crisp</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Albacore Tuna with Lemon</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Mussels with Sweet Pepper & Garlic</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Sardines with Preserved Lemon</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Smoked Trout with Red Chimichurri</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Slow Smoked Mackerel with Chili Flakes</a></li>
+          <li><a href="./writing/fish/PATH.html">Fishwife Smoked Rainbow Trout</a></li>
+          <li><a href="./writing/fish/PATH.html">Porto Muinos Mussels in Marinade with Seaweed</a></li>
+          <li><a href="./writing/fish/PATH.html">Maria Small Sardine in EVOO</a></li>
+          <li><a href="./writing/fish/PATH.html">Crown Prince Fillet of Kippered Herring</a></li>
+          <li><a href="./writing/fish/PATH.html">Trader Joe's Skipjack Tuna Filets in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Real Conservera Espanola Seleccion 1920 Sarines in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Iasa Branzino Filet in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">A Conserveira Tradicion Chlamys Varia en Salsa de Vieira</a></li>
+          <li><a href="./writing/fish/PATH.html">Real Conservera Espanola Seleccion 1920 Small Sarines in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Trader Joe's Grilled Sardines in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Trader Joe's Wild Alaksan Pink Salmon</a></li>
+          <li><a href="./writing/fish/PATH.html">Samare Clams in Brine</a></li>
+          <li><a href="./writing/fish/PATH.html">Maria Mackerel with Birds Eye Chilis</a></li>
+          <li><a href="./writing/fish/PATH.html">A Conserveira Tuna in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Nuri Sardines in Tomato Sauce</a></li>
+          <li><a href="./writing/fish/PATH.html">Faerosk Laks No 1 Salmon Filet</a></li>
+          <li><a href="./writing/fish/PATH.html">Naval Tuna with Lemon and Chili</a></li>
+          <li><a href="./writing/fish/PATH.html">Lata Stuffed Squid in Ink</a></li>
+          <li><a href="./writing/fish/PATH.html">Samare Small Scallops in Galician Sauce</a></li>
+          <li><a href="./writing/fish/PATH.html">Manna Mackerel in Mustard</a></li>
+          <li><a href="./writing/fish/PATH.html">Mana Sardines in Pickling Sauce</a></li>
+          <li><a href="./writing/fish/PATH.html">Herpac Yellowfin Tuna Belly</a></li>
+          <li><a href="./writing/fish/PATH.html">Naval Portugese Cod</a></li>
+          <li><a href="./writing/fish/PATH.html">Patagonia Spicy White Anchovies in EVOO</a></li>
+          <li><a href="./writing/fish/PATH.html">Wild Planet Sardines with Lemon</a></li>
+          <li><a href="./writing/fish/PATH.html">Manna Mackerel w Lemon and Thyme</a></li>
+          <li><a href="./writing/fish/PATH.html">Brunswick Sardines with Jalapeno</a></li>
+          <li><a href="./writing/fish/PATH.html">Acor Salmon / Porto Muinos Sea Spaghetti</a></li>
+          <li><a href="./writing/fish/PATH.html">Maria Tuna in EVOO</a></li>
+          <li><a href="./writing/fish/PATH.html">Nazarena Skinless, Boneless Sardines in Olive Oil</a></li>
+          <li><a href="./writing/fish/PATH.html">Conservas De Combados Octopus in Galician Sauce</a></li>
+          <li><a href="./writing/fish/PATH.html">Nuri Mackerel / Seed to Surf Celery Root "Whitefish"</a></li>
+          <li><a href="./writing/fish/PATH.html">Nazarena Spicy Sardine Pate</a></li>
+          <li><a href="./writing/fish/PATH.html">Acor Spice Tuna in Olive Oil</a></li>
+        </ul>
+        -->
     </section>
     <section id="four" class="hidden">
     <h2>Games</h2>                
