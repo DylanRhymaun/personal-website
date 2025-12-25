@@ -152,7 +152,7 @@ Last updated 12/22/2025 12:18 AM EST.<br>
         </ul>
       <h3>Articles & Essays</h3>
         <ul>
-          <li><a href="./writing/professional/EDLI-Portfolio.html">EDLI 6720: Managing School Libaria Media Centers Portfolio</a></li>
+          <li><a href="./writing/professional/EDLI-Portfolio.html">EDLI 6720: Managing School Library Media Centers Portfolio</a></li>
           <!--<li><a href="./writing/professional/FILENAME.html">INTERDISCIPLINARY ESSAY</a></li>-->
           <!--<li><a href="./writing/professional/FILENAME.html">EQUITY-ESSAY</a></li>-->
           <!--<li><a href="./writing/professional/FILENAME.html">RESEARCH-PROPOSAL</a></li>-->
