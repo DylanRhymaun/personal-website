@@ -8093,35 +8093,35 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 <br>
 <h2>My Personal "Guitarist of the Year" Ranking</h2>
 <ul>
-  <li> 10. Tyler Childers
-  <li> 9. Luke Mark (Black Country, New Road)
-  <li> 8. Emily Green (Geese)
-  <li> 7. Emma Brandon (Florence Road)
-  <li> 6. Pat McCrory (Turnstile)
-  <li> 5. Tom Renaud (Lord Huron)
-  <li> 4. Sam Fender
-  <li> 3. Jacob Alon 
-  <li> 2. Scro (Julia Wolf's Producer)
-  <li> 1. Mei Semones
+  <li> 10. Tyler Childers</li>
+  <li> 9. Luke Mark (Black Country, New Road)</li>
+  <li> 8. Emily Green (Geese)</li>
+  <li> 7. Emma Brandon (Florence Road)</li>
+  <li> 6. Pat McCrory (Turnstile)</li>
+  <li> 5. Tom Renaud (Lord Huron)</li>
+  <li> 4. Sam Fender</li>
+  <li> 3. Jacob Alon </li>
+  <li> 2. Scro (Julia Wolf's Producer)</li>
+  <li> 1. Mei Semones</li>
 </ul>
 <br>
 <h2>My Pesonal "Vocalist of the Year" Ranking</h2>
 <ul>
-  <li>15. Lily Aron (Florence Road)
-  <li>14. Cameron Winter
-  <li>13. Tyler Hide (Black Country, New Road)
-  <li>12. Georgia Ellery (Black Country, New Road)
-  <li>11. Miley Cyrus
-  <li>10. Edvard Valberg (Honningbarna)  
-  <li>9. Tom Renaud (Lord Huron)
-  <li>8. Silvana Estrada
-  <li>7. Olivia Dean
-  <li>6. Brendan Yates (Turnstile)
-  <li>5. Julia Wolf
-  <li>4. Ciara Marie Anne Thompson (CMAT)
-  <li>3. May Kershaw (Black Country, New Road)
-  <li>2. Rosalia
-  <li>1. Ellie Rowsell (Wolf Alice)
+  <li>15. Lily Aron (Florence Road)</li>
+  <li>14. Cameron Winter</li>
+  <li>13. Tyler Hide (Black Country, New Road)</li>
+  <li>12. Georgia Ellery (Black Country, New Road)</li>
+  <li>11. Miley Cyrus</li>
+  <li>10. Edvard Valberg (Honningbarna)  </li>
+  <li>9. Tom Renaud (Lord Huron)</li>
+  <li>8. Silvana Estrada</li>
+  <li>7. Olivia Dean</li>
+  <li>6. Brendan Yates (Turnstile)</li>
+  <li>5. Julia Wolf</li>
+  <li>4. Ciara Marie Anne Thompson (CMAT)</li>
+  <li>3. May Kershaw (Black Country, New Road)</li>
+  <li>2. Rosalia</li>
+  <li>1. Ellie Rowsell (Wolf Alice)</li>
 </ul>
 <br>
   <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
