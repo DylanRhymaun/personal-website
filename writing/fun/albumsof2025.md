@@ -7809,7 +7809,7 @@ Anyways, would recommend. This is another album that I don&#x27;t have a ton to 
 <article class="album-card">
   <div class="album-header">
     <span class="placement">4</span>
-    <h2 class="album-title">Forever Howlong - BC,NR</h2>
+    <h2 class="album-title">Forever Howlong - Black Country, New Road</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -8089,6 +8089,39 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 <li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I wouldn't change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
 <li>I would move Nourished by Time's *The Passionate Ones* waaaaaaay up to the 5-15 range. That mf makes me want to live.</li>
 <li>I would move Chuquimamani-Condori's album *Edits* up quite a few places, to around 40 or 45. Just an unbelievably creative and novel experience that won't leave my mind. 
+</ul>
+<br>
+<h2>My Personal "Guitarist of the Year" Ranking</h2>
+<ul>
+  <li> 10. Tyler Childers
+  <li> 9. Luke Mark (Black Country, New Road)
+  <li> 8. Emily Green (Geese)
+  <li> 7. Emma Brandon (Florence Road)
+  <li> 6. Pat McCrory (Turnstile)
+  <li> 5. Tom Renaud (Lord Huron)
+  <li> 4. Sam Fender
+  <li> 3. Jacob Alon 
+  <li> 2. Scro (Julia Wolf's Producer)
+  <li> 1. Mei Semones
+</ul>
+<br>
+<h2>My Pesonal "Vocalist of the Year" Ranking</h2>
+<ul>
+  <li>15. Lily Aron (Florence Road)
+  <li>14. Cameron Winter
+  <li>13. Tyler Hide (Black Country, New Road)
+  <li>12. Georgia Ellery (Black Country, New Road)
+  <li>11. Miley Cyrus
+  <li>10. Edvard Valberg (Honningbarna)  
+  <li>9. Tom Renaud (Lord Huron)
+  <li>8. Silvana Estrada
+  <li>7. Olivia Dean
+  <li>6. Brendan Yates (Turnstile)
+  <li>5. Julia Wolf
+  <li>4. Ciara Marie Anne Thompson (CMAT)
+  <li>3. May Kershaw (Black Country, New Road)
+  <li>2. Rosalia
+  <li>1. Ellie Rowsell (Wolf Alice)
 </ul>
 <br>
   <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
