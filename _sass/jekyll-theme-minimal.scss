@@ -33,9 +33,9 @@ body {
 
 @media (max-width: 1100px) {
   main ul,
-  main ol {
-    margin-left: 1.5em; /* Increase to create more internal space */
-  }
+  main ol, 
+  li {
+    margin-left:1em
 }
 
 main ul,
