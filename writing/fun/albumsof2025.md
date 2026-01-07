@@ -8088,7 +8088,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 <li>I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about the tracklist. My god, "Cancelled" is truly unbelievable.</li>
 <li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I wouldn't change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
 <li>I would move Nourished by Time's *The Passionate Ones* waaaaaaay up to the 5-15 range. That mf makes me want to live.</li>
-<li>I would move Chuquimamani-Condori's album *Edits* up quite a few places, to around 40 or 45. Just an unbelievably creative and novel experience that won't leave my mind. 
+<li>I would move Chuquimamani-Condori's album *Edits* up quite a few places, to around 40 or 45. Just an unbelievably creative and novel experience that won't leave my mind. </li>
 </ul>
 <br>
 <h2>My Personal "Guitarist of the Year" Ranking</h2>
