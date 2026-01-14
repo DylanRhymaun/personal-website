@@ -6,7 +6,7 @@ layout: default
 <!-- Dropdown -->
 <a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
 <a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
-Last updated 1/7/2026.<br>
+Last updated 1/14/2026.<br>
 &copy; Dylan Rhymaun MMXXVI<br>
 
 {% raw %}

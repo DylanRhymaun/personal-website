@@ -1006,7 +1006,7 @@ As a side, check out his VMAs performance. I have never seen a dance LICK an art
 <article class="album-card">
   <div class="album-header">
     <span class="placement">106</span>
-    <h2 class="album-title">Sable Fable - Bon Iver</h2>
+    <h2 class="album-title">Sable Fable - Bon Iver *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -1337,7 +1337,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
 <article class="album-card">
   <div class="album-header">
     <span class="placement">101</span>
-    <h2 class="album-title">Baby - Dijon</h2>
+    <h2 class="album-title">Baby - Dijon *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -1403,7 +1403,7 @@ That&#x27;s just one example of a few misandrist lines scattered around the albu
 <article class="album-card">
   <div class="album-header">
     <span class="placement">100</span>
-    <h2 class="album-title">Baloonerism - Mac Miller</h2>
+    <h2 class="album-title">Baloonerism - Mac Miller *</h2>
   </div>
   
   <blockquote class="favorite-lyrics">
@@ -8081,14 +8081,16 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 
 <br>
 <h2>Post List Clarity (Adjustments after the fact)</h2>
-<ul>
-<li>I would push Miley Cyrus's *Something Beautiful* down a few spaces to around number 15. It's an amazing experience when listened in full, but lacks single power and it's hard pull out individual lyrics that I would call clever or poetic. </li>
-<li>I would push *Yuki* by Betcover! up at least 10 spaces. I was horribly mistaken when I called it "just jazz". </li>
-<li>I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about the tracklist. My god, "Cancelled" is truly unbelievable.</li>
-<li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I wouldn't change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
-<li>I would move Nourished by Time's *The Passionate Ones* waaaaaaay up to the 5-15 range. That mf makes me want to live.</li>
-<li>I would move Chuquimamani-Condori's album *Edits* up quite a few places, to around 40 or 45. Just an unbelievably creative and novel experience that won't leave my mind. </li>
-</ul>
+  <ul>
+    <li>I would push Miley Cyrus's *Something Beautiful* down a few spaces to around number 15. It's an amazing experience when listened in full, but lacks single power and it's hard pull out individual lyrics that I would call clever or poetic. </li>
+    <li>I would push *Yuki* by Betcover! up at least 10 spaces. I was horribly mistaken when I called it "just jazz". </li>
+    <li>I would move Taylor Swift down to number 119. It gets worse every time ecounter "Fate of Ophelia" or frankly even think about the tracklist. My god, "Cancelled" is truly unbelievable.</li>
+    <li>Pusha T of Clipse said some truly baffling things about his parenting style that I look down on. I wouldn't change the placement yet but I would acknowledge it in the review because it does recontextualize things.  </li>
+    <li>I would move Nourished by Time's *The Passionate Ones* waaaaaaay up to the 5-15 range. That mf makes me want to live.</li>
+    <li>I would move Chuquimamani-Condori's album *Edits* up quite a few places, to around 40 or 45. Just an unbelievably creative and novel experience that won't leave my mind. </li>
+    <li>I would push Dijon's *Baby*, and Bon Iver's *Sable Fable* up 10-20 places, if not more. I love the experience of hating an album upon first listen only to realize that that initial disgust was a reaction to something completely new and unique. Both still suffer from a bit of pretentiousness and lack of easy listenability, but they are two albums that I look back on frequently and fondly today.</li>
+    <li>I stand by my comments about Mac Miller's *Balloonerism*, but upon reflection, it's simply a better product than the next ten albums above it.</li>
+  </ul>
 <br>
 <h2>My Personal "Guitarist of the Year" Ranking</h2>
 <ul>
@@ -8106,7 +8108,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
 <br>
 <h2>My Pesonal "Vocalist of the Year" Ranking</h2>
 <ul>
-  <li>15. Lily Aron (Florence Road)</li>
+  <li>15. Brendan Yates (Turnstile)</li>
   <li>14. Cameron Winter</li>
   <li>13. Tyler Hide (Black Country, New Road)</li>
   <li>12. Georgia Ellery (Black Country, New Road)</li>
@@ -8115,7 +8117,7 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
   <li>9. Tom Renaud (Lord Huron)</li>
   <li>8. Silvana Estrada</li>
   <li>7. Olivia Dean</li>
-  <li>6. Brendan Yates (Turnstile)</li>
+  <li>6. Lily Aron (Florence Road)</li>
   <li>5. Julia Wolf</li>
   <li>4. Ciara Marie Anne Thompson (CMAT)</li>
   <li>3. May Kershaw (Black Country, New Road)</li>
