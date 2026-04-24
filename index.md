@@ -6,7 +6,7 @@ layout: default
 <!-- Dropdown -->
 <a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
 <a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
-Last updated 1/14/2026.<br>
+Last updated 4/23/2026.<br>
 &copy; Dylan Rhymaun MMXXVI<br>
 
 {% raw %}
@@ -140,12 +140,12 @@ Last updated 1/14/2026.<br>
         <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="assets/img/45.jpg">
         <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="assets/img/46.jpg">
     </section>
-    <section id="three" class="hidden">
+    <!--<section id="three" class="hidden">
       <h2>Words</h2>
       <h3>Blog</h3>
         <ul>
           <!--<li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>-->
-          <li><a href="./writing/fun/albumsof2025.html">Rating every album and EP I listened to in 2025</a></li>          
+          <!--<li><a href="./writing/fun/albumsof2025.html">Rating every album and EP I listened to in 2025</a></li>          
           <li><a href="./writing/fun/albumsof2024.html">My 20 Favorite Albums of 2024</a></li>
           <li><a href="./writing/fun/songsof2024.html">My 20 favorite songs of 2024</a></li>
           <li><a href="./writing/fun/othermusicof2024.html">Other Music I listened to in 2024</a></li>
@@ -156,16 +156,16 @@ Last updated 1/14/2026.<br>
           <!--<li><a href="./writing/professional/FILENAME.html">INTERDISCIPLINARY ESSAY</a></li>-->
           <!--<li><a href="./writing/professional/FILENAME.html">EQUITY-ESSAY</a></li>-->
           <!--<li><a href="./writing/professional/FILENAME.html">RESEARCH-PROPOSAL</a></li>-->
-          <li><a href="./writing/professional/timeloopsminit.html">Time Loops and Escapism in Minit</a></li>
+          <!-- <li><a href="./writing/professional/timeloopsminit.html">Time Loops and Escapism in Minit</a></li>
           <li><a href="./writing/professional/moralityin10cloverfield.html">Morality in 10 Cloverfield Lane</a></li>
           <li><a href="./writing/professional/velvetbuzzsaw.html">Velvet Buzzsaw Review & Analysis</a></li>
           <li><a href="./writing/professional/comeandseereview.html">Come and See Review & Analysis</a></li>
           <li><a href="./writing/professional/20230131.html">A BIPOC perspective of the 2022 CCRPC ECOS Report</a></li>
           <li><a href="./writing/professional/20230228.html">A Vermonter’s Political Power</a></li>
           <li><a href="./writing/professional/20230531.html">Contemporary BIPOC Representation in Media</a></li>
-          <!-- <li><a href="./writing/professional/20230731.html">The Job Hunter’s AI</a></li> -->
-          <li><a href="./writing/professional/20231031.html">The Realities of Health Inequity in Vermont</a></li>
-        </ul>
+          <!--<li><a href="./writing/professional/20230731.html">The Job Hunter’s AI</a></li> -->
+          <!-- <li><a href="./writing/professional/20231031.html">The Realities of Health Inequity in Vermont</a></li>
+        </ul> -->
       <!--<h3>Canned Fish Reviews</h3>
         <ul>
           <li><a href="./writing/fish/PATH.html">Fishwife Albacore Tuna in Spicy Olive Oil</a></li>
@@ -211,7 +211,7 @@ Last updated 1/14/2026.<br>
           <li><a href="./writing/fish/PATH.html">Nazarena Spicy Sardine Pate</a></li>
           <li><a href="./writing/fish/PATH.html">Acor Spice Tuna in Olive Oil</a></li>
         </ul>
-        -->
+        --> 
     </section>
     <section id="four" class="hidden">
     <h2>Games</h2>                
