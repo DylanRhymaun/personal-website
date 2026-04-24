@@ -14,7 +14,7 @@ Last updated 4/23/2026.<br>
   <option value="">Select a section</option>
   <option value="one">3D</option>
   <option value="two">Photography</option>
-  <option value="three">Words</option>
+  <!--<option value="three">Words</option>-->
   <option value="four">Games</option>
 </select>
 {% endraw %}
