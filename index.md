@@ -212,7 +212,6 @@ Last updated 4/23/2026.<br>
           <li><a href="./writing/fish/PATH.html">Acor Spice Tuna in Olive Oil</a></li>
         </ul>
         --> 
-    </section>
     <section id="four" class="hidden">
     <h2>Games</h2>                
       <h3>Galactix</h3>
