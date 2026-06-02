@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+
+<style>
+  @media (max-width: 1100px) {
+  .wrapper {
+  width: 90%;
+  }
+  }
+
+  @media (max-width: 1100px) {
+  main ul,
+  main ol, 
+  li {
+  margin-left:1em
+  }
+}
+</style>
+
 <br>
 <br>
 <!-- Dropdown -->
