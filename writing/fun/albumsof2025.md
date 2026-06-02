@@ -3,6 +3,16 @@ layout: default
 title: "My top 120 Albums of 2025"
 custom_css: albumsof2025.css
 ---
+
+<style>
+@media (max-width: 1100px) {
+  .wrapper {
+  width:35%;
+  text-align: justify;
+  }
+}
+</style>
+
 <br>
 # The 120 Albums and EPs I Listened to in 2025
 <br>
