@@ -8168,4 +8168,4 @@ Perfectly mixed, infectious energy, lyrics that will make you rage and cry - it 
   <li>1. Ellie Rowsell (Wolf Alice)</li>
 </ul>
 <br>
-  <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank">Check out my top 20 albums of 2024!</a>
+  <a href="https://www.dylanrhymaun.com/writing/fun/albumsof2024.html" target="_blank" style="text-decoration: underline;">Check out my top albums of 2024!</a>
