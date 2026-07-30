@@ -252,7 +252,6 @@ Last updated 7/30/2026.<br>
           <li><a href="./writing/fish/PATH.html">Nazarena Spicy Sardine Pate</a></li>
           <li><a href="./writing/fish/PATH.html">Acor Spice Tuna in Olive Oil</a></li>
         </ul> -->
-        
     <section id="four" class="hidden">
     <h2>Games</h2>                
       <h3>Galactix</h3>
