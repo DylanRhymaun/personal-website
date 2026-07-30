@@ -71,10 +71,15 @@ h1, h2, h3, nav, img {
 
 }
 
-/* Index Dropdown Styling - defunct*/
+/* Index Dropdown Styling */
 .hidden {
   display: none;
 }
+
+#dropdown-sections section.hidden:target {
+  display: block;
+}
+
 #menu {
     display: block;      
   appearance: none;            

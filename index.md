@@ -52,16 +52,16 @@ Last updated 7/15/2026.<br>
 
 {% raw %}
 <div class="section-icons">
-    <a href="#" class="section-toggle" data-section="one" data-tooltip="3D">
+    <a href="#one" data-tooltip="3D">
         <i class="fa-solid fa-cube"></i>
     </a>
-    <a href="#" class="section-toggle" data-section="two" data-tooltip="Photography">
+    <a href="#two" data-tooltip="Photography">
         <i class="fa-solid fa-camera"></i>
     </a>
-    <a href="#" class="section-toggle" data-section="three" data-tooltip="Words">
+    <a href="#three" data-tooltip="Words">
         <i class="fa-solid fa-pen-nib"></i>
     </a>
-    <a href="#" class="section-toggle" data-section="four" data-tooltip="Games">
+    <a href="#four" data-tooltip="Games">
         <i class="fa-solid fa-gamepad"></i>
     </a>
 </div>
@@ -273,24 +273,5 @@ Last updated 7/15/2026.<br>
     </section>
 </div>
 
-<script>
-  const toggles = document.querySelectorAll('.section-toggle');
-const sections = document.querySelectorAll('#dropdown-sections section');
 
-toggles.forEach(toggle => {
-  toggle.addEventListener('click', function(e) {
-    e.preventDefault();
-    const targetId = this.dataset.section;
-    const isActive = this.classList.contains('active');
-
-    sections.forEach(s => s.classList.add('hidden'));
-    toggles.forEach(t => t.classList.remove('active'));
-
-    if (!isActive) {
-      document.getElementById(targetId).classList.remove('hidden');
-      this.classList.add('active');
-    }
-  });
-});
-</script>
 
