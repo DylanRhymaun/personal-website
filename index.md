@@ -44,20 +44,27 @@ body {
 </style>
 <br>
 <br>
-<!-- Dropdown -->
+
 <a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
 <a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
 Last updated 7/15/2026.<br>
 &copy; Dylan Rhymaun MMXXVI<br>
 
 {% raw %}
-<select id="menu">
-  <option value="">Select a section</option>
-  <option value="one">3D</option>
-  <option value="two">Photography</option>
-  <!--<option value="three">Words</option>-->
-  <option value="four">Games</option>
-</select>
+<div class="section-icons">
+    <a href="#" class="section-toggle" data-section="one" data-tooltip="3D">
+        <i class="fa-solid fa-cube"></i>
+    </a>
+    <a href="#" class="section-toggle" data-section="two" data-tooltip="Photography">
+        <i class="fa-solid fa-camera"></i>
+    </a>
+    <a href="#" class="section-toggle" data-section="three" data-tooltip="Words">
+        <i class="fa-solid fa-pen-nib"></i>
+    </a>
+    <a href="#" class="section-toggle" data-section="four" data-tooltip="Games">
+        <i class="fa-solid fa-gamepad"></i>
+    </a>
+</div>
 {% endraw %}
 
 <div id="dropdown-sections">
@@ -264,6 +271,28 @@ Last updated 7/15/2026.<br>
       <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
     </section>
+
+<script>
+  const toggles = document.querySelectorAll('.section-toggle');
+const sections = document.querySelectorAll('#dropdown-sections section');
+
+toggles.forEach(toggle => {
+  toggle.addEventListener('click', function(e) {
+    e.preventDefault();
+    const targetId = this.dataset.section;
+    const isActive = this.classList.contains('active');
+
+    sections.forEach(s => s.classList.add('hidden'));
+    toggles.forEach(t => t.classList.remove('active'));
+
+    if (!isActive) {
+      document.getElementById(targetId).classList.remove('hidden');
+      this.classList.add('active');
+    }
+  });
+});
+</script>
+
     <!--<section id="five" class="hidden">
         <h2>EDLI 6720 - Managing School Library Media Centers Portfolio / Personal Learning Network</h2>
           <p>Standards Addressed: VT #61: 3.2.4, 3.3.2, 4.1.1, 4.1.2, 4.2.1, 4.2.2, 4.2.3, 4.3.1. || VT CTS: #4-5, 9 || AASL:  3.3, 5.1</p>
