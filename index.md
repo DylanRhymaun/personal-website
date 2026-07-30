@@ -43,7 +43,7 @@ body {
 }
 </style>
 {% raw %}
-<div class="section-icons">
+<div class="social-icons">
     <a href="#one" data-tooltip="3D">
         <i class="fa-solid fa-cube"></i>
     </a>
