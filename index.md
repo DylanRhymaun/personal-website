@@ -50,6 +50,9 @@ body {
     <a href="#four" data-tooltip="Games">
         <i class="fa-solid fa-gamepad"></i>
     </a>
+    <a href="#five" data-tooltip="Fish">
+        <i class="fa-regular fa-fish"></i>
+    </a>
 </div>
 {% endraw %}
 
@@ -210,8 +213,23 @@ Last updated 7/30/2026.<br>
           <!--<li><a href="./writing/professional/20230731.html">The Job Hunter’s AI</a></li> -->
           <li><a href="./writing/professional/20231031.html">The Realities of Health Inequity in Vermont</a></li>
         </ul> 
-      <!--<h3>Canned Fish Reviews</h3>
-        <ul>
+    </section>
+    <section id="four" class="hidden">
+    <br>
+    <h2>Games</h2>                
+      <h3>Galactix</h3>
+      <img alt="Galactix screenshot (top down 4X tower defense)" src="assets/img/galactix.png">
+      <br><a href="https://crispy-chicken.itch.io/galactix">Link to Itch.io Page</a>
+      <p>I was really excited to get back into Game making for the 2024 GMTK jam, but my contributions were smaller than I hoped this year. I assembled a team of 7 this time, making it clear that I focused on 3D art, but the team took a turn and opted for a 2D game. I made the UI, title screen, player, enemy, and machine sprites, but the really impressive pixel art was done by a pixel artist I asked to join last minute. Lessons for next time I guess.</p>
+      <h3>Space Ops</h3>
+      <img alt="Run Cycle" src="assets/img/spaceops-running.gif">
+      <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
+      <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
+    </section>
+    <section id="five" class="hidden">
+    <br>
+    <h2>[Page Under construction] Tinned Fish Reviews</h2>                
+         <ul>
           <li><a href="./writing/fish/PATH.html">Fishwife Albacore Tuna in Spicy Olive Oil</a></li>
           <li><a href="./writing/fish/PATH.html">Fishwife Smoked Salmon</a></li>
           <li><a href="./writing/fish/PATH.html">Fishwife Smoked Salmon with Sichuian Chili Crisp</a></li>
@@ -254,20 +272,9 @@ Last updated 7/30/2026.<br>
           <li><a href="./writing/fish/PATH.html">Nuri Mackerel / Seed to Surf Celery Root "Whitefish"</a></li>
           <li><a href="./writing/fish/PATH.html">Nazarena Spicy Sardine Pate</a></li>
           <li><a href="./writing/fish/PATH.html">Acor Spice Tuna in Olive Oil</a></li>
-        </ul> -->
+        </ul> 
     </section>
-    <section id="four" class="hidden">
-    <br>
-    <h2>Games</h2>                
-      <h3>Galactix</h3>
-      <img alt="Galactix screenshot (top down 4X tower defense)" src="assets/img/galactix.png">
-      <br><a href="https://crispy-chicken.itch.io/galactix">Link to Itch.io Page</a>
-      <p>I was really excited to get back into Game making for the 2024 GMTK jam, but my contributions were smaller than I hoped this year. I assembled a team of 7 this time, making it clear that I focused on 3D art, but the team took a turn and opted for a 2D game. I made the UI, title screen, player, enemy, and machine sprites, but the really impressive pixel art was done by a pixel artist I asked to join last minute. Lessons for next time I guess.</p>
-      <h3>Space Ops</h3>
-      <img alt="Run Cycle" src="assets/img/spaceops-running.gif">
-      <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
-      <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
-    </section>
+
 </div>
 
 
