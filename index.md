@@ -230,6 +230,7 @@ Last updated 7/30/2026.<br>
     <br>
     <h2>[Page Under construction] Tinned Fish Reviews</h2>                
          <ul>
+          <li><a href="./writing/fish/PATH.html">Geisha Sardines in Sunflower Oil</a></li>
           <li><a href="./writing/fish/PATH.html">Fishwife Albacore Tuna in Spicy Olive Oil</a></li>
           <li><a href="./writing/fish/PATH.html">Fishwife Smoked Salmon</a></li>
           <li><a href="./writing/fish/PATH.html">Fishwife Smoked Salmon with Sichuian Chili Crisp</a></li>
