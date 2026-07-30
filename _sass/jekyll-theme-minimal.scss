@@ -99,16 +99,6 @@ h1, h2, h3, nav, img {
   width: 59%;
 }
 
-/* Section icon styling*/
-.section-icons {
-  display: flex;
-  gap: 1rem; /* match your .social-icons gap */
-}
-
-.section-icons a.active i {
-  color: #ff6600; /* pick a color that fits your palette */
-}
-
 /* Hover + focus states */
 #menu:hover,
 #menu:focus {

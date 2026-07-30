@@ -42,14 +42,6 @@ body {
   }
 }
 </style>
-<br>
-<br>
-
-<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
-<a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
-Last updated 7/30/2026.<br>
-&copy; Dylan Rhymaun MMXXVI<br>
-
 {% raw %}
 <div class="section-icons">
     <a href="#one" data-tooltip="3D">
@@ -66,6 +58,13 @@ Last updated 7/30/2026.<br>
     </a>
 </div>
 {% endraw %}
+
+<br>
+
+<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
+<a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
+Last updated 7/30/2026.<br>
+&copy; Dylan Rhymaun MMXXVI<br>
 
 <div id="dropdown-sections">
     <section id="one" class="hidden">
