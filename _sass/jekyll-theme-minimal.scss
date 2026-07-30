@@ -56,19 +56,18 @@ h1, h2, h3, nav, img {
 
 /* Social Icons */
 .social-icons {
-    margin-top: 20px;
-    display: flex;
-    flex-wrap: wrap; /* This line allows wrapping */
-    align-items: center;
-    justify-content: center;
-    padding: 0;    
-    gap: 10px; 
+  margin-top:10px;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:center;
+  padding:0;
+  gap:9px
 }
 .social-icons a {
-    color: black;
-    font-size: 2rem;
-    text-decoration: none;
-
+  color:black;
+  font-size:1.8rem;
+  text-decoration:none
 }
 
 /* Index Dropdown Styling */
