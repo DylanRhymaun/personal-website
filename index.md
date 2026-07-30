@@ -62,6 +62,7 @@ Last updated 7/30/2026.<br>
 
 <div id="dropdown-sections">
     <section id="one" class="hidden">
+    <br>
     <h2>3D and Doodles</h2>
     <img  alt="A BMW E30" src="assets/img/1.gif">
         <img alt="A Nissan Skyline with a rocket on its roof" src="assets/img/2.gif">
@@ -94,6 +95,7 @@ Last updated 7/30/2026.<br>
         <img alt="An animation of a mock space combat game" src="assets/img/35.gif">
     </section>
     <section id="two" class="hidden">
+      <br>
       <h2>Photography</h2>
         <img alt="Description" src="assets/img/turkiye2025/DSC09409.jpg">
         <img alt="Description" src="assets/img/turkiye2025/DSC09410.jpg">
@@ -182,6 +184,7 @@ Last updated 7/30/2026.<br>
         <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="assets/img/46.jpg">
     </section>
     <section id="three" class="hidden">
+      <br>
       <h2>Words</h2>
       <h3>Blog</h3>
         <ul>
@@ -252,7 +255,9 @@ Last updated 7/30/2026.<br>
           <li><a href="./writing/fish/PATH.html">Nazarena Spicy Sardine Pate</a></li>
           <li><a href="./writing/fish/PATH.html">Acor Spice Tuna in Olive Oil</a></li>
         </ul> -->
+    </section>
     <section id="four" class="hidden">
+    <br>
     <h2>Games</h2>                
       <h3>Galactix</h3>
       <img alt="Galactix screenshot (top down 4X tower defense)" src="assets/img/galactix.png">
