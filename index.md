@@ -192,7 +192,7 @@ Last updated 7/30/2026.<br>
       <h3>Blog</h3>
         <ul>
           <!--<li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>-->
-          <!--<li><a href="./writing/fun/albumsof2025.html">Rating every album and EP I listened to in 2025</a></li>-->     
+          <li><a href="./writing/fun/albumsof2025.html">Rating every album and EP I listened to in 2025</a></li>   
           <li><a href="./writing/fun/albumsof2024.html">My 20 Favorite Albums of 2024</a></li>
           <li><a href="./writing/fun/songsof2024.html">My 20 favorite songs of 2024</a></li>
           <li><a href="./writing/fun/othermusicof2024.html">Other Music I listened to in 2024</a></li>
