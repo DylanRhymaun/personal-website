@@ -51,7 +51,7 @@ body {
         <i class="fa-solid fa-gamepad"></i>
     </a>
     <a href="#five" data-tooltip="Fish">
-        <i class="fa-regular fa-fish"></i>
+        <i class="fa-solid fa-fish"></i>
     </a>
 </div>
 {% endraw %}
