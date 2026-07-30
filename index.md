@@ -9,32 +9,25 @@ body {
   display: block !important; /* Turns off the layout-breaking body flex */
   touch-action: manipulation !important; /* Disables accidental double-tap zooming */
 }
-
 /* Center the wrapper (replaces the body flex centering) */
 .wrapper {
   margin: 0 auto !important; 
 }
-
 /* --- MOBILE SPECIFIC FIXES --- */
-
-@media (max-width: 1100px) {
-  
+@media (max-width: 1100px) { 
   /* 2. "Zoom out" by ~25% safely */
   body {
     font-size: 1.15em !important; /* Reduced from the global 1.5em */
   }
-
   /* 3. Keep wrapper margins at 90% */
   .wrapper {
     width: 90% !important;
   }
-
   main ul,
   main ol, 
   li {
     margin-left: 1em !important;
   }
-  
   /* 4. Fix touch-targets on the album cards */
   .album-card {
     transform: none !important; /* Removes the 0.9 scale which can glitch mobile hitboxes */
@@ -42,6 +35,7 @@ body {
   }
 }
 </style>
+
 {% raw %}
 <div class="social-icons">
     <a href="#one" data-tooltip="3D">
