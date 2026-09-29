@@ -58,10 +58,10 @@ body {
 
 <br>
 
-<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>
-<a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> 
-Last updated 7/30/2026.<br>
-&copy; Dylan Rhymaun MMXXVI<br>
+<!--<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>-->
+<!--<a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> -->
+<!--Last updated 7/30/2026.<br>-->
+<p style="align: center;">&copy; Dylan Rhymaun MMXXVI<br></p>
 
 <div id="dropdown-sections">
     <section id="one" class="hidden">
