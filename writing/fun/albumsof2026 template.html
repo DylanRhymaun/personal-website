@@ -1,0 +1,112 @@
+<article class="card">
+  <img class="card-img" src="pool.jpg" alt="Pool at Casa Oliva">
+
+  <div class="card-body">
+    <ul class="tags">
+      <li>Portugal</li>
+      <li>Coastal</li>
+      <li>Boutique</li>
+      <li>Private</li>
+      <li>Serene</li>
+    </ul>
+
+    <dl class="scores">
+      <div><dt>Stay</dt><dd>9.4</dd></div>
+      <div><dt>Design</dt><dd>9.1</dd></div>
+      <div><dt>Comfort</dt><dd>8.8</dd></div>
+      <div><dt>Service</dt><dd>9.6</dd></div>
+      <div><dt>Dining</dt><dd>9.2</dd></div>
+      <div><dt>Setting</dt><dd>8.9</dd></div>
+      <div><dt>Value</dt><dd>9.5</dd></div>
+      <div><dt>Overall</dt><dd>9.3</dd></div>
+    </dl>
+
+    <blockquote class="quote">“Some places invite you to slow down before you even arrive.”</blockquote>
+
+    <p class="blurb">Tucked between the hills and the sea, Casa Oliva is a quiet escape shaped by warm light, thoughtful details, and the easy rhythm of coastal living. Come for the views, stay for the feeling of having nowhere else to be.</p>
+  </div>
+</article>
+
+<style>
+  :root {
+    --bg: #fbfaf7;
+    --ink: #1f3a2e;
+    --muted: #5b5f5c;
+    --line: #dcdad4;
+    --serif: Georgia, "Times New Roman", serif;
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+    background: var(--bg);
+    color: var(--ink);
+    border: 1px solid var(--line);
+    overflow: hidden;
+  }
+
+  .card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .card-body {
+    padding: 3rem 3rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  /* Shared divider look */
+  .tags, .scores, .quote {
+    margin: 0;
+    padding: 0 0 1.5rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    list-style: none;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+
+  .scores {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+  .scores dt {
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .scores dd {
+    margin: 0.25rem 0 0;
+    font: 1.6rem var(--serif);
+  }
+
+  .quote {
+    font: italic 1.8rem/1.3 var(--serif);
+  }
+
+  .blurb {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.8;
+    max-width: 48ch;
+  }
+
+  /* Stack on small screens */
+  @media (max-width: 700px) {
+    .card { grid-template-columns: 1fr; }
+    .card-img { height: 240px; }
+    .card-body { padding: 1.5rem; }
+  }
+</style>
