@@ -61,7 +61,8 @@ body {
 <!--<a style="text-decoration: underline;" href="https://www.pcrf.net/">Link to: Palestine Children's Relief Fund.</a><br>-->
 <!--<a style="text-decoration: underline;" href="./writing/fun/albumsof2025.html">Link to: My Favorite Music of 2025</a><br> -->
 <!--Last updated 7/30/2026.<br>-->
-<p style="color: #c4c4c4;">&copy; Dylan Rhymaun MMXXVI<br></p>
+<p style="color: #c4c4c4;">This is a site to display art and writing I care about while practicing web design.<br></p>
+<p style="color: #c4c4c4;">&copy; Dylan Rhymaun MMXXVI or whatever.<br></p>
 
 <div id="dropdown-sections">
     <section id="one" class="hidden">
