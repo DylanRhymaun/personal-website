@@ -39,7 +39,7 @@ body {
 {% raw %}
 <div class="social-icons">
     <a href="#one" data-tooltip="3D">
-        <i class="fa-paint-brush "></i>
+        <i class="fa-solid fa-paintbrush"></i>
     </a>
     <a href="#two" data-tooltip="Photography">
         <i class="fa-solid fa-camera"></i>
@@ -250,7 +250,7 @@ body {
         <img src="assets/img/wood/IMG_7648.jpg">
       <h3>Custom fit shelving</h3>
         <img src="assets/img/wood/IMG_7636.jpg">
-      </seciton>
+      </section>
     <h2>[Page Under construction] Tinned Fish Reviews</h2>                
          <ul>
           <li><a href="./writing/fish/PATH.html">Geisha Sardines in Sunflower Oil</a></li>
