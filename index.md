@@ -239,7 +239,18 @@ body {
     <h2>Woodworking Projects</h2>
     </section>
     <section id="six" class="hidden">
-    <br>
+      <br>
+      <h3>Georgia and Brian's Library</h3>
+        <img src="assets/img/wood/IMG_7687.jpg">
+        <img src="assets/img/wood/IMG_7680.jpg">
+      <h3>Doors with inlaid glass</h3>
+        <img src="assets/img/wood/IMG_7696.jpg">
+      <h3>Cutting Boards</h3>
+        <img src="assets/img/wood/DSC08434.jpg">
+        <img src="assets/img/wood/IMG_7648.jpg">
+      <h3>Custom fit shelving</h3>
+        <img src="assets/img/wood/IMG_7636.jpg">
+      </seciton>
     <h2>[Page Under construction] Tinned Fish Reviews</h2>                
          <ul>
           <li><a href="./writing/fish/PATH.html">Geisha Sardines in Sunflower Oil</a></li>
