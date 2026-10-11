@@ -237,8 +237,6 @@ body {
     <section id="five" class="hidden">
     <br>
     <h2>Woodworking Projects</h2>
-    </section>
-    <section id="six" class="hidden">
       <br>
       <h3>Georgia and Brian's Library</h3>
         <img src="assets/img/wood/IMG_7687.jpg">
@@ -250,8 +248,9 @@ body {
         <img src="assets/img/wood/IMG_7648.jpg">
       <h3>Custom fit shelving</h3>
         <img src="assets/img/wood/IMG_7636.jpg">
-      </section>
-    <h2>[Page Under construction] Tinned Fish Reviews</h2>                
+    </section>
+    <section id="six" class="hidden">
+      <h2>[Page Under construction] Tinned Fish Reviews</h2>                
          <ul>
           <li><a href="./writing/fish/PATH.html">Geisha Sardines in Sunflower Oil</a></li>
           <li><a href="./writing/fish/PATH.html">Fishwife Albacore Tuna in Spicy Olive Oil</a></li>
@@ -299,7 +298,6 @@ body {
         </ul> 
     </section>
 
-</div>
 
 
 
