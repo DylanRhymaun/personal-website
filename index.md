@@ -39,7 +39,7 @@ body {
 {% raw %}
 <div class="social-icons">
     <a href="#one" data-tooltip="3D">
-        <i class="fa-solid fa-paintbrush"></i>
+        <i class="fa-solid fa-palette"></i>
     </a>
     <a href="#two" data-tooltip="Photography">
         <i class="fa-solid fa-camera"></i>
