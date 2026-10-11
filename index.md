@@ -39,7 +39,7 @@ body {
 {% raw %}
 <div class="social-icons">
     <a href="#one" data-tooltip="3D">
-        <i class="fa-solid fa-cube"></i>
+        <i class="fa-paint-brush "></i>
     </a>
     <a href="#two" data-tooltip="Photography">
         <i class="fa-solid fa-camera"></i>
@@ -50,7 +50,10 @@ body {
     <a href="#four" data-tooltip="Games">
         <i class="fa-solid fa-gamepad"></i>
     </a>
-    <a href="#five" data-tooltip="Fish">
+    <a href="#five" data-tooltip="Wood">
+        <i class="fa-solid fa-screwdriver-wrench"></i>
+    </a>
+    <a href="#six" data-tooltip="Fish">
         <i class="fa-solid fa-fish"></i>
     </a>
 </div>
@@ -232,6 +235,10 @@ body {
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    
     </section>
     <section id="five" class="hidden">
+    <br>
+    <h2>Woodworking Projects</h2>
+    </section>
+    <section id="six" class="hidden">
     <br>
     <h2>[Page Under construction] Tinned Fish Reviews</h2>                
          <ul>
