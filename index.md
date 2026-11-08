@@ -38,24 +38,24 @@ body {
 
 {% raw %}
 <div class="social-icons">
-    <a href="#one" data-tooltip="3D">
+    <a href="#one" data-tooltip="3D" style="text-decoration: underline;">
         3D
     </a>
-    <a href="#two" data-tooltip="Photography">
+    <a href="#two" data-tooltip="Photography" style="text-decoration: underline;">
         Photo
     </a>
-    <a href="#three" data-tooltip="Words">
+    <a href="#three" data-tooltip="Words" style="text-decoration: underline;">
         Writing
     </a>
-    <a href="#four" data-tooltip="Games">
+    <a href="#four" data-tooltip="Games" style="text-decoration: underline;">
         Games
     </a>
-    <a href="#five" data-tooltip="Wood">
+    <a href="#five" data-tooltip="Wood" style="text-decoration: underline;">
         Woodworking
     </a>
-    <a href="#six" data-tooltip="Fish">
+    <!--<a href="#six" data-tooltip="Fish" style="text-decoration: underline;">
         Fish
-    </a>
+    </a>-->
 </div>
 {% endraw %}
 
