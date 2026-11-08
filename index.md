@@ -39,22 +39,22 @@ body {
 {% raw %}
 <div class="social-icons">
     <a href="#one" data-tooltip="3D">
-        <i class="fa-solid fa-palette"></i>
+        3D
     </a>
     <a href="#two" data-tooltip="Photography">
-        <i class="fa-solid fa-camera"></i>
+        Photo
     </a>
     <a href="#three" data-tooltip="Words">
-        <i class="fa-solid fa-pen-nib"></i>
+        Writing
     </a>
     <a href="#four" data-tooltip="Games">
-        <i class="fa-solid fa-gamepad"></i>
+        Games
     </a>
     <a href="#five" data-tooltip="Wood">
-        <i class="fa-solid fa-screwdriver-wrench"></i>
+        Woodworking
     </a>
     <a href="#six" data-tooltip="Fish">
-        <i class="fa-solid fa-fish"></i>
+        Fish
     </a>
 </div>
 {% endraw %}
